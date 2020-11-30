@@ -1,546 +1,394 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="########## Italy ##########" tvg-logo="http://pici.life/IT/italy.png" group-title="Italy",########## Italy ##########
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4400
-#EXTINF:-1 tvg-id="" tvg-name="----- Main & Regional -----" tvg-logo="" group-title="Italy",----- Main & Regional -----
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20500
-#EXTINF:-1 tvg-id="" tvg-name="Rai FHD IT" tvg-logo="" group-title="Italy",Rai FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685385
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1 FHD [H256 50FPS] IT" tvg-logo="" group-title="Italy",Rai 1 FHD [H256 50FPS] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685389
-#EXTINF:-1 tvg-id="raiuno.it" tvg-name="Rai 1 HD IT" tvg-logo="http://pici.life/IT/rai1hd.png" group-title="Italy",Rai 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683328
-#EXTINF:-1 tvg-id="raidue.it" tvg-name="Rai 2 HD IT" tvg-logo="http://pici.life/IT/rai2hd.png" group-title="Italy",Rai 2 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683329
-#EXTINF:-1 tvg-id="raitre.it" tvg-name="Rai 3 HD IT" tvg-logo="http://pici.life/IT/rai3hd.png" group-title="Italy",Rai 3 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683330
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 HD IT" tvg-logo="http://pici.life/IT/rai4hd.png" group-title="Italy",Rai 4 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683331
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 HD IT" tvg-logo="http://pici.life/IT/rai5-hd.png" group-title="Italy",Rai 5 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683333
-#EXTINF:-1 tvg-id="retequattro.it" tvg-name="Rete 4 HD IT" tvg-logo="http://pici.life/IT/rete4hd.png" group-title="Italy",Rete 4 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683334
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD [H256 50FPS] IT" tvg-logo="" group-title="Italy",Italia 1 FHD [H256 50FPS] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685383
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD IT" tvg-logo="" group-title="Italy",Italia 1 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685384
-#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1 HD IT" tvg-logo="http://pici.life/IT/italia1hd.png" group-title="Italy",Italia 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/683335
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 IT" tvg-logo="" group-title="Italy",Italia 1 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644244
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 HD IT" tvg-logo="http://pici.life/IT/la5.png" group-title="Italy",La 5 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4383
-#EXTINF:-1 tvg-id="" tvg-name="La 5 IT" tvg-logo="" group-title="Italy",La 5 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46547
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 HD IT" tvg-logo="" group-title="Italy",LA 7 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46548
-#EXTINF:-1 tvg-id="la7.it" tvg-name="LA 7 HD IT" tvg-logo="http://pici.life/IT/la7.png" group-title="Italy",LA 7 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4382
-#EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7D FHD IT" tvg-logo="http://pici.life/IT/la7d.png" group-title="Italy",LA 7D FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4381
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="TV8 FHD IT" tvg-logo="http://pici.life/IT/tv8.png" group-title="Italy",TV8 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9298
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris HD IT" tvg-logo="http://pici.life/IT/iris.png" group-title="Italy",Iris HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4374
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://pici.life/IT/raiscuola.png" group-title="Italy",Rai Scuola IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4390
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD IT" tvg-logo="" group-title="Italy",Italia 1 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644245
-#EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2 IT" tvg-logo="http://pici.life/IT/Italia2.png" group-title="Italy",Italia 2 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4386
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 IT" tvg-logo="http://pici.life/IT/k2.png" group-title="Italy",K2 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9310
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5 FHD IT" tvg-logo="" group-title="Italy",Canale 5 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644247
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 HD IT" tvg-logo="" group-title="Italy",Canale 5 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/37203
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5 IT" tvg-logo="" group-title="Italy",Canale 5 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644246
-#EXTINF:-1 tvg-id="" tvg-name="Canale 7 IT" tvg-logo="http://pici.life/IT/canale_7.png" group-title="Italy",Canale 7 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13057
-#EXTINF:-1 tvg-id="" tvg-name="Canale 21 HD IT" tvg-logo="http://pici.life/IT/napoli_canale_21.png" group-title="Italy",Canale 21 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13077
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo HD IT" tvg-logo="http://pici.life/IT/cielo.png" group-title="Italy",Cielo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9300
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://pici.life/IT/mediasetextra.png" group-title="Italy",Mediaset Extra IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9317
-#EXTINF:-1 tvg-id="" tvg-name="RSi La 1 HD IT" tvg-logo="http://pici.life/IT/rsila1.png" group-title="Italy",RSi La 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4385
-#EXTINF:-1 tvg-id="" tvg-name="RSi La 2 HD IT" tvg-logo="http://pici.life/IT/rsila2.png" group-title="Italy",RSi La 2 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/438401
-#EXTINF:-1 tvg-id="rainews.it" tvg-name="Rai News 24 HD IT" tvg-logo="http://pici.life/IT/rainews24.png" group-title="Italy",Rai News 24 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9326
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky TG24 HD IT" tvg-logo="http://pici.life/IT/skytg24hd.png" group-title="Italy",Sky TG24 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9323
-#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24 IT" tvg-logo="" group-title="Italy",Tgcom 24 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46557
-#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="TG Norba 24 SD IT" tvg-logo="" group-title="Italy",TG Norba 24 SD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46556
-#EXTINF:-1 tvg-id="" tvg-name="Videolina IT" tvg-logo="http://pici.life/IT/VIDEOLINA.png" group-title="Italy",Videolina IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9316
-#EXTINF:-1 tvg-id="" tvg-name="Mediaset 20 HD IT" tvg-logo="" group-title="Italy",Mediaset 20 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/37945
-#EXTINF:-1 tvg-id="" tvg-name="Rai Nettuno IT" tvg-logo="" group-title="Italy",Rai Nettuno IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644164
-#EXTINF:-1 tvg-id="tv2000.it" tvg-name="TV2000 IT" tvg-logo="http://pici.life/IT/tv2000.png" group-title="Italy",TV2000 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9292
-#EXTINF:-1 tvg-id="" tvg-name="------ Sports ------" tvg-logo="" group-title="Italy",------ Sports ------
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20501
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno FHD IT" tvg-logo="" group-title="Italy",Sky Sport Uno FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685375
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD IT" tvg-logo="" group-title="Italy",Sky Sport Uno HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685376
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno IT" tvg-logo="" group-title="Italy",Sky Sport Uno IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685377
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena FHD IT" tvg-logo="" group-title="Italy",Sky Sport Arena FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685369
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD IT" tvg-logo="" group-title="Italy",Sky Sport Arena HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685370
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena IT" tvg-logo="" group-title="Italy",Sky Sport Arena IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685371
-#EXTINF:-1 tvg-id="" tvg-name="Sky Football FHD IT" tvg-logo="" group-title="Italy",Sky Football FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685367
-#EXTINF:-1 tvg-id="" tvg-name="Sky Football HD IT" tvg-logo="" group-title="Italy",Sky Football HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685368
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 FHD IT" tvg-logo="" group-title="Italy",Sky Sport 24 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685372
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 HD IT" tvg-logo="" group-title="Italy",Sky Sport 24 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685373
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 IT" tvg-logo="" group-title="Italy",Sky Sport 24 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685374
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 IT" tvg-logo="http://pici.life/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4326
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD IT" tvg-logo="" group-title="Italy",Sky Sport F1 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644208
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD IT" tvg-logo="http://pici.life/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13378
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP FHD IT" tvg-logo="" group-title="Italy",Sky Sport MotoGP FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644207
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="http://pici.life/IT/skysportmotogphd.png" group-title="Italy",Sky Sport MotoGP HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13377
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA FHD IT" tvg-logo="" group-title="Italy",Sky Sport NBA FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644209
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA HD IT" tvg-logo="" group-title="Italy",Sky Sport NBA HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46538
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA IT" tvg-logo="http://pici.life/IT/Sky_Sport_Plus.png" group-title="Italy",Sky Sport NBA IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4327
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD IT" tvg-logo="" group-title="Italy",Eurosport 1 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644206
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD IT" tvg-logo="http://pici.life/IT/eurosport1hd.png" group-title="Italy",Eurosport 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13373
-#EXTINF:-1 tvg-id="eurosport.it" tvg-name="Eurosport 1 IT" tvg-logo="http://pici.life/IT/eurosport1.png" group-title="Italy",Eurosport 1 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4321
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD IT" tvg-logo="" group-title="Italy",Eurosport 2 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644205
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD IT" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Italy",Eurosport 2 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13372
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 IT" tvg-logo="http://pici.life/IT/eurosport2.png" group-title="Italy",Eurosport 2 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4320
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia HD IT" tvg-logo="" group-title="Italy",Sport Italia HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685378
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Plus HD IT" tvg-logo="" group-title="Italy",Sport Italia Plus HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685381
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Live 24 HD IT" tvg-logo="" group-title="Italy",Sport Italia Live 24 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685380
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia  Solo Calcio HD IT" tvg-logo="" group-title="Italy",Sport Italia  Solo Calcio HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685379
-#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Motori HD IT" tvg-logo="" group-title="Italy",Sport Italia Motori HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685382
-#EXTINF:-1 tvg-id="Milan Channel IT" tvg-name="Milan Channel FHD IT" tvg-logo="http://pici.life/IT/milanchannel.png" group-title="Italy",Milan Channel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4309
-#EXTINF:-1 tvg-id="interchannel.it" tvg-name="Inter Channel IT" tvg-logo="http://pici.life/IT/interchannel.png" group-title="Italy",Inter Channel IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4310
-#EXTINF:-1 tvg-id="" tvg-name="Roma Channel FHD IT" tvg-logo="http://pici.life/roma.png" group-title="Italy",Roma Channel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9320
-#EXTINF:-1 tvg-id="" tvg-name="Roma Channel HD IT" tvg-logo="" group-title="Italy",Roma Channel HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644188
-#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="Lazio Style HD IT" tvg-logo="http://pici.life/IT/Lazio_style.png" group-title="Italy",Lazio Style HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9319
-#EXTINF:-1 tvg-id="Torino Channel IT" tvg-name="Torino Channel HD IT" tvg-logo="http://pici.life/IT/Torino%20Channel%20HD%20IT.png" group-title="Italy",Torino Channel HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/15178
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="SuperTennis FHD IT" tvg-logo="" group-title="Italy",SuperTennis FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656475
-#EXTINF:-1 tvg-id="SuperTennis IT" tvg-name="Super Tennis HD IT" tvg-logo="http://pici.life/IT/supertennis.png" group-title="Italy",Super Tennis HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4322
-#EXTINF:-1 tvg-id="automototv.it" tvg-name="Automoto TV IT" tvg-logo="http://pici.life/IT/automototv.png" group-title="Italy",Automoto TV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13374
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport HD IT" tvg-logo="http://pici.life/IT/raisport.png" group-title="Italy",Rai Sport HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4394
-#EXTINF:-1 tvg-id="" tvg-name="Rai Sport+ HD IT" tvg-logo="" group-title="Italy",Rai Sport+ HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644204
-#EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24 IT" tvg-logo="" group-title="Italy",Top Calcio 24 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46572
-#EXTINF:-1 tvg-id="" tvg-name="Uniresat HD IT" tvg-logo="" group-title="Italy",Uniresat HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46558
-#EXTINF:-1 tvg-id="" tvg-name="Inter Channel FHD IT" tvg-logo="" group-title="Italy",Inter Channel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644187
-#EXTINF:-1 tvg-id="" tvg-name="----- Movies & Series -----" tvg-logo="" group-title="Italy",----- Movies & Series -----
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20504
-#EXTINF:-1 tvg-id="" tvg-name="Sky Uno FHD [H256] IT" tvg-logo="" group-title="Italy",Sky Uno FHD [H256] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685366
-#EXTINF:-1 tvg-id="" tvg-name="Sky Uno FHD IT" tvg-logo="" group-title="Italy",Sky Uno FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644243
-#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD IT" tvg-logo="" group-title="Italy",Sky Uno HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685364
-#EXTINF:-1 tvg-id="" tvg-name="Fox FHD [H265] IT" tvg-logo="" group-title="Italy",Fox FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685469
-#EXTINF:-1 tvg-id="" tvg-name="Fox FHD IT" tvg-logo="" group-title="Italy",Fox FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644241
-#EXTINF:-1 tvg-id="fox.it" tvg-name="Fox HD IT" tvg-logo="http://pici.life/IT/foxhd.png" group-title="Italy",Fox HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4342
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime FHD [H265] IT" tvg-logo="" group-title="Italy",Fox Crime FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685468
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime FHD IT" tvg-logo="" group-title="Italy",Fox Crime FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644239
-#EXTINF:-1 tvg-id="foxcrime.it" tvg-name="Fox Crime HD IT" tvg-logo="http://pici.life/IT/foxcrimehd.png" group-title="Italy",Fox Crime HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4340
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime IT" tvg-logo="http://pici.life/IT/topcrime.png" group-title="Italy",Top Crime IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4380
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium HD IT" tvg-logo="http://pici.life/IT/raipremiumhd.png" group-title="Italy",Rai Premium HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4393
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie FHD IT" tvg-logo="http://pici.life/IT/raimovie.png" group-title="Italy",Rai Movie FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4392
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central HD IT" tvg-logo="http://pici.life/comedycentral_2.png" group-title="Italy",Comedy Central HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4336
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family HD IT" tvg-logo="http://pici.life/IT/skycinemafamilyhd.png" group-title="Italy",Sky Cinema Family HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4372
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema uno FHD IT" tvg-logo="http://pici.life/IT/skycinema1hd-phibruspel.png" group-title="Italy",Sky Cinema uno FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4376
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno +24 FHD IT" tvg-logo="http://pici.life/IT/skycinema24hdit.png" group-title="Italy",Sky Cinema Uno +24 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4375
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 HD IT" tvg-name="Sky Cinema Uno +24 HD IT" tvg-logo="" group-title="Italy",Sky Cinema Uno +24 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46541
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy HD IT" tvg-logo="http://pici.life/IT/skycinemacomedyhd.png" group-title="Italy",Sky Cinema Comedy HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4368
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Action FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644224
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD IT" tvg-logo="" group-title="Italy",Sky Cinema Action HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644223
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Collection FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644229
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD IT" tvg-logo="" group-title="Italy",Sky Cinema Collection HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644228
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Comedy FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644222
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Drama FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644219
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD IT" tvg-logo="" group-title="Italy",Sky Cinema Drama HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644218
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Due FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644231
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due HD IT" tvg-logo="" group-title="Italy",Sky Cinema Due HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644230
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Family FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644225
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance FHD [H265] IT" tvg-logo="" group-title="Italy",Sky Cinema Romance FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685466
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Romance FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644221
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD IT" tvg-logo="" group-title="Italy",Sky Cinema Romance HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644220
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense FHD [H265] IT" tvg-logo="" group-title="Italy",Sky Cinema Suspense FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685467
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense HD IT" tvg-logo="" group-title="Italy",Sky Cinema Suspense HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644227
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense IT" tvg-logo="" group-title="Italy",Sky Cinema Suspense IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644226
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +24 FHD IT" tvg-logo="" group-title="Italy",Sky Cinema Due +24 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656473
-#EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="Premium Cinema 1 FHD IT" tvg-logo="https://it.wikipedia.org/wiki/Premium_Cinema#/media/File:PremiumCinema1.png" group-title="Italy",Premium Cinema 1 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644217
-#EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="Premium Cinema 1 HD IT" tvg-logo="https://it.wikipedia.org/wiki/Premium_Cinema#/media/File:PremiumCinema1.png" group-title="Italy",Premium Cinema 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4361
-#EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 2 FHD IT" tvg-logo="" group-title="Italy",Premium Cinema 2 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644215
-#EXTINF:-1 tvg-id="Premium Cinema Emotion IT" tvg-name="Premium Cinema 2 HD IT" tvg-logo="https://it.wikipedia.org/wiki/Premium_Cinema#/media/File:PremiumCinema2.png" group-title="Italy",Premium Cinema 2 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4356
-#EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 3 FHD IT" tvg-logo="https://it.wikipedia.org/wiki/Premium_Cinema#/media/File:PremiumCinema3.png" group-title="Italy",Premium Cinema 3 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644216
-#EXTINF:-1 tvg-id="premiumcinemaenergy.it" tvg-name="Premium Cinema 3 HD IT" tvg-logo="https://it.wikipedia.org/wiki/Premium_Cinema#/media/File:PremiumCinema3.png" group-title="Italy",Premium Cinema 3 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4357
-#EXTINF:-1 tvg-id="" tvg-name="Premium Crime FHD IT" tvg-logo="http://pici.life/IT/premiumcrime24it.png" group-title="Italy",Premium Crime FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9318
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime IT" tvg-logo="http://pici.life/IT/premiumcrimehdit.png" group-title="Italy",Premium Crime IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4350
-#EXTINF:-1 tvg-id="Premium Action Plus24 IT" tvg-name="Premium Action FHD IT" tvg-logo="http://pici.life/IT/premiumaction24it.png" group-title="Italy",Premium Action FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4351
-#EXTINF:-1 tvg-id="premiumaction.it" tvg-name="Premium Action HD IT" tvg-logo="http://pici.life/IT/premiumactionhdit.png" group-title="Italy",Premium Action HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4352
-#EXTINF:-1 tvg-id="premiumstories.it" tvg-name="Premium Stories FHD IT" tvg-logo="" group-title="Italy",Premium Stories FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644214
-#EXTINF:-1 tvg-id="premiumstories.it" tvg-name="Premium Stories IT" tvg-logo="http://pici.life/IT/premiumstoriesit.png" group-title="Italy",Premium Stories IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4346
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Primafila FHD IT" tvg-logo="" group-title="Italy",Vetrina Primafila FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685386
-#EXTINF:-1 tvg-id="primafila1.it" tvg-name="Sky Primafila 1 HD IT" tvg-logo="http://pici.life/primafila1hd_2.png" group-title="Italy",Sky Primafila 1 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9348
-#EXTINF:-1 tvg-id="primafila2.it" tvg-name="Sky Primafila 2 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 2 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9347
-#EXTINF:-1 tvg-id="primafila3.it" tvg-name="Sky Primafila 3 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 3 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9346
-#EXTINF:-1 tvg-id="primafila4.it" tvg-name="Sky Primafila 4 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 4 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9345
-#EXTINF:-1 tvg-id="primafila5.it" tvg-name="Sky Primafila 5 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 5 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9344
-#EXTINF:-1 tvg-id="primafila6.it" tvg-name="Sky Primafila 6 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 6 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9343
-#EXTINF:-1 tvg-id="primafila7.it" tvg-name="Sky Primafila 7 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 7 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9342
-#EXTINF:-1 tvg-id="primafila8.it" tvg-name="Sky Primafila 8 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 8 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9341
-#EXTINF:-1 tvg-id="primafila9.it" tvg-name="Sky Primafila 9 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 9 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9340
-#EXTINF:-1 tvg-id="primafila10.it" tvg-name="Sky Primafila 10 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 10 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9339
-#EXTINF:-1 tvg-id="primafila11.it" tvg-name="Sky Primafila 11 FHD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 11 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9338
-#EXTINF:-1 tvg-id="primafila12.it" tvg-name="Sky Primafila 12 FHD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 12 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9337
-#EXTINF:-1 tvg-id="primafila13.it" tvg-name="Sky Primafila 13 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 13 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9336
-#EXTINF:-1 tvg-id="primafila14.it" tvg-name="Sky Primafila 14 HD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 14 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9335
-#EXTINF:-1 tvg-id="primafila15.it" tvg-name="Sky Primafila 15 FHD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 15 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9334
-#EXTINF:-1 tvg-id="primafila16.it" tvg-name="Sky Primafila 16 FHD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 16 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9333
-#EXTINF:-1 tvg-id="primafila17.it" tvg-name="Sky Primafila 17 FHD IT" tvg-logo="http://pici.life/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 17 FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9332
-#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD IT" tvg-logo="" group-title="Italy",Sky Atlantic FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644242
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD IT" tvg-logo="http://pici.life/IT/skyatlantichd.png" group-title="Italy",Sky Atlantic HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4343
-#EXTINF:-1 tvg-id="paramountchannel.it" tvg-name="Paramount HD IT" tvg-logo="http://pici.life/paramountchannel_2.png" group-title="Italy",Paramount HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4353
-#EXTINF:-1 tvg-id="blaze.it" tvg-name="Blaze FHD IT" tvg-logo="" group-title="Italy",Blaze FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46561
-#EXTINF:-1 tvg-id="blaze.it" tvg-name="Blaze HD IT" tvg-logo="" group-title="Italy",Blaze HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46562
-#EXTINF:-1 tvg-id="" tvg-name="Spike IT" tvg-logo="" group-title="Italy",Spike IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46571
-#EXTINF:-1 tvg-id="Nove IT" tvg-name="Nove HD IT" tvg-logo="" group-title="Italy",Nove HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46549
-#EXTINF:-1 tvg-id="" tvg-name="------- Documentary --------" tvg-logo="" group-title="Italy",------- Documentary --------
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20508
-#EXTINF:-1 tvg-id="" tvg-name="Real Time FHD IT" tvg-logo="" group-title="Italy",Real Time FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656464
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time HD IT" tvg-logo="http://pici.life/IT/realtimehd.png" group-title="Italy",Real Time HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4333
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time IT" tvg-logo="http://pici.life/IT/realtimehd.png" group-title="Italy",Real Time IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9295
-#EXTINF:-1 tvg-id="" tvg-name="Dmax FHD IT" tvg-logo="" group-title="Italy",Dmax FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656463
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX HD IT" tvg-logo="http://pici.life/IT/dmax.png" group-title="Italy",DMAX HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9313
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arte FHD IT" tvg-logo="" group-title="Italy",Sky Arte FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644235
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte HD IT" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Italy",Sky Arte HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13063
-#EXTINF:-1 tvg-id="" tvg-name="Gambero Rosso FHD IT" tvg-logo="" group-title="Italy",Gambero Rosso FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644169
-#EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="Gambero Rosso IT" tvg-logo="http://pici.life/IT/gamberorosso.png" group-title="Italy",Gambero Rosso IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9294
-#EXTINF:-1 tvg-id="" tvg-name="Alice IT" tvg-logo="http://pici.life/IT/alice.png" group-title="Italy",Alice IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9301
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation FHD [H265] IT" tvg-logo="" group-title="Italy",Crime & Investigation FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685473
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation FHD IT" tvg-logo="" group-title="Italy",Crime & Investigation FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644236
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD IT" tvg-logo="http://pici.life/crimeandinvest_2.png" group-title="Italy",Crime & Investigation HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13075
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD [H265] IT" tvg-logo="" group-title="Italy",Nat Geo FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685472
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD IT" tvg-logo="" group-title="Italy",Nat Geo FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685426
-#EXTINF:-1 tvg-id="National Geographic IT" tvg-name="Nat Geo HD IT" tvg-logo="" group-title="Italy",Nat Geo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46120
-#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="Nat Geo Wild FHD IT" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Italy",Nat Geo Wild FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4296
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD IT" tvg-logo="" group-title="Italy",Nat Geo Wild HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685428
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD [H265] IT" tvg-logo="" group-title="Italy",Discovery Channel FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685470
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel FHD IT" tvg-logo="http://pici.life/IT/discoverychannelhd.png" group-title="Italy",Discovery Channel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4294
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD IT" tvg-logo="" group-title="Italy",Discovery Channel HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644175
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD [H265] IT" tvg-logo="" group-title="Italy",Discovery Science FHD [H265] IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685471
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD IT" tvg-logo="" group-title="Italy",Discovery Science FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644174
-#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="Discovery Science HD IT" tvg-logo="http://pici.life/IT/discoverysciencehd.png" group-title="Italy",Discovery Science HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13074
-#EXTINF:-1 tvg-id="" tvg-name="History FHD IT" tvg-logo="" group-title="Italy",History FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644172
-#EXTINF:-1 tvg-id="History IT" tvg-name="History HD IT" tvg-logo="http://pici.life/IT/historyhd.png" group-title="Italy",History HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9314
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus IT" tvg-logo="http://pici.life/IT/focus.png" group-title="Italy",Focus IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9299
-#EXTINF:-1 tvg-id="" tvg-name="Italian Fishing IT" tvg-logo="http://pici.life/IT/Italian_fishing.png" group-title="Italy",Italian Fishing IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4379
-#EXTINF:-1 tvg-id="" tvg-name="Caccia e Pesca FHD IT" tvg-logo="" group-title="Italy",Caccia e Pesca FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/642182
-#EXTINF:-1 tvg-id="Pesca e Caccia IT" tvg-name="Pesca HD IT" tvg-logo="http://pici.life/IT/cacciaepesca.png" group-title="Italy",Pesca HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9311
-#EXTINF:-1 tvg-id="" tvg-name="La Effe FHD IT" tvg-logo="" group-title="Italy",La Effe FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46559
-#EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo IT" tvg-logo="http://pici.life/IT/giallo.png" group-title="Italy",Giallo IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4334
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD IT" tvg-logo="" group-title="Italy",Food Network HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46566
-#EXTINF:-1 tvg-id="laeffe.it" tvg-name="La Effe HD IT" tvg-logo="http://pici.life/IT/laeffe-logo.jpg" group-title="Italy",La Effe HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13047
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia HD IT" tvg-logo="http://pici.life/IT/Rai_Storia.png" group-title="Italy",Rai Storia HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/19473
-#EXTINF:-1 tvg-id="" tvg-name="Motor Trend HD IT" tvg-logo="" group-title="Italy",Motor Trend HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46567
-#EXTINF:-1 tvg-id="" tvg-name="------- Children --------" tvg-logo="" group-title="Italy",------- Children --------
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20509
-#EXTINF:-1 tvg-id="" tvg-name="Disney Nature FHD IT" tvg-logo="" group-title="Italy",Disney Nature FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656466
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon HD IT" tvg-logo="" group-title="Italy",Nickelodeon HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46121
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD IT" tvg-logo="" group-title="Italy",Cartoon Network FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656465
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network HD IT" tvg-logo="http://pici.life/IT/cartoonnetwork.png" group-title="Italy",Cartoon Network HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9307
-#EXTINF:-1 tvg-id="boomerang.it" tvg-name="Boomerang HD IT" tvg-logo="" group-title="Italy",Boomerang HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/43706
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="Baby TV IT" tvg-logo="http://pici.life/babytv_2.png" group-title="Italy",Baby TV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9309
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://pici.life/IT/cartoonito.png" group-title="Italy",Cartoonito IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9308
-#EXTINF:-1 tvg-id="frisbee.it" tvg-name="Family Club HD IT" tvg-logo="http://pici.life/IT/frisbee.png" group-title="Italy",Family Club HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13073
-#EXTINF:-1 tvg-id="deajunior.it" tvg-name="Dea Kids HD IT" tvg-logo="http://pici.life/IT/dea_kids.png" group-title="Italy",Dea Kids HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13052
-#EXTINF:-1 tvg-id="" tvg-name="Dea Junior HD IT" tvg-logo="http://pici.life/IT/dea_junior.png" group-title="Italy",Dea Junior HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13053
-#EXTINF:-1 tvg-id="disneyjunior.it" tvg-name="DeA Junior IT" tvg-logo="http://pici.life/IT/disneyjr.png" group-title="Italy",DeA Junior IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9305
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing IT" tvg-logo="http://pici.life/IT/boing.png" group-title="Italy",Boing IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9303
-#EXTINF:-1 tvg-id="" tvg-name="Super! IT" tvg-logo="http://pici.life/IT/super.png" group-title="Italy",Super! IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9302
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://pici.life/IT/raigulp.png" group-title="Italy",Rai Gulp IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/4391
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai YoYo HD IT" tvg-logo="http://pici.life/IT/raiyoyo.png" group-title="Italy",Rai YoYo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13065
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo HD IT" tvg-logo="http://pici.life/IT/raiyoyo.png" group-title="Italy",Rai Yoyo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9325
-#EXTINF:-1 tvg-id="" tvg-name="----- Music -----" tvg-logo="" group-title="Italy",----- Music -----
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/20510
-#EXTINF:-1 tvg-id="mtv.it" tvg-name="MTV FHD IT" tvg-logo="" group-title="Italy",MTV FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46543
-#EXTINF:-1 tvg-id="mtv.it" tvg-name="MTV HD IT" tvg-logo="" group-title="Italy",MTV HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/46544
-#EXTINF:-1 tvg-id="mtvmusic.it" tvg-name="MTV Music IT" tvg-logo="http://pici.life/mtvmusic.png" group-title="Italy",MTV Music IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9297
-#EXTINF:-1 tvg-id="" tvg-name="Classica FHD IT" tvg-logo="" group-title="Italy",Classica FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/656474
-#EXTINF:-1 tvg-id="classica.it" tvg-name="Classica HD IT" tvg-logo="" group-title="Italy",Classica HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/43707
-#EXTINF:-1 tvg-id="" tvg-name="M2oTV SD IT" tvg-logo="http://pici.life/IT/m2o.png" group-title="Italy",M2oTV SD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/13044
-#EXTINF:-1 tvg-id="" tvg-name="Radio Italia TV IT" tvg-logo="" group-title="Italy",Radio Italia TV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/655139
-#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="RTL102.5 TV IT" tvg-logo="http://pici.life/IT/RTL_102.5.png" group-title="Italy",RTL102.5 TV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/9293
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta IT" tvg-logo="" group-title="Italy",Radio Zeta IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685388
-#EXTINF:-1 tvg-id="" tvg-name="Radio 51 IT" tvg-logo="" group-title="Italy",Radio 51 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685387
-#EXTINF:-1 tvg-id="" tvg-name="DeeJayTV IT" tvg-logo="" group-title="Italy",DeeJayTV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/644165
-#EXTINF:-1 tvg-id="" tvg-name="Cine 34 IT" tvg-logo="" group-title="Italy",Cine 34 IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685418
-#EXTINF:-1 tvg-id="" tvg-name="TeleBari IT" tvg-logo="" group-title="Italy",TeleBari IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685419
-#EXTINF:-1 tvg-id="" tvg-name="Antenna Sicilia IT" tvg-logo="" group-title="Italy",Antenna Sicilia IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685420
-#EXTINF:-1 tvg-id="" tvg-name="Giallo HD IT" tvg-logo="" group-title="Italy",Giallo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685421
-#EXTINF:-1 tvg-id="" tvg-name="7 Gold HD IT" tvg-logo="" group-title="Italy",7 Gold HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685422
-#EXTINF:-1 tvg-id="" tvg-name="Sky Classica FHD IT" tvg-logo="" group-title="Italy",Sky Classica FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685423
-#EXTINF:-1 tvg-id="" tvg-name="Sky Classica HD IT" tvg-logo="" group-title="Italy",Sky Classica HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685424
-#EXTINF:-1 tvg-id="" tvg-name="Marcopolo HD IT" tvg-logo="" group-title="Italy",Marcopolo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685425
-#EXTINF:-1 tvg-id="" tvg-name="Cartonito IT" tvg-logo="" group-title="Italy",Cartonito IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685429
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus Pixar FHD IT" tvg-logo="" group-title="Italy",Disney Plus Pixar FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685430
-#EXTINF:-1 tvg-id="" tvg-name="Disney Puls Marvel FHD IT" tvg-logo="" group-title="Italy",Disney Puls Marvel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685431
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus Star Wars FHD IT" tvg-logo="" group-title="Italy",Disney Plus Star Wars FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685432
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio TV IT" tvg-logo="" group-title="Italy",Virgin Radio TV IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685433
-#EXTINF:-1 tvg-id="" tvg-name="RDS HD IT" tvg-logo="" group-title="Italy",RDS HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685434
-#EXTINF:-1 tvg-id="" tvg-name="Radio Capital HD IT" tvg-logo="" group-title="Italy",Radio Capital HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685435
-#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 HD IT" tvg-logo="" group-title="Italy",RTL 102.5 HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685436
-#EXTINF:-1 tvg-id="" tvg-name="Radio Partenopeo HD IT" tvg-logo="" group-title="Italy",Radio Partenopeo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685437
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Collection FHD IT" tvg-logo="" group-title="Italy",Sky Sport Collection FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685438
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Collection HD IT" tvg-logo="" group-title="Italy",Sky Sport Collection HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685439
-#EXTINF:-1 tvg-id="" tvg-name="Uniresat FHD IT" tvg-logo="" group-title="Italy",Uniresat FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685440
-#EXTINF:-1 tvg-id="" tvg-name="Uniresat HD IT" tvg-logo="" group-title="Italy",Uniresat HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685441
-#EXTINF:-1 tvg-id="" tvg-name="Ttorino Channel FHD IT" tvg-logo="" group-title="Italy",Ttorino Channel FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685442
-#EXTINF:-1 tvg-id="" tvg-name="Juventus TV FHD IT" tvg-logo="" group-title="Italy",Juventus TV FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685443
-#EXTINF:-1 tvg-id="" tvg-name="Rally Show HD IT" tvg-logo="" group-title="Italy",Rally Show HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685444
-#EXTINF:-1 tvg-id="" tvg-name="Calcio 24 Napoli HD IT" tvg-logo="" group-title="Italy",Calcio 24 Napoli HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685445
-#EXTINF:-1 tvg-id="" tvg-name="WWE Wrestling Live HD IT" tvg-logo="" group-title="Italy",WWE Wrestling Live HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685446
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Aldo Giovanni e Giacomo Channel HD IT" tvg-logo="" group-title="Italy",Eagle Aldo Giovanni e Giacomo Channel HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685447
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema 007 FHD HD IT" tvg-logo="" group-title="Italy",Flux Cinema 007 FHD HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685448
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Animazione FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Animazione FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685449
-#EXTINF:-1 tvg-id="" tvg-name="Flux  Cinema Avventura FHD IT" tvg-logo="" group-title="Italy",Flux  Cinema Avventura FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685450
-#EXTINF:-1 tvg-id="" tvg-name="Flux  Cinema Biografico FHD IT" tvg-logo="" group-title="Italy",Flux  Cinema Biografico FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685451
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Commedia FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Commedia FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685452
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema SCI-FI FHD IT" tvg-logo="" group-title="Italy",Flux Cinema SCI-FI FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685453
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema  Horror FHD IT" tvg-logo="" group-title="Italy",Flux Cinema  Horror FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685454
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Mitologia FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Mitologia FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685455
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Romance FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Romance FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685456
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Thriller FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Thriller FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685457
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Fast & Furious FHD IT" tvg-logo="" group-title="Italy",Flux Cinema Fast & Furious FHD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685458
-#EXTINF:-1 tvg-id="" tvg-name="Flux Cinema Marvel HD IT" tvg-logo="" group-title="Italy",Flux Cinema Marvel HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685459
-#EXTINF:-1 tvg-id="" tvg-name="Lega Pro-Foggia HD IT" tvg-logo="" group-title="Italy",Lega Pro-Foggia HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685460
-#EXTINF:-1 tvg-id="" tvg-name="Ega Pro | Vibones HD IT" tvg-logo="" group-title="Italy",Ega Pro | Vibones HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685461
-#EXTINF:-1 tvg-id="" tvg-name="Lega Pro | Turris HD IT" tvg-logo="" group-title="Italy",Lega Pro | Turris HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685462
-#EXTINF:-1 tvg-id="" tvg-name="Lega Pro | Potenza HD IT" tvg-logo="" group-title="Italy",Lega Pro | Potenza HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685463
-#EXTINF:-1 tvg-id="" tvg-name="Lega Pro | Palermo HD IT" tvg-logo="" group-title="Italy",Lega Pro | Palermo HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685464
-#EXTINF:-1 tvg-id="" tvg-name="Lega Pro | Monopoli HD IT" tvg-logo="" group-title="Italy",Lega Pro | Monopoli HD IT
-http://yeahiptv.vip:8080/maybezaak/43znxg8ydw/685465
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| IRIS" tvg-logo="" group-title="ITALIA",|IT| IRIS
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73827
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 20 FULL HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 20 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73828
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 20 HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 20 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73829
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 5 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73830
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5 HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 5 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73831
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DEEJAY TV HD" tvg-logo="" group-title="ITALIA",|IT| DEEJAY TV HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73832
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| HSE 24 HD" tvg-logo="" group-title="ITALIA",|IT| HSE 24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73833
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| HUSTLER HD" tvg-logo="" group-title="ITALIA",|IT| HUSTLER HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73834
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| ITALIA 1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73835
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1 HD" tvg-logo="" group-title="ITALIA",|IT| ITALIA 1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73836
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA 7 FULL HD" tvg-logo="" group-title="ITALIA",|IT| LA 7 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73837
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA 7d FULL HD" tvg-logo="" group-title="ITALIA",|IT| LA 7d FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73838
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| NOVE FULL HD" tvg-logo="" group-title="ITALIA",|IT| NOVE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73839
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| Rai 1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73840
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 1 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73841
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 2 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73842
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 2 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73843
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 3 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73844
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 3 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73845
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 4 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73846
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 4 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 4 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73847
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 5 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73848
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 5 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 5 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73849
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI GULP FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI GULP FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73850
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI GULP HD" tvg-logo="" group-title="ITALIA",|IT| RAI GULP HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73851
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI MOVIE FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI MOVIE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73852
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI MOVIE HD" tvg-logo="" group-title="ITALIA",|IT| RAI MOVIE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73853
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI NEWS 24 HD" tvg-logo="" group-title="ITALIA",|IT| RAI NEWS 24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73854
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI PREMIUM FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI PREMIUM FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73855
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI PREMIUM HD" tvg-logo="" group-title="ITALIA",|IT| RAI PREMIUM HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73856
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SCUOLA FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI SCUOLA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73857
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SCUOLA HD" tvg-logo="" group-title="ITALIA",|IT| RAI SCUOLA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73858
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SPORT   FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI SPORT   FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73859
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SPORT   HD" tvg-logo="" group-title="ITALIA",|IT| RAI SPORT   HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73860
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI STORIA FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI STORIA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73861
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI STORIA HD" tvg-logo="" group-title="ITALIA",|IT| RAI STORIA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73862
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI YOYO FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI YOYO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73863
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI YOYO HD" tvg-logo="" group-title="ITALIA",|IT| RAI YOYO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73864
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RETE 4 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73865
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4 HD" tvg-logo="" group-title="ITALIA",|IT| RETE 4 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73866
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RTL 102.5 HD" tvg-logo="" group-title="ITALIA",|IT| RTL 102.5 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73867
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ARTE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73868
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE HD" tvg-logo="" group-title="ITALIA",|IT| SKY ARTE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73869
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ATLANTIC FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73870
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC HD" tvg-logo="" group-title="ITALIA",|IT| SKY ATLANTIC HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73871
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BABY TV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BABY TV FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73872
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BIKE CHANNEL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BIKE CHANNEL FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73873
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BIKE CHANNEL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BIKE CHANNEL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73874
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BLAZE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BLAZE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73875
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BLAZE HD" tvg-logo="" group-title="ITALIA",|IT| SKY BLAZE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73876
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BOOMERANG FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BOOMERANG FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73877
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BOOMERANG HD" tvg-logo="" group-title="ITALIA",|IT| SKY BOOMERANG HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73878
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CACCIA E PESCA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CACCIA E PESCA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73879
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73880
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73881
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 2 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73882
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 2 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73883
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 3 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73884
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 3 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 3 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73885
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 4 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73886
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 4 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 4 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73887
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 5 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73888
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 5 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 5 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73889
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 6 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 6 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73890
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 6 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 6 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73891
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 7 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 7 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73892
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 7 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 7 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73893
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CARTOON NETWORK FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CARTOON NETWORK FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73894
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CARTOON NETWORK HD" tvg-logo="" group-title="ITALIA",|IT| SKY CARTOON NETWORK HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73895
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ACTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ACTION FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73896
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ACTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ACTION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73897
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COLLECTION FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73898
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COLLECTION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73899
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COMEDY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73900
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COMEDY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73901
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DRAMA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73902
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DRAMA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73903
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE  24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE  24 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73904
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE  24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE  24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73905
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73906
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73907
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA FAMILY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA FAMILY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73908
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA FAMILY HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA FAMILY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73909
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ROMANCE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73910
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ROMANCE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73911
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA SUSPENSE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73912
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA SUSPENSE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73913
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO  24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO  24 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73914
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO  24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO  24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73915
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73916
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73917
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CLASSICA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CLASSICA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73918
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY COMEDY CENTRAL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY COMEDY CENTRAL FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73919
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CRIME INVESTIGATION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CRIME INVESTIGATION FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73920
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CRIME INVESTIGATION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CRIME INVESTIGATION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73921
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR 2 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73922
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR 2 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73923
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73924
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73925
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA JUNIOR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA JUNIOR FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73926
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA JUNIOR HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA JUNIOR HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73927
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA KIDS FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA KIDS FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73928
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA KIDS HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA KIDS HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73929
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73930
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73931
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY SCI FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY SCI FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73932
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY SCI HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY SCI HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73933
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DMAX FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DMAX FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73934
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73935
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73936
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 2 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73937
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 2 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73938
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOOD NETWORK FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOOD NETWORK FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73939
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX CRIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX CRIME FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73940
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX CRIME HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX CRIME HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73941
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73942
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73943
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY GAMBERO ROSSO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY GAMBERO ROSSO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73944
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY GAMBERO ROSSO HD" tvg-logo="" group-title="ITALIA",|IT| SKY GAMBERO ROSSO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73945
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HISTORY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY HISTORY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73946
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HISTORY HD" tvg-logo="" group-title="ITALIA",|IT| SKY HISTORY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73947
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HORSE TV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY HORSE TV FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73948
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY INTER FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY INTER FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73949
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAEFFE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAEFFE FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73950
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAEFFE HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAEFFE HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73951
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAZIO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAZIO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73952
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MILAN FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MILAN FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73953
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73954
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73955
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV MUSIC FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV MUSIC FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73956
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73957
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73958
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO WILD FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO WILD FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73959
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO WILD HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO WILD HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73960
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICK JR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICK JR FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73961
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICK JR HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICK JR HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73962
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICKELODEON FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICKELODEON FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73963
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICKELODEON HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICKELODEON HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73964
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PASSION HD" tvg-logo="" group-title="ITALIA",|IT| SKY PASSION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73965
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PESCA E CACCIA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PESCA E CACCIA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73966
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM ACTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM ACTION FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73967
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM ACTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM ACTION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73968
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 +24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 +24 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73969
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 +24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 +24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73970
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA COMEDY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA COMEDY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73971
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA COMEDY HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA COMEDY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73972
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 3 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73973
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 3 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 3 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73974
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 2 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73975
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 2 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73976
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73977
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73978
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CRIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CRIME FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73979
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CRIME HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CRIME HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73980
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM JOY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM JOY FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73981
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM JOY HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM JOY HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73982
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM STORIES FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM STORIES FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73983
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM STORIES HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM STORIES HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73984
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY REAL TIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY REAL TIME FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73985
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ROMA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ROMA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73986
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT 24 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73987
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT 24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73988
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT ARENA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT ARENA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73989
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT ARENA HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT ARENA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73990
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT COLELCTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT COLELCTION FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73991
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT COLLECTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT COLLECTION HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73992
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT F1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT F1 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73993
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT F1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT F1 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73994
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT FOOTBALL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT FOOTBALL FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73995
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT FOOTBALL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT FOOTBALL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73996
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT MOTOGP FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73997
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT MOTOGP HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73998
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT NBA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT NBA FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/73999
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT NBA HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT NBA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74000
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT SERIE A FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT SERIE A FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74001
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT SERIE A HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT SERIE A HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74002
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT UNO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74003
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT UNO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74004
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TG 24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY TG 24 HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74005
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TG24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY TG24 FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74006
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TORINO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY TORINO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74007
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY UNO FULL HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74008
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY UNO HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74009
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SPORT ITALIA HD" tvg-logo="" group-title="ITALIA",|IT| SPORT ITALIA HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74010
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| UNIRESAT HD" tvg-logo="" group-title="ITALIA",|IT| UNIRESAT HD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74011
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ALICE" tvg-logo="" group-title="ITALIA",|IT| ALICE
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74012
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| AUTOMOTO TV" tvg-logo="" group-title="ITALIA",|IT| AUTOMOTO TV
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74013
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| BABY TV" tvg-logo="" group-title="ITALIA",|IT| BABY TV
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74014
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| BLAZE SD" tvg-logo="" group-title="ITALIA",|IT| BLAZE SD
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74015
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| BOING" tvg-logo="" group-title="ITALIA",|IT| BOING
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74016
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| BOING PLUS" tvg-logo="" group-title="ITALIA",|IT| BOING PLUS
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74017
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CARTOONITO" tvg-logo="" group-title="ITALIA",|IT| CARTOONITO
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74018
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CIELO" tvg-logo="" group-title="ITALIA",|IT| CIELO
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74019
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CINE 34" tvg-logo="" group-title="ITALIA",|IT| CINE 34
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74020
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CLASS HORSE TV" tvg-logo="" group-title="ITALIA",|IT| CLASS HORSE TV
+http://trial.myinstanttv.com:8080/TV-47862548/254217356064/74021
 #EXTINF:-1,RD - ANTENA LATINA
 http://tv.nousiptv.com:25462/Omy/1234/30079
 #EXTINF:-1,RD - CDN
