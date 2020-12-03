@@ -461,2979 +461,581 @@ http://instanttv.info:8080/TV-90912584/537929234391/77943
 http://instanttv.info:8080/TV-90912584/537929234391/48542
 #EXTINF:-1 tvg-ID="es.Real Madrid TV" tvg-name="|ES| REAL MADRID TV" tvg-logo="http://watchtv.one:8080/logos/realmadridtv.default.svg" group-title="ESPANA -  FUTBOL",|ES| REAL MADRID TV
 http://instanttv.info:8080/TV-90912584/537929234391/48543
-#EXTINF:-1,RD - ANTENA LATINA
-http://tv.nousiptv.com:25462/Omy/1234/30079
-#EXTINF:-1,RD - CDN
-http://tv.nousiptv.com:25462/Omy/1234/30080
-#EXTINF:-1,RD - COLOR VISION
-http://tv.nousiptv.com:25462/Omy/1234/8242
-#EXTINF:-1,RD - DIGITAL 15
-http://tv.nousiptv.com:25462/Omy/1234/8243
-#EXTINF:-1,RD - ENTELEVISION
-http://tv.nousiptv.com:25462/Omy/1234/32527
-#EXTINF:-1,RD - TELEANTILLAS
-http://tv.nousiptv.com:25462/Omy/1234/8241
-#EXTINF:-1,RD - RNN
-http://tv.nousiptv.com:25462/Omy/1234/8239
-#EXTINF:-1,RD - TELECENTRO
-http://tv.nousiptv.com:25462/Omy/1234/8244
-#EXTINF:-1,RD - TELEMICRO
-http://tv.nousiptv.com:25462/Omy/1234/8245
-#EXTINF:-1,RD - TELEMICRO CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/5471
-#EXTINF:-1,RD - TELERADIO AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/5472
-#EXTINF:-1,RD - TELESISTEMA
-http://tv.nousiptv.com:25462/Omy/1234/8240
-#EXTINF:-1,RD - TELEUNION
-http://tv.nousiptv.com:25462/Omy/1234/5468
-#EXTINF:-1,RD - TELEUNIVERSO
-http://tv.nousiptv.com:25462/Omy/1234/5473
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nousiptv.com:25462/Omy/1234/3247
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.nousiptv.com:25462/Omy/1234/3083
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3251
-#EXTINF:-1,MyC - HGTV
-http://tv.nousiptv.com:25462/Omy/1234/3252
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.nousiptv.com:25462/Omy/1234/4123
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.nousiptv.com:25462/Omy/1234/3082
-#EXTINF:-1,MyC - DISCOVERY THEATER
-http://tv.nousiptv.com:25462/Omy/1234/4119
-#EXTINF:-1,MyC - DISCOVERY TLC
-http://tv.nousiptv.com:25462/Omy/1234/3256
-#EXTINF:-1,MyC - DISCOVERY WORLD
-http://tv.nousiptv.com:25462/Omy/1234/3081
-#EXTINF:-1,MyC - DW LATINOAMERICA
-http://tv.nousiptv.com:25462/Omy/1234/2102
-#EXTINF:-1,MyC - FILM & ARTS
-http://tv.nousiptv.com:25462/Omy/1234/3966
-#EXTINF:-1,MyC - FRANCE 24
-http://tv.nousiptv.com:25462/Omy/1234/33357
-#EXTINF:-1,MyC - H2
-http://tv.nousiptv.com:25462/Omy/1234/4005
-#EXTINF:-1,MyC - HISPAN TV
-http://tv.nousiptv.com:25462/Omy/1234/33481
-#EXTINF:-1,MyC - HISTORY
-http://tv.nousiptv.com:25462/Omy/1234/3234
-#EXTINF:-1,MyC - NATGEO
-http://tv.nousiptv.com:25462/Omy/1234/4126
-#EXTINF:-1,MyC - NATGEO MUNDO
-http://tv.nousiptv.com:25462/Omy/1234/3774
-#EXTINF:-1,MyC - NATGEO WILD
-http://tv.nousiptv.com:25462/Omy/1234/3270
-#EXTINF:-1,MyC - RT ESPAÑOL
-http://tv.nousiptv.com:25462/Omy/1234/2064
-#EXTINF:-1,LD - BEIN SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3747
-#EXTINF:-1,LD - BEIN SPORTS SD
-http://tv.nousiptv.com:25462/Omy/1234/43187
-#EXTINF:-1,LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/7863
-#EXTINF:-1,LD - DIRECTV SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/33512
-#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/32882
-#EXTINF:-1,LD - DIRECTV SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/32881
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:25462/Omy/1234/27879
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS
-http://tv.nousiptv.com:25462/Omy/1234/8520
-#EXTINF:-1,LD - FOX DEPORTES USA HD
-http://tv.nousiptv.com:25462/Omy/1234/3753
-#EXTINF:-1,LD - FOX SPORTS 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3612
-#EXTINF:-1,LD - FOX SPORTS 1 SUR
-http://tv.nousiptv.com:25462/Omy/1234/18580
-#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/16139
-#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/42456
-#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/33475
-#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43640
-#EXTINF:-1,LD - FOX SPORTS MX
-http://tv.nousiptv.com:25462/Omy/1234/3267
-#EXTINF:-1,LD - FOX SPORTS 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3268
-#EXTINF:-1,LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/4008
-#EXTINF:-1,LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:25462/Omy/1234/3613
-#EXTINF:-1,LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3614
-#EXTINF:-1,LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/33469
-#EXTINF:-1,LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/43637
-#EXTINF:-1,LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/3616
-#EXTINF:-1,LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3615
-#EXTINF:-1,LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43639
-#EXTINF:-1,LD - ESPN PLUS SUR FHD
-http://tv.nousiptv.com:25462/Omy/1234/7940
-#EXTINF:-1,LD - ESPN PLUS SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43638
-#EXTINF:-1,LD - ESPN MX
-http://tv.nousiptv.com:25462/Omy/1234/3178
-#EXTINF:-1,LD - ESPN 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3258
-#EXTINF:-1,LD - ESPN 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/3260
-#EXTINF:-1,LD - ESPN PLUS MX
-http://tv.nousiptv.com:25462/Omy/1234/4120
-#EXTINF:-1,LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:25462/Omy/1234/3751
-#EXTINF:-1,LD - UNIVISION DEPORTES FHD
-http://tv.nousiptv.com:25462/Omy/1234/3962
-#EXTINF:-1,LD - UNIVISION TUDN HD
-http://tv.nousiptv.com:25462/Omy/1234/4117
-#EXTINF:-1,LD - TUDN FHD
-http://tv.nousiptv.com:25462/Omy/1234/3963
-#EXTINF:-1,LD - TYC SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3759
-#EXTINF:-1,LD - TYC SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/8247
-#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nousiptv.com:25462/Omy/1234/29832
-#EXTINF:-1,LD - GOL TV HD
-http://tv.nousiptv.com:25462/Omy/1234/3755
-#EXTINF:-1,LD - CLARO SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/12011
-#EXTINF:-1,LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:25462/Omy/1234/4082
-#EXTINF:-1,LD - UFC FIGHT LATINOAMERICA
-http://tv.nousiptv.com:25462/Omy/1234/3421
-#EXTINF:-1,LD - GOLF LATIN AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/33363
-#EXTINF:-1,LD - LATIN AMERICAN SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/33356
-#EXTINF:-1,LD - AYM SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3089
-#EXTINF:-1,LD - PX SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/4128
-#EXTINF:-1,LD - UFC LIVE HD
-http://tv.nousiptv.com:25462/Omy/1234/53372
-#EXTINF:-1,LD - DAZN 1 (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/53380
-#EXTINF:-1,LD - TVC DEPORTES
-http://tv.nousiptv.com:25462/Omy/1234/4139
-#EXTINF:-1,CINE - A&E
-http://tv.nousiptv.com:25462/Omy/1234/3246
-#EXTINF:-1,CINE - AMC
-http://tv.nousiptv.com:25462/Omy/1234/4118
-#EXTINF:-1,CINE - AXN
-http://tv.nousiptv.com:25462/Omy/1234/3248
-#EXTINF:-1,CINE - CINE LATINO
-http://tv.nousiptv.com:25462/Omy/1234/4136
-#EXTINF:-1,CINE - CINECANAL
-http://tv.nousiptv.com:25462/Omy/1234/3250
-#EXTINF:-1,CINE - CINEMA DINAMITA
-http://tv.nousiptv.com:25462/Omy/1234/4142
-#EXTINF:-1,CINE - CINEMAX
-http://tv.nousiptv.com:25462/Omy/1234/3084
-#EXTINF:-1,CINE - CLARO CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/4145
-#EXTINF:-1,CINE - DE PELICULA
-http://tv.nousiptv.com:25462/Omy/1234/2997
-#EXTINF:-1,CINE - DE PELICULA PLUS
-http://tv.nousiptv.com:25462/Omy/1234/3239
-#EXTINF:-1,CINE - DHE
-http://tv.nousiptv.com:25462/Omy/1234/24180
-#EXTINF:-1,CINE - EUROPA EUROPA
-http://tv.nousiptv.com:25462/Omy/1234/33359
-#EXTINF:-1,CINE - FOX CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4121
-#EXTINF:-1,CINE - FOX LIFE
-http://tv.nousiptv.com:25462/Omy/1234/3203
-#EXTINF:-1,CINE - FOX PREMIUM ACTION
-http://tv.nousiptv.com:25462/Omy/1234/3263
-#EXTINF:-1,CINE - FOX PREMIUM CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/3264
-#EXTINF:-1,CINE - FOX PREMIUM CLASSICS
-http://tv.nousiptv.com:25462/Omy/1234/3077
-#EXTINF:-1,CINE - FOX PREMIUM COMEDY
-http://tv.nousiptv.com:25462/Omy/1234/3102
-#EXTINF:-1,CINE - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/4032
-#EXTINF:-1,CINE - FOX PREMIUM MOVIES
-http://tv.nousiptv.com:25462/Omy/1234/3266
-#EXTINF:-1,CINE - FOX PREMIUM SERIES.
-http://tv.nousiptv.com:25462/Omy/1234/3262
-#EXTINF:-1,CINE - FX
-http://tv.nousiptv.com:25462/Omy/1234/3201
-#EXTINF:-1,CINE - FXM
-http://tv.nousiptv.com:25462/Omy/1234/4009
-#EXTINF:-1,CINE - GOLDEN
-http://tv.nousiptv.com:25462/Omy/1234/3236
-#EXTINF:-1,CINE - GOLDEN EDGE
-http://tv.nousiptv.com:25462/Omy/1234/3237
-#EXTINF:-1,CINE - HBO
-http://tv.nousiptv.com:25462/Omy/1234/3199
-#EXTINF:-1,CINE - HBO 2
-http://tv.nousiptv.com:25462/Omy/1234/3198
-#EXTINF:-1,CINE - HBO POP
-http://tv.nousiptv.com:25462/Omy/1234/47445
-#EXTINF:-1,CINE - HBO PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4003
-#EXTINF:-1,CINE - HBO FAMILY 
-http://tv.nousiptv.com:25462/Omy/1234/4017
-#EXTINF:-1,CINE - HBO MUNDI
-http://tv.nousiptv.com:25462/Omy/1234/44337
-#EXTINF:-1,CINE - HBO SIGNATURE
-http://tv.nousiptv.com:25462/Omy/1234/3197
-#EXTINF:-1,CINE - I-SAT
-http://tv.nousiptv.com:25462/Omy/1234/3074
-#EXTINF:-1,CINE - MORBID TV
-http://tv.nousiptv.com:25462/Omy/1234/33364
-#EXTINF:-1,CINE - PANICO TV HD
-http://tv.nousiptv.com:25462/Omy/1234/7436
-#EXTINF:-1,CINE - PARAMOUNT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/2952
-#EXTINF:-1,CINE - SONY
-http://tv.nousiptv.com:25462/Omy/1234/3069
-#EXTINF:-1,CINE - SPACE
-http://tv.nousiptv.com:25462/Omy/1234/3232
-#EXTINF:-1,CINE - STUDIO UNIVERSAL
-http://tv.nousiptv.com:25462/Omy/1234/3229
-#EXTINF:-1,CINE - SUNDANCE TV
-http://tv.nousiptv.com:25462/Omy/1234/4101
-#EXTINF:-1,CINE - SYFY
-http://tv.nousiptv.com:25462/Omy/1234/3958
-#EXTINF:-1,CINE - TBS
-http://tv.nousiptv.com:25462/Omy/1234/4011
-#EXTINF:-1,CINE - TCM
-http://tv.nousiptv.com:25462/Omy/1234/3065
-#EXTINF:-1,CINE - TNT
-http://tv.nousiptv.com:25462/Omy/1234/4010
-#EXTINF:-1,CINE - TNT SERIES
-http://tv.nousiptv.com:25462/Omy/1234/3218
-#EXTINF:-1,CINE - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3068
-#EXTINF:-1,CINE - WARNER
-http://tv.nousiptv.com:25462/Omy/1234/3228
-#EXTINF:-1,ENT - FOOD NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4146
-#EXTINF:-1,ENT -COMEDY CENTRAL
-http://tv.nousiptv.com:25462/Omy/1234/3241
-#EXTINF:-1,ENT -DISCOVERY TURBO
-http://tv.nousiptv.com:25462/Omy/1234/3257
-#EXTINF:-1,ENT -E! ENTERTAINMENT
-http://tv.nousiptv.com:25462/Omy/1234/3207
-#EXTINF:-1,ENT -EL GOURMET
-http://tv.nousiptv.com:25462/Omy/1234/3206
-#EXTINF:-1,ENT -GARAGE TV
-http://tv.nousiptv.com:25462/Omy/1234/4016
-#EXTINF:-1,ENT -GLITZ
-http://tv.nousiptv.com:25462/Omy/1234/3238
-#EXTINF:-1,ENT - HOLA TV
-http://tv.nousiptv.com:25462/Omy/1234/3075
-#EXTINF:-1,ENT -LIFETIME
-http://tv.nousiptv.com:25462/Omy/1234/3073
-#EXTINF:-1,ENT -MAS CHIC
-http://tv.nousiptv.com:25462/Omy/1234/4124
-#EXTINF:-1,ENT -TRU TV
-http://tv.nousiptv.com:25462/Omy/1234/3231
-#EXTINF:-1,ENT -WOBI
-http://tv.nousiptv.com:25462/Omy/1234/4134
-#EXTINF:-1,INF - BABY FIRST
-http://tv.nousiptv.com:25462/Omy/1234/2958
-#EXTINF:-1,INF - BABY TV
-http://tv.nousiptv.com:25462/Omy/1234/3798
-#EXTINF:-1,INF - BOOMERANG
-http://tv.nousiptv.com:25462/Omy/1234/3085
-#EXTINF:-1,INF - CARTOON NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3249
-#EXTINF:-1,INF - DISCOVERY KIDS
-http://tv.nousiptv.com:25462/Omy/1234/3254
-#EXTINF:-1,INF - DISNEY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4004
-#EXTINF:-1,INF - DISNEY JUNIOR
-http://tv.nousiptv.com:25462/Omy/1234/3222
-#EXTINF:-1,INF - DISNEY XD
-http://tv.nousiptv.com:25462/Omy/1234/3221
-#EXTINF:-1,INF - NATGEO KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4144
-#EXTINF:-1,INF - NICK 2
-http://tv.nousiptv.com:25462/Omy/1234/4140
-#EXTINF:-1,INF - NICK JUNIOR
-http://tv.nousiptv.com:25462/Omy/1234/4194
-#EXTINF:-1,INF - NICK TOONS
-http://tv.nousiptv.com:25462/Omy/1234/3220
-#EXTINF:-1,INF - NICKELODEON
-http://tv.nousiptv.com:25462/Omy/1234/3071
-#EXTINF:-1,INF - TOONCAST
-http://tv.nousiptv.com:25462/Omy/1234/3242
-#EXTINF:-1,NTV - 01  [URUGUAY PRIMERA DIVISION EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/13062
-#EXTINF:-1,NTV - 02 [COPA SUDAMERICANA EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16143
-#EXTINF:-1,NTV - 03 [TIGRES UANL VS CRUZ AZUL EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/358
-#EXTINF:-1,NTV - 04 [UEFA EUROPA LEAGUE 01 EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16080
-#EXTINF:-1,NTV - 05 [UEFA EUROPA LEAGUE 02 EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/16410
-#EXTINF:-1,NTV - 06 [UEFA EUROPA LEAGUE 03 EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/17180
-#EXTINF:-1,NTV - 07 FINAL ATP WORLD TOUR [ EN VIVO]
-http://tv.nousiptv.com:25462/Omy/1234/33479
-#EXTINF:-1,CINP - INDIE PLEX
-http://tv.nousiptv.com:25462/Omy/1234/8142
-#EXTINF:-1,CINP - MORE MAX HD
-http://tv.nousiptv.com:25462/Omy/1234/8143
-#EXTINF:-1,CINP - MOVIE MAX
-http://tv.nousiptv.com:25462/Omy/1234/8144
-#EXTINF:-1,CINP - MOVIEPLEX
-http://tv.nousiptv.com:25462/Omy/1234/8145
-#EXTINF:-1,CINP - OUTERMAX HD
-http://tv.nousiptv.com:25462/Omy/1234/8146
-#EXTINF:-1,CINP - RETROPLEX HD
-http://tv.nousiptv.com:25462/Omy/1234/8147
-#EXTINF:-1,CINP - SHOTIME WEST HD
-http://tv.nousiptv.com:25462/Omy/1234/8141
-#EXTINF:-1,CINP - SHOW TIME HD
-http://tv.nousiptv.com:25462/Omy/1234/8138
-#EXTINF:-1,CINP - SHOWTIME BEYOND HD
-http://tv.nousiptv.com:25462/Omy/1234/8139
-#EXTINF:-1,CINP - SHOWTIME EAST
-http://tv.nousiptv.com:25462/Omy/1234/8140
-#EXTINF:-1,CINP - STARZ CINEMA HD
-http://tv.nousiptv.com:25462/Omy/1234/8136
-#EXTINF:-1,CINP - STARZ COMEDY HD
-http://tv.nousiptv.com:25462/Omy/1234/8135
-#EXTINF:-1,CINP - STARZ ENCORE ACTION HD
-http://tv.nousiptv.com:25462/Omy/1234/8128
-#EXTINF:-1,CINP - STARZ ENCORE BLACK
-http://tv.nousiptv.com:25462/Omy/1234/8127
-#EXTINF:-1,CINP - STARZ ENCORE FAMILY HD
-http://tv.nousiptv.com:25462/Omy/1234/8129
-#EXTINF:-1,CINP - STARZ ENCORE HD
-http://tv.nousiptv.com:25462/Omy/1234/8126
-#EXTINF:-1,CINP - STARZ ENCORE SUSPENSE
-http://tv.nousiptv.com:25462/Omy/1234/8130
-#EXTINF:-1,CINP - STARZ FAMILY HD
-http://tv.nousiptv.com:25462/Omy/1234/8131
-#EXTINF:-1,CINP - STARZ HD
-http://tv.nousiptv.com:25462/Omy/1234/8132
-#EXTINF:-1,CINP - STARZ IN BLACK
-http://tv.nousiptv.com:25462/Omy/1234/8137
-#EXTINF:-1,CINP - STARZ KIDS & FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/8133
-#EXTINF:-1,CINP - STARZ WESTERN HD
-http://tv.nousiptv.com:25462/Omy/1234/8134
-#EXTINF:-1,FHD - A&E HD
-http://tv.nousiptv.com:25462/Omy/1234/4037
-#EXTINF:-1,FHD - AMC
-http://tv.nousiptv.com:25462/Omy/1234/4085
-#EXTINF:-1,FHD - ANIMAL PLANET
-http://tv.nousiptv.com:25462/Omy/1234/4067
-#EXTINF:-1,FHD - ANTENA 3 INT.
-http://tv.nousiptv.com:25462/Omy/1234/3139
-#EXTINF:-1,FHD - AXN HD
-http://tv.nousiptv.com:25462/Omy/1234/4038
-#EXTINF:-1,FHD - BABY FIRST
-http://tv.nousiptv.com:25462/Omy/1234/4088
-#EXTINF:-1,FHD - BABY TV HQ
-http://tv.nousiptv.com:25462/Omy/1234/4116
-#EXTINF:-1,FHD - BLOOMBERG
-http://tv.nousiptv.com:25462/Omy/1234/4089
-#EXTINF:-1,FHD - BOOMERANG
-http://tv.nousiptv.com:25462/Omy/1234/4061
-#EXTINF:-1,FHD - CARTOON NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4063
-#EXTINF:-1,FHD - CINECANAL
-http://tv.nousiptv.com:25462/Omy/1234/4068
-#EXTINF:-1,FHD - CINEMAX
-http://tv.nousiptv.com:25462/Omy/1234/4110
-#EXTINF:-1,FHD - COMEDY CENTRAL
-http://tv.nousiptv.com:25462/Omy/1234/4039
-#EXTINF:-1,FHD - DISCOVERY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4069
-#EXTINF:-1,FHD - DISCOVERY HOME & HEALTH
-http://tv.nousiptv.com:25462/Omy/1234/4070
-#EXTINF:-1,FHD - DISCOVERY ID
-http://tv.nousiptv.com:25462/Omy/1234/3600
-#EXTINF:-1,FHD - DISCOVERY KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4072
-#EXTINF:-1,FHD - DISCOVERY THEATER
-http://tv.nousiptv.com:25462/Omy/1234/4073
-#EXTINF:-1,FHD - DISCOVERY TURBO
-http://tv.nousiptv.com:25462/Omy/1234/4075
-#EXTINF:-1,FHD - DISCOVERY WORLD
-http://tv.nousiptv.com:25462/Omy/1234/4076
-#EXTINF:-1,FHD - DISNEY JR
-http://tv.nousiptv.com:25462/Omy/1234/4111
-#EXTINF:-1,FHD - DISNEY XD
-http://tv.nousiptv.com:25462/Omy/1234/4102
-#EXTINF:-1,FHD - DISTRITO COMEDIA
-http://tv.nousiptv.com:25462/Omy/1234/4040
-#EXTINF:-1,FHD - E! ENTERTAINMENT
-http://tv.nousiptv.com:25462/Omy/1234/4041
-#EXTINF:-1,FHD - EL GOURMET
-http://tv.nousiptv.com:25462/Omy/1234/4042
-#EXTINF:-1,FHD - FOOD NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4057
-#EXTINF:-1,FHD - FOX HD
-http://tv.nousiptv.com:25462/Omy/1234/4022
-#EXTINF:-1,FHD - FOX LIFE HD
-http://tv.nousiptv.com:25462/Omy/1234/4043
-#EXTINF:-1,FHD - FOX PREMIUM ACTION
-http://tv.nousiptv.com:25462/Omy/1234/4019
-#EXTINF:-1,FHD - FOX PREMIUM CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/8238
-#EXTINF:-1,FHD - FOX PREMIUM CLASSICS
-http://tv.nousiptv.com:25462/Omy/1234/8237
-#EXTINF:-1,FHD - FOX PREMIUM COMEDY
-http://tv.nousiptv.com:25462/Omy/1234/8234
-#EXTINF:-1,FHD - FOX PREMIUM FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/4084
-#EXTINF:-1,FHD - FOX PREMIUM MOVIES
-http://tv.nousiptv.com:25462/Omy/1234/4023
-#EXTINF:-1,FHD - FOX PREMIUM SERIES
-http://tv.nousiptv.com:25462/Omy/1234/4020
-#EXTINF:-1,FHD - FX HD
-http://tv.nousiptv.com:25462/Omy/1234/4044
-#EXTINF:-1,FHD - GLITZ
-http://tv.nousiptv.com:25462/Omy/1234/4045
-#EXTINF:-1,FHD - GOLDEN PLUS
-http://tv.nousiptv.com:25462/Omy/1234/8255
-#EXTINF:-1,FHD - GOLDEN PREMIERE
-http://tv.nousiptv.com:25462/Omy/1234/4091
-#EXTINF:-1,FHD - HBO 2
-http://tv.nousiptv.com:25462/Omy/1234/4095
-#EXTINF:-1,FHD - HBO FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/3211
-#EXTINF:-1,FHD - HBO HD
-http://tv.nousiptv.com:25462/Omy/1234/4112
-#EXTINF:-1,FHD - HISTORY
-http://tv.nousiptv.com:25462/Omy/1234/4093
-#EXTINF:-1,FHD - HBO PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4109
-#EXTINF:-1,FHD - HOLA TV
-http://tv.nousiptv.com:25462/Omy/1234/4046
-#EXTINF:-1,FHD - I - SAT
-http://tv.nousiptv.com:25462/Omy/1234/4098
-#EXTINF:-1,FHD - MAS CHIC
-http://tv.nousiptv.com:25462/Omy/1234/4047
-#EXTINF:-1,FHD - HBO XTREME
-http://tv.nousiptv.com:25462/Omy/1234/8226
-#EXTINF:-1,FHD - HBO POP
-http://tv.nousiptv.com:25462/Omy/1234/8246
-#EXTINF:-1,FHD - MTV
-http://tv.nousiptv.com:25462/Omy/1234/4083
-#EXTINF:-1,FHD - MTV LIVE
-http://tv.nousiptv.com:25462/Omy/1234/4096
-#EXTINF:-1,FHD - NAT GEO
-http://tv.nousiptv.com:25462/Omy/1234/4097
-#EXTINF:-1,FHD - NAT GEO KIDS
-http://tv.nousiptv.com:25462/Omy/1234/4078
-#EXTINF:-1,FHD - NAT GEO WILD
-http://tv.nousiptv.com:25462/Omy/1234/4079
-#EXTINF:-1,FHD - NICK 2
-http://tv.nousiptv.com:25462/Omy/1234/4064
-#EXTINF:-1,FHD - NICK JR
-http://tv.nousiptv.com:25462/Omy/1234/3187
-#EXTINF:-1,FHD - NICKELODEON
-http://tv.nousiptv.com:25462/Omy/1234/4058
-#EXTINF:-1,FHD - PARAMOUNT
-http://tv.nousiptv.com:25462/Omy/1234/4065
-#EXTINF:-1,FHD - SONY
-http://tv.nousiptv.com:25462/Omy/1234/4048
-#EXTINF:-1,FHD - SPACE HD
-http://tv.nousiptv.com:25462/Omy/1234/4099
-#EXTINF:-1,FHD - STUDIO UNIVERSAL
-http://tv.nousiptv.com:25462/Omy/1234/4100
-#EXTINF:-1,FHD - SYFY
-http://tv.nousiptv.com:25462/Omy/1234/4049
-#EXTINF:-1,FHD - TCM HD
-http://tv.nousiptv.com:25462/Omy/1234/4106
-#EXTINF:-1,FHD - TLC
-http://tv.nousiptv.com:25462/Omy/1234/4074
-#EXTINF:-1,FHD - TNT HD
-http://tv.nousiptv.com:25462/Omy/1234/4103
-#EXTINF:-1,FHD - TNT SERIES
-http://tv.nousiptv.com:25462/Omy/1234/4050
-#EXTINF:-1,FHD - TOONCAST
-http://tv.nousiptv.com:25462/Omy/1234/4051
-#EXTINF:-1,FHD - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/4054
-#EXTINF:-1,FHD - WARNER
-http://tv.nousiptv.com:25462/Omy/1234/4053
-#EXTINF:-1,FHD - WOBI TV
-http://tv.nousiptv.com:25462/Omy/1234/4107
-#EXTINF:-1,NBA - NBA TV FHD
-http://tv.nousiptv.com:25462/Omy/1234/3964
-#EXTINF:-1,NBA - NBA TV
-http://tv.nousiptv.com:25462/Omy/1234/3710
-#EXTINF:-1,LMP - CHARROS DE JALISCO 
-http://tv.nousiptv.com:25462/Omy/1234/18781
-#EXTINF:-1,NBA - ATLANTA HAWKS
-http://tv.nousiptv.com:25462/Omy/1234/18590
-#EXTINF:-1,NFL - BALTIMORE RAVENS
-http://tv.nousiptv.com:25462/Omy/1234/18540
-#EXTINF:-1,NFL - RED ZONE
-http://tv.nousiptv.com:25462/Omy/1234/18589
-#EXTINF:-1,NBA - CHICAGO BULLS
-http://tv.nousiptv.com:25462/Omy/1234/18591
-#EXTINF:-1,NFL - SAN FRANCISCO 49 ERS
-http://tv.nousiptv.com:25462/Omy/1234/3352
-#EXTINF:-1,NFL - NEW YORK GIANTS
-http://tv.nousiptv.com:25462/Omy/1234/18581
-#EXTINF:-1,NBA - DENVER NUGGETS
-http://tv.nousiptv.com:25462/Omy/1234/18587
-#EXTINF:-1,NFL - MINNESOTA VIKINGS
-http://tv.nousiptv.com:25462/Omy/1234/18552
-#EXTINF:-1,NFL - NEW ORLEANS SAINTS
-http://tv.nousiptv.com:25462/Omy/1234/18562
-#EXTINF:-1,NFL - HOUSTON TEXANS
-http://tv.nousiptv.com:25462/Omy/1234/3350
-#EXTINF:-1,NFL - INDIANAPOLIS COLTS
-http://tv.nousiptv.com:25462/Omy/1234/18551
-#EXTINF:-1,NBA - LOS ANGELES CLIPPERS
-http://tv.nousiptv.com:25462/Omy/1234/18550
-#EXTINF:-1,NBA - LOS ANGELES LAKERS
-http://tv.nousiptv.com:25462/Omy/1234/18549
-#EXTINF:-1,NFL - LOS ANGELES RAMS
-http://tv.nousiptv.com:25462/Omy/1234/18548
-#EXTINF:-1,NFL - MIAMI DOLPHINS
-http://tv.nousiptv.com:25462/Omy/1234/18547
-#EXTINF:-1,NBA - MILWAUKEE BUCKS
-http://tv.nousiptv.com:25462/Omy/1234/17190
-#EXTINF:-1,NFL - LOS ANGELES CHARGERS
-http://tv.nousiptv.com:25462/Omy/1234/18546
-#EXTINF:-1,NFL - OAKLAND RAIDERS
-http://tv.nousiptv.com:25462/Omy/1234/18584
-#EXTINF:-1,NFL - JACKSONVILLE JAGUARS
-http://tv.nousiptv.com:25462/Omy/1234/18545
-#EXTINF:-1,NFL - PITTSBURGH STEELERS
-http://tv.nousiptv.com:25462/Omy/1234/18586
-#EXTINF:-1,NFL - WASHINGTON REDSKINS
-http://tv.nousiptv.com:25462/Omy/1234/18588
-#EXTINF:-1,NFL - ARIZONA CARDINALS
-http://tv.nousiptv.com:25462/Omy/1234/17187
-#EXTINF:-1,NFL - PHILADELPHIA EAGLES
-http://tv.nousiptv.com:25462/Omy/1234/18585
-#EXTINF:-1,NFL - CHICAGO BEARS
-http://tv.nousiptv.com:25462/Omy/1234/18544
-#EXTINF:-1,NFL - CAROLINA PANTHERS
-http://tv.nousiptv.com:25462/Omy/1234/18543
-#EXTINF:-1,NFL - NEW YORK JETS
-http://tv.nousiptv.com:25462/Omy/1234/18583
-#EXTINF:-1,NBA - TORONTO RAPTORS
-http://tv.nousiptv.com:25462/Omy/1234/18542
-#EXTINF:-1,NFL - BUFFALO BILLS
-http://tv.nousiptv.com:25462/Omy/1234/18541
-#EXTINF:-1,NFL - NEW ENGLAND PATRIOTS
-http://tv.nousiptv.com:25462/Omy/1234/18561
-#EXTINF:-1,URU - TELE12 FHD
-http://tv.nousiptv.com:25462/Omy/1234/3620
-#EXTINF:-1,URU - TELE12 HD
-http://tv.nousiptv.com:25462/Omy/1234/18731
-#EXTINF:-1,URU - TELE12 SD
-http://tv.nousiptv.com:25462/Omy/1234/18578
-#EXTINF:-1,URU - CANAL 4 HD
-http://tv.nousiptv.com:25462/Omy/1234/8334
-#EXTINF:-1,URU - CANAL 4 SD
-http://tv.nousiptv.com:25462/Omy/1234/18261
-#EXTINF:-1,URU - CANAL 10 HD
-http://tv.nousiptv.com:25462/Omy/1234/18567
-#EXTINF:-1,URU - CANAL 10 SD
-http://tv.nousiptv.com:25462/Omy/1234/3344
-#EXTINF:-1,URU - CANAL 5 (TNU)
-http://tv.nousiptv.com:25462/Omy/1234/19351
-#EXTINF:-1,URU - LA RED
-http://tv.nousiptv.com:25462/Omy/1234/35428
-#EXTINF:-1,URU - TV CIUDAD SD
-http://tv.nousiptv.com:25462/Omy/1234/16136
-#EXTINF:-1,URU - TV CIUDAD HD
-http://tv.nousiptv.com:25462/Omy/1234/19352
-#EXTINF:-1,URU - DEL SOL TV
-http://tv.nousiptv.com:25462/Omy/1234/34605
-#EXTINF:-1,URU - VTV FHD
-http://tv.nousiptv.com:25462/Omy/1234/3802
-#EXTINF:-1,URU - VTV HD
-http://tv.nousiptv.com:25462/Omy/1234/22204
-#EXTINF:-1,URU - VTV SD
-http://tv.nousiptv.com:25462/Omy/1234/3598
-#EXTINF:-1,URU - VTV Plus HD
-http://tv.nousiptv.com:25462/Omy/1234/19354
-#EXTINF:-1,URU - VTV Plus SD
-http://tv.nousiptv.com:25462/Omy/1234/52513
-#EXTINF:-1,URU - ESPN URUGUAY HD
-http://tv.nousiptv.com:25462/Omy/1234/3621
-#EXTINF:-1,URU - DIRECTV SPORTS URUGUAY
-http://tv.nousiptv.com:25462/Omy/1234/2041
-#EXTINF:-1,URU - MAROÑAS ENTERTAIMENT (PRUEBA)
-http://tv.nousiptv.com:25462/Omy/1234/31618
-#EXTINF:-1,URU - PPV URUGUAY 1
-http://tv.nousiptv.com:25462/Omy/1234/3226
-#EXTINF:-1,URU - PPV URUGUAY 2
-http://tv.nousiptv.com:25462/Omy/1234/7943
-#EXTINF:-1,URU - PPV URUGUAY 3
-http://tv.nousiptv.com:25462/Omy/1234/43600
-#EXTINF:-1,URU - CANAL M (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/34608
-#EXTINF:-1,ENT - DEL SOL TV
-http://tv.nousiptv.com:25462/Omy/1234/34603
-#EXTINF:-1,ENT - EWTN
-http://tv.nousiptv.com:25462/Omy/1234/34609
-#EXTINF:-1,US.SP - ESPN U
-http://tv.nousiptv.com:25462/Omy/1234/34602
-#EXTINF:-1,URU - CANAL 7 PUNTA (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/34607
-#EXTINF:-1,MEX - CANAL DE LAS ESTRELLAS
-http://tv.nousiptv.com:25462/Omy/1234/3243
-#EXTINF:-1,MEX - EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:25462/Omy/1234/4030
-#EXTINF:-1,MEX - AZTECA 7
-http://tv.nousiptv.com:25462/Omy/1234/3215
-#EXTINF:-1,MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:25462/Omy/1234/4027
-#EXTINF:-1,MEX - AZTECA UNO
-http://tv.nousiptv.com:25462/Omy/1234/3216
-#EXTINF:-1,MEX - AZTECA UNO HD
-http://tv.nousiptv.com:25462/Omy/1234/4087
-#EXTINF:-1,MEX - CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/3244
-#EXTINF:-1,MEX - CANAL 5 FHD
-http://tv.nousiptv.com:25462/Omy/1234/4028
-#EXTINF:-1,MEX - TDN HD
-http://tv.nousiptv.com:25462/Omy/1234/3397
-#EXTINF:-1,MEX - FORO TV
-http://tv.nousiptv.com:25462/Omy/1234/4029
-#EXTINF:-1,MEX - UNICABLE
-http://tv.nousiptv.com:25462/Omy/1234/3230
-#EXTINF:-1,MEX - UNICABLE FHD
-http://tv.nousiptv.com:25462/Omy/1234/4052
-#EXTINF:-1,MEX - ADN 40
-http://tv.nousiptv.com:25462/Omy/1234/4025
-#EXTINF:-1,MEX - PROYECTO 40 FHD
-http://tv.nousiptv.com:25462/Omy/1234/3185
-#EXTINF:-1,MEX - AFIZZIONADOS
-http://tv.nousiptv.com:25462/Omy/1234/8248
-#EXTINF:-1,MEX - AZ MUNDO
-http://tv.nousiptv.com:25462/Omy/1234/3087
-#EXTINF:-1,MEX - AZ MUNDO FHD
-http://tv.nousiptv.com:25462/Omy/1234/4055
-#EXTINF:-1,MEX - 52 MX
-http://tv.nousiptv.com:25462/Omy/1234/33368
-#EXTINF:-1,MEX - AZ CINEMA
-http://tv.nousiptv.com:25462/Omy/1234/2954
-#EXTINF:-1,MEX - AZ CINEMA FHD
-http://tv.nousiptv.com:25462/Omy/1234/4086
-#EXTINF:-1,MEX - AZ CLICK
-http://tv.nousiptv.com:25462/Omy/1234/3245
-#EXTINF:-1,MEX - AZ CORAZON
-http://tv.nousiptv.com:25462/Omy/1234/4026
-#EXTINF:-1,MEX - CANAL ONCE
-http://tv.nousiptv.com:25462/Omy/1234/3269
-#EXTINF:-1,MEX - DISTRITO COMEDIA
-http://tv.nousiptv.com:25462/Omy/1234/3209
-#EXTINF:-1,MEX - GALA TV
-http://tv.nousiptv.com:25462/Omy/1234/4031
-#EXTINF:-1,MEX - HAVOC
-http://tv.nousiptv.com:25462/Omy/1234/33362
-#EXTINF:-1,MEX - IMAGEN TV
-http://tv.nousiptv.com:25462/Omy/1234/4149
-#EXTINF:-1,MEX - INGENIO TV
-http://tv.nousiptv.com:25462/Omy/1234/33358
-#EXTINF:-1,MEX - MEXIQUENSE
-http://tv.nousiptv.com:25462/Omy/1234/3182
-#EXTINF:-1,MEX - MILENIO TV
-http://tv.nousiptv.com:25462/Omy/1234/3233
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:25462/Omy/1234/4125
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:25462/Omy/1234/4033
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:25462/Omy/1234/4034
-#EXTINF:-1,MEX - ONCE TV FHD
-http://tv.nousiptv.com:25462/Omy/1234/4035
-#EXTINF:-1,MEX - SURES TV
-http://tv.nousiptv.com:25462/Omy/1234/33366
-#EXTINF:-1,MEX - TELEFORMULA
-http://tv.nousiptv.com:25462/Omy/1234/4129
-#EXTINF:-1,MEX - TELEFORMULA FHD
-http://tv.nousiptv.com:25462/Omy/1234/4036
-#EXTINF:-1,MEX - TL TELENOVELAS
-http://tv.nousiptv.com:25462/Omy/1234/4130
-#EXTINF:-1,MEX - TELEVISA MTY
-http://tv.nousiptv.com:25462/Omy/1234/4066
-#EXTINF:-1,MEX - TV4
-http://tv.nousiptv.com:25462/Omy/1234/33367
-#EXTINF:-1,MEX - TVC
-http://tv.nousiptv.com:25462/Omy/1234/4105
-#EXTINF:-1,MEX - TV MAS
-http://tv.nousiptv.com:25462/Omy/1234/33365
-#EXTINF:-1,CHILE - CDF HD
-http://tv.nousiptv.com:25462/Omy/1234/3586
-#EXTINF:-1,CHILE - CDF
-http://tv.nousiptv.com:25462/Omy/1234/16138
-#EXTINF:-1,CHILE - ESTADIO CDF
-http://tv.nousiptv.com:25462/Omy/1234/6979
-#EXTINF:-1,CHILE - CDO BASICO HD
-http://tv.nousiptv.com:25462/Omy/1234/3607
-#EXTINF:-1,CHILE - CDO PREMIUM HD
-http://tv.nousiptv.com:25462/Omy/1234/3608
-#EXTINF:-1,CHILE - ESPN 2 CHILE HD
-http://tv.nousiptv.com:25462/Omy/1234/27103
-#EXTINF:-1,CHILE - ESPN 2 CHILE
-http://tv.nousiptv.com:25462/Omy/1234/2047
-#EXTINF:-1,CHILE - DIRECTV SPORTS CHILE HD
-http://tv.nousiptv.com:25462/Omy/1234/6018
-#EXTINF:-1,CHILE - DIRECTV SPORTS CHILE
-http://tv.nousiptv.com:25462/Omy/1234/6019
-#EXTINF:-1,CHILE - TV EDUCA CHILE HD
-http://tv.nousiptv.com:25462/Omy/1234/6017
-#EXTINF:-1,CHILE - MEGA HD
-http://tv.nousiptv.com:25462/Omy/1234/2148
-#EXTINF:-1,CHILE - MEGA
-http://tv.nousiptv.com:25462/Omy/1234/3343
-#EXTINF:-1,CHILE - MEGA PLUS
-http://tv.nousiptv.com:25462/Omy/1234/22562
-#EXTINF:-1,CHILE - CHILEVISION  HD
-http://tv.nousiptv.com:25462/Omy/1234/2147
-#EXTINF:-1,CHILE - CHILEVISION
-http://tv.nousiptv.com:25462/Omy/1234/3591
-#EXTINF:-1,CHILE - TVN HD
-http://tv.nousiptv.com:25462/Omy/1234/2151
-#EXTINF:-1,CHILE - TVN
-http://tv.nousiptv.com:25462/Omy/1234/3592
-#EXTINF:-1,CHILE - CANAL 13 HD
-http://tv.nousiptv.com:25462/Omy/1234/6847
-#EXTINF:-1,CHILE - CANAL 13
-http://tv.nousiptv.com:25462/Omy/1234/3853
-#EXTINF:-1,CHILE - REC TV
-http://tv.nousiptv.com:25462/Omy/1234/2024
-#EXTINF:-1,CHILE - LA RED HD
-http://tv.nousiptv.com:25462/Omy/1234/51823
-#EXTINF:-1,CHILE - LA RED
-http://tv.nousiptv.com:25462/Omy/1234/51824
-#EXTINF:-1,CHILE - TV+ HD
-http://tv.nousiptv.com:25462/Omy/1234/30700
-#EXTINF:-1,CHILE - TELECANAL HD
-http://tv.nousiptv.com:25462/Omy/1234/44631
-#EXTINF:-1,CHILE - 24 HORAS
-http://tv.nousiptv.com:25462/Omy/1234/23237
-#EXTINF:-1,CHILE - CNN CHILE
-http://tv.nousiptv.com:25462/Omy/1234/3749
-#EXTINF:-1,CHILE - TELETRAK
-http://tv.nousiptv.com:25462/Omy/1234/3854
-#EXTINF:-1,ECU - PPV ECUADOR (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/29095
-#EXTINF:-1,ECU - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:25462/Omy/1234/53462
-#EXTINF:-1,ECU - DIRECTV SPORTS SD
-http://tv.nousiptv.com:25462/Omy/1234/23239
-#EXTINF:-1,ECU - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/53489
-#EXTINF:-1,ECU - DIRECTV SPORTS PLUS FHD
-http://tv.nousiptv.com:25462/Omy/1234/53490
-#EXTINF:-1,ECU - CNT SPORTS / GOL TV
-http://tv.nousiptv.com:25462/Omy/1234/7471
-#EXTINF:-1,ECU - GOL TV FHD
-http://tv.nousiptv.com:25462/Omy/1234/53381
-#EXTINF:-1,ECU - GOL TV HD
-http://tv.nousiptv.com:25462/Omy/1234/53491
-#EXTINF:-1,ECU - GOL TV SD
-http://tv.nousiptv.com:25462/Omy/1234/25753
-#EXTINF:-1,ECU - CANAL UNO FHD
-http://tv.nousiptv.com:25462/Omy/1234/8083
-#EXTINF:-1,ECU - CANAL UNO HD
-http://tv.nousiptv.com:25462/Omy/1234/3436
-#EXTINF:-1,ECU - CANAL UNO SD
-http://tv.nousiptv.com:25462/Omy/1234/53452
-#EXTINF:-1,ECU - ECUADOR TV HD
-http://tv.nousiptv.com:25462/Omy/1234/53453
-#EXTINF:-1,ECU - ECUADOR TV SD
-http://tv.nousiptv.com:25462/Omy/1234/3434
-#EXTINF:-1,ECU - ECUAVISA FHD
-http://tv.nousiptv.com:25462/Omy/1234/53455
-#EXTINF:-1,ECU - ECUAVISA HD
-http://tv.nousiptv.com:25462/Omy/1234/3433
-#EXTINF:-1,ECU - ECUAVISA SD
-http://tv.nousiptv.com:25462/Omy/1234/8084
-#EXTINF:-1,ECU - GAMAVISIÓN FHD
-http://tv.nousiptv.com:25462/Omy/1234/53456
-#EXTINF:-1,ECU - GAMAVISIÓN HD
-http://tv.nousiptv.com:25462/Omy/1234/8085
-#EXTINF:-1,ECU - GAMAVISIÓN SD
-http://tv.nousiptv.com:25462/Omy/1234/3432
-#EXTINF:-1,ECU - OROMAR TV
-http://tv.nousiptv.com:25462/Omy/1234/3431
-#EXTINF:-1,ECU - RTS FHD
-http://tv.nousiptv.com:25462/Omy/1234/7534
-#EXTINF:-1,ECU - RTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3430
-#EXTINF:-1,ECU - RTS SD
-http://tv.nousiptv.com:25462/Omy/1234/53457
-#EXTINF:-1,ECU - TC TELEVISION FHD
-http://tv.nousiptv.com:25462/Omy/1234/53458
-#EXTINF:-1,ECU - TC TELEVISION HD
-http://tv.nousiptv.com:25462/Omy/1234/3429
-#EXTINF:-1,ECU - TC TELEVISION SD
-http://tv.nousiptv.com:25462/Omy/1234/7533
-#EXTINF:-1,ECU - TELEAMAZONAS FHD
-http://tv.nousiptv.com:25462/Omy/1234/7532
-#EXTINF:-1,ECU - TELEAMAZONAS HD
-http://tv.nousiptv.com:25462/Omy/1234/3428
-#EXTINF:-1,ECU - TELEAMAZONAS SD
-http://tv.nousiptv.com:25462/Omy/1234/53459
-#EXTINF:-1,ECU - TVC FHD
-http://tv.nousiptv.com:25462/Omy/1234/53460
-#EXTINF:-1,ECU - TVC SD
-http://tv.nousiptv.com:25462/Omy/1234/53461
-#EXTINF:-1,ARG - FOX SPORTS PREMIUM HD
-http://tv.nousiptv.com:25462/Omy/1234/8330
-#EXTINF:-1,ARG - FOX SPORTS PREMIUM SD
-http://tv.nousiptv.com:25462/Omy/1234/4193
-#EXTINF:-1,ARG - TNT SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/2957
-#EXTINF:-1,ARG - TNT SPORTS SD
-http://tv.nousiptv.com:25462/Omy/1234/33457
-#EXTINF:-1,ARG - TYC SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/43633
-#EXTINF:-1,ARG - TYC SPORTS SD
-http://tv.nousiptv.com:25462/Omy/1234/2961
-#EXTINF:-1,ARG - AMERICA SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/49525
-#EXTINF:-1,ARG - DEPORTV
-http://tv.nousiptv.com:25462/Omy/1234/29348
-#EXTINF:-1,ARG - TV PUBLICA HD
-http://tv.nousiptv.com:25462/Omy/1234/8183
-#EXTINF:-1,ARG - TV PUBLICA SD
-http://tv.nousiptv.com:25462/Omy/1234/3417
-#EXTINF:-1,ARG - EL TRECE HD
-http://tv.nousiptv.com:25462/Omy/1234/51070
-#EXTINF:-1,ARG - EL TRECE SD
-http://tv.nousiptv.com:25462/Omy/1234/7431
-#EXTINF:-1,ARG - TELEFE HD
-http://tv.nousiptv.com:25462/Omy/1234/51071
-#EXTINF:-1,ARG - TELEFE SD
-http://tv.nousiptv.com:25462/Omy/1234/3439
-#EXTINF:-1,ARG - AMERICA TV HD
-http://tv.nousiptv.com:25462/Omy/1234/27
-#EXTINF:-1,ARG - AMERICA TV SD
-http://tv.nousiptv.com:25462/Omy/1234/2040
-#EXTINF:-1,ARG - EL NUEVE HD
-http://tv.nousiptv.com:25462/Omy/1234/51072
-#EXTINF:-1,ARG - EL NUEVE SD
-http://tv.nousiptv.com:25462/Omy/1234/3438
-#EXTINF:-1,ARG - NET TV HD
-http://tv.nousiptv.com:25462/Omy/1234/3356
-#EXTINF:-1,ARG - NET TV SD
-http://tv.nousiptv.com:25462/Omy/1234/23229
-#EXTINF:-1,ARG - A24 HD
-http://tv.nousiptv.com:25462/Omy/1234/51073
-#EXTINF:-1,ARG - A24 SD
-http://tv.nousiptv.com:25462/Omy/1234/3359
-#EXTINF:-1,ARG - C5N HD
-http://tv.nousiptv.com:25462/Omy/1234/3441
-#EXTINF:-1,ARG - C5N SD
-http://tv.nousiptv.com:25462/Omy/1234/17901
-#EXTINF:-1,ARG - CANAL 26
-http://tv.nousiptv.com:25462/Omy/1234/3442
-#EXTINF:-1,ARG - CRONICA
-http://tv.nousiptv.com:25462/Omy/1234/4188
-#EXTINF:-1,ARG - CN23
-http://tv.nousiptv.com:25462/Omy/1234/23230
-#EXTINF:-1,ARG - TN
-http://tv.nousiptv.com:25462/Omy/1234/18766
-#EXTINF:-1,ARG - LN+
-http://tv.nousiptv.com:25462/Omy/1234/7976
-#EXTINF:-1,ARG - TLX
-http://tv.nousiptv.com:25462/Omy/1234/3437
-#EXTINF:-1,ARG - EL GARAGE TV
-http://tv.nousiptv.com:25462/Omy/1234/7975
-#EXTINF:-1,ARG - CIUDAD MAGAZINE
-http://tv.nousiptv.com:25462/Omy/1234/3787
-#EXTINF:-1,ARG - ENCUENTRO
-http://tv.nousiptv.com:25462/Omy/1234/7974
-#EXTINF:-1,ARG - VOLVER
-http://tv.nousiptv.com:25462/Omy/1234/7978
-#EXTINF:-1,ARG - CONSTRUIR
-http://tv.nousiptv.com:25462/Omy/1234/29354
-#EXTINF:-1,COL - CABLENOTICIAS
-http://tv.nousiptv.com:25462/Omy/1234/2119
-#EXTINF:-1,COL - CANAL UNO
-http://tv.nousiptv.com:25462/Omy/1234/2120
-#EXTINF:-1,COL - RCN
-http://tv.nousiptv.com:25462/Omy/1234/4002
-#EXTINF:-1,COL - RCN HD
-http://tv.nousiptv.com:25462/Omy/1234/3415
-#EXTINF:-1,COL - RCN NOVELAS HD
-http://tv.nousiptv.com:25462/Omy/1234/2125
-#EXTINF:-1,COL - CARACOL FHD
-http://tv.nousiptv.com:25462/Omy/1234/3416
-#EXTINF:-1,COL - CARACOL HD
-http://tv.nousiptv.com:25462/Omy/1234/3213
-#EXTINF:-1,COL - CARACOL SD
-http://tv.nousiptv.com:25462/Omy/1234/4094
-#EXTINF:-1,COL - WIN SPORTS + FHD
-http://tv.nousiptv.com:25462/Omy/1234/16724
-#EXTINF:-1,COL - WIN SPORTS + HD
-http://tv.nousiptv.com:25462/Omy/1234/54738
-#EXTINF:-1,COL - WIN SPORTS + SD
-http://tv.nousiptv.com:25462/Omy/1234/16723
-#EXTINF:-1,COL - WIN SPORTS FHD
-http://tv.nousiptv.com:25462/Omy/1234/3271
-#EXTINF:-1,COL - WIN SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3057
-#EXTINF:-1,COL - CITYTV
-http://tv.nousiptv.com:25462/Omy/1234/1987
-#EXTINF:-1,COL - TELECARIBE
-http://tv.nousiptv.com:25462/Omy/1234/43625
-#EXTINF:-1,COL - TELEPACIFICO (test)
-http://tv.nousiptv.com:25462/Omy/1234/47693
-#EXTINF:-1,COL - SEÑAL COLOMBIA
-http://tv.nousiptv.com:25462/Omy/1234/2163
-#EXTINF:-1,COL - TELEANTIOQUIA
-http://tv.nousiptv.com:25462/Omy/1234/2118
-#EXTINF:-1,COL - TELECAFE
-http://tv.nousiptv.com:25462/Omy/1234/2128
-#EXTINF:-1,COL - NTN 24
-http://tv.nousiptv.com:25462/Omy/1234/41815
-#EXTINF:-1,LAT - UNIVISION HD
-http://tv.nousiptv.com:25462/Omy/1234/3796
-#EXTINF:-1,LAT - UNIVISION NOTICIAS
-http://tv.nousiptv.com:25462/Omy/1234/18568
-#EXTINF:-1,LAT - UNIVISION DENVER
-http://tv.nousiptv.com:25462/Omy/1234/18565
-#EXTINF:-1,LAT - UNIVISION DALLAS
-http://tv.nousiptv.com:25462/Omy/1234/18559
-#EXTINF:-1,LAT - UNIVISION NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/2021
-#EXTINF:-1,LAT - UNIVISION MIAMI
-http://tv.nousiptv.com:25462/Omy/1234/3177
-#EXTINF:-1,LAT - UNIVISION LOS ANGELES
-http://tv.nousiptv.com:25462/Omy/1234/18564
-#EXTINF:-1,LAT - UNIVISION SAN FRANCISCO
-http://tv.nousiptv.com:25462/Omy/1234/18560
-#EXTINF:-1,LAT - UNIVISION LAS VEGAS
-http://tv.nousiptv.com:25462/Omy/1234/18563
-#EXTINF:-1,LAT - UNIVISION CHICAGO
-http://tv.nousiptv.com:25462/Omy/1234/47679
-#EXTINF:-1,LAT - TELEMUNDO INTERNACIONAL
-http://tv.nousiptv.com:25462/Omy/1234/43189
-#EXTINF:-1,LAT - TELEMUNDO PHILADELPHIA 
-http://tv.nousiptv.com:25462/Omy/1234/43289
-#EXTINF:-1,LAT - TELEMUNDO BOSTON
-http://tv.nousiptv.com:25462/Omy/1234/3794
-#EXTINF:-1,LAT - TELEMUNDO 39 DALLAS
-http://tv.nousiptv.com:25462/Omy/1234/30216
-#EXTINF:-1,LAT - TELEMUNDO 44 CHICAGO
-http://tv.nousiptv.com:25462/Omy/1234/30215
-#EXTINF:-1,LAT - TELEMUNDO 47 NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/30213
-#EXTINF:-1,LAT - TELEMUNDO DENVER
-http://tv.nousiptv.com:25462/Omy/1234/18570
-#EXTINF:-1,LAT - TELEMUNDO 48 SAN FRANCISCO
-http://tv.nousiptv.com:25462/Omy/1234/18780
-#EXTINF:-1,LAT - TELEMUNDO 51 MIAMI
-http://tv.nousiptv.com:25462/Omy/1234/18779
-#EXTINF:-1,LAT - TELEMUNDO 52 LOS ANGELES
-http://tv.nousiptv.com:25462/Omy/1234/18778
-#EXTINF:-1,LAT - TELEMUNDO 60 SAN ANTONIO
-http://tv.nousiptv.com:25462/Omy/1234/18777
-#EXTINF:-1,LAT - TELEMUNDO HOUSTON
-http://tv.nousiptv.com:25462/Omy/1234/18776
-#EXTINF:-1,LAT - TELEMUNDO LAS VEGAS
-http://tv.nousiptv.com:25462/Omy/1234/18775
-#EXTINF:-1,LAT - UNIMAS DENVER
-http://tv.nousiptv.com:25462/Omy/1234/18572
-#EXTINF:-1,LAT - UNIMAS LOS ANGELES
-http://tv.nousiptv.com:25462/Omy/1234/18774
-#EXTINF:-1,LAT - UNIMAS MIAMI
-http://tv.nousiptv.com:25462/Omy/1234/18773
-#EXTINF:-1,LAT - UNIMAS NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/18772
-#EXTINF:-1,LAT - UNIMAS DALLAS
-http://tv.nousiptv.com:25462/Omy/1234/3795
-#EXTINF:-1,LAT - ByN  Ñ.
-http://tv.nousiptv.com:25462/Omy/1234/3601
-#EXTINF:-1,LAT - CNN EN ESPAÑOL
-http://tv.nousiptv.com:25462/Omy/1234/4014
-#EXTINF:-1,LAT - CNN USA
-http://tv.nousiptv.com:25462/Omy/1234/33360
-#EXTINF:-1,LAT - NBC UNIVERSO
-http://tv.nousiptv.com:25462/Omy/1234/3757
-#EXTINF:-1,LAT - ESTRELLA TV
-http://tv.nousiptv.com:25462/Omy/1234/41188
-#EXTINF:-1,LAT - FIGHTING SPORTS NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/2962
-#EXTINF:-1,LAT - GALAVISION
-http://tv.nousiptv.com:25462/Omy/1234/3793
-#EXTINF:-1,LAT - CBS BOSTON
-http://tv.nousiptv.com:25462/Omy/1234/45550
-#EXTINF:-1,LAT - NBC  BOSTON
-http://tv.nousiptv.com:25462/Omy/1234/45551
-#EXTINF:-1,LAT - FOX BOSTON
-http://tv.nousiptv.com:25462/Omy/1234/45552
-#EXTINF:-1,CUBA - MARTI TV
-http://tv.nousiptv.com:25462/Omy/1234/7688
-#EXTINF:-1,PAN - TELEMETRO CANAL 13 HD
-http://tv.nousiptv.com:25462/Omy/1234/7685
-#EXTINF:-1,PAN - TELEMETRO CANAL 13 SD
-http://tv.nousiptv.com:25462/Omy/1234/53495
-#EXTINF:-1,PAN - TV MAX FHD
-http://tv.nousiptv.com:25462/Omy/1234/6025
-#EXTINF:-1,PAN - TV MAX SD
-http://tv.nousiptv.com:25462/Omy/1234/53492
-#EXTINF:-1,PAN - TVN FHD
-http://tv.nousiptv.com:25462/Omy/1234/53494
-#EXTINF:-1,PAN - TVN HD
-http://tv.nousiptv.com:25462/Omy/1234/53493
-#EXTINF:-1,PAN - TVN SD
-http://tv.nousiptv.com:25462/Omy/1234/7446
-#EXTINF:-1,PAN - ECO TV
-http://tv.nousiptv.com:25462/Omy/1234/16719
-#EXTINF:-1,PAN - RPC
-http://tv.nousiptv.com:25462/Omy/1234/6024
-#EXTINF:-1,PAN - NEXT TV
-http://tv.nousiptv.com:25462/Omy/1234/5476
-#EXTINF:-1,PAN - SERTV
-http://tv.nousiptv.com:25462/Omy/1234/44775
-#EXTINF:-1,PAN - MAS TV 23 SD
-http://tv.nousiptv.com:25462/Omy/1234/16718
-#EXTINF:-1,PAN - HOSSAN VISION HD
-http://tv.nousiptv.com:25462/Omy/1234/7689
-#EXTINF:-1,RD - ANTENA LATINA
-http://tv.nousiptv.com:25462/Omy/1234/30079
-#EXTINF:-1,RD - CDN
-http://tv.nousiptv.com:25462/Omy/1234/30080
-#EXTINF:-1,RD - COLOR VISION
-http://tv.nousiptv.com:25462/Omy/1234/8242
-#EXTINF:-1,RD - DIGITAL 15
-http://tv.nousiptv.com:25462/Omy/1234/8243
-#EXTINF:-1,RD - ENTELEVISION
-http://tv.nousiptv.com:25462/Omy/1234/32527
-#EXTINF:-1,RD - TELEANTILLAS
-http://tv.nousiptv.com:25462/Omy/1234/8241
-#EXTINF:-1,RD - RNN
-http://tv.nousiptv.com:25462/Omy/1234/8239
-#EXTINF:-1,RD - TELECENTRO
-http://tv.nousiptv.com:25462/Omy/1234/8244
-#EXTINF:-1,RD - TELEMICRO
-http://tv.nousiptv.com:25462/Omy/1234/8245
-#EXTINF:-1,RD - TELEMICRO CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/5471
-#EXTINF:-1,RD - TELERADIO AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/5472
-#EXTINF:-1,RD - TELESISTEMA
-http://tv.nousiptv.com:25462/Omy/1234/8240
-#EXTINF:-1,RD - TELEUNION
-http://tv.nousiptv.com:25462/Omy/1234/5468
-#EXTINF:-1,RD - TELEUNIVERSO
-http://tv.nousiptv.com:25462/Omy/1234/5473
-#EXTINF:-1,BRA - ARTE 1
-http://tv.nousiptv.com:25462/Omy/1234/8328
-#EXTINF:-1,BRA - GLOBO NEWS
-http://tv.nousiptv.com:25462/Omy/1234/7771
-#EXTINF:-1,BRA - BAND
-http://tv.nousiptv.com:25462/Omy/1234/29331
-#EXTINF:-1,BRA - BAND NEW
-http://tv.nousiptv.com:25462/Omy/1234/29329
-#EXTINF:-1,BRA - BAND SPORT
-http://tv.nousiptv.com:25462/Omy/1234/29330
-#EXTINF:-1,BRA - COMBAT
-http://tv.nousiptv.com:25462/Omy/1234/29328
-#EXTINF:-1,BRA - ESPN
-http://tv.nousiptv.com:25462/Omy/1234/7784
-#EXTINF:-1,BRA - SPORTV
-http://tv.nousiptv.com:25462/Omy/1234/7791
-#EXTINF:-1,BRA - SPORTV 2
-http://tv.nousiptv.com:25462/Omy/1234/7792
-#EXTINF:-1,BRA - FISH TV
-http://tv.nousiptv.com:25462/Omy/1234/7779
-#EXTINF:-1,BRA - FOX SPORTS 2 BR
-http://tv.nousiptv.com:25462/Omy/1234/7786
-#EXTINF:-1,BRA - FOX SPORTS BR
-http://tv.nousiptv.com:25462/Omy/1234/7785
-#EXTINF:-1,BRA - FUTURA
-http://tv.nousiptv.com:25462/Omy/1234/7776
-#EXTINF:-1,BRA - GLOOB
-http://tv.nousiptv.com:25462/Omy/1234/7772
-#EXTINF:-1,BRA - MAIS GLOBOSAT
-http://tv.nousiptv.com:25462/Omy/1234/7777
-#EXTINF:-1,BRA - MEGAPIX
-http://tv.nousiptv.com:25462/Omy/1234/8324
-#EXTINF:-1,BRA - PREM 2
-http://tv.nousiptv.com:25462/Omy/1234/29332
-#EXTINF:-1,BRA - PREM 3
-http://tv.nousiptv.com:25462/Omy/1234/29333
-#EXTINF:-1,BRA - PREM 4
-http://tv.nousiptv.com:25462/Omy/1234/29334
-#EXTINF:-1,BRA - PREM 5
-http://tv.nousiptv.com:25462/Omy/1234/29335
-#EXTINF:-1,BRA - PREM 6
-http://tv.nousiptv.com:25462/Omy/1234/29336
-#EXTINF:-1,BRA - PREM 7
-http://tv.nousiptv.com:25462/Omy/1234/29337
-#EXTINF:-1,BRA - PREM 8
-http://tv.nousiptv.com:25462/Omy/1234/29338
-#EXTINF:-1,BRA - PREM 1
-http://tv.nousiptv.com:25462/Omy/1234/29339
-#EXTINF:-1,BRA - PREM CLUBES
-http://tv.nousiptv.com:25462/Omy/1234/29199
-#EXTINF:-1,BRA - PREMBOX
-http://tv.nousiptv.com:25462/Omy/1234/29340
-#EXTINF:-1,BRA - RECORD PB
-http://tv.nousiptv.com:25462/Omy/1234/7770
-#EXTINF:-1,BRA - REDE TV
-http://tv.nousiptv.com:25462/Omy/1234/7775
-#EXTINF:-1,BRA - SBT
-http://tv.nousiptv.com:25462/Omy/1234/7768
-#EXTINF:-1,BRA - TELECINE ACTION
-http://tv.nousiptv.com:25462/Omy/1234/7780
-#EXTINF:-1,BRA - TELECINE CULT
-http://tv.nousiptv.com:25462/Omy/1234/7781
-#EXTINF:-1,BRA - TELECINE PREMIUM
-http://tv.nousiptv.com:25462/Omy/1234/7782
-#EXTINF:-1,BRA - TELECINE FUN
-http://tv.nousiptv.com:25462/Omy/1234/7783
-#EXTINF:-1,BRA - TV GLOBO INT
-http://tv.nousiptv.com:25462/Omy/1234/7773
-#EXTINF:-1,BRA - GLOBO PREMIUM
-http://tv.nousiptv.com:25462/Omy/1234/7774
-#EXTINF:-1,BRA - TV BRASIL
-http://tv.nousiptv.com:25462/Omy/1234/7769
-#EXTINF:-1,BRA - WOOHOO
-http://tv.nousiptv.com:25462/Omy/1234/8327
-#EXTINF:-1,PAR - C9N
-http://tv.nousiptv.com:25462/Omy/1234/7437
-#EXTINF:-1,PAR - FARRA PLAY
-http://tv.nousiptv.com:25462/Omy/1234/23221
-#EXTINF:-1,PAR - GEN TV
-http://tv.nousiptv.com:25462/Omy/1234/23222
-#EXTINF:-1,PAR - LA TELE
-http://tv.nousiptv.com:25462/Omy/1234/23224
-#EXTINF:-1,PAR - NOTICIAS PY
-http://tv.nousiptv.com:25462/Omy/1234/7428
-#EXTINF:-1,PAR - PARAGUAY TV
-http://tv.nousiptv.com:25462/Omy/1234/7423
-#EXTINF:-1,PAR - PARAVISION
-http://tv.nousiptv.com:25462/Omy/1234/7427
-#EXTINF:-1,PAR - RCC TV
-http://tv.nousiptv.com:25462/Omy/1234/7430
-#EXTINF:-1,PAR - RPC
-http://tv.nousiptv.com:25462/Omy/1234/7426
-#EXTINF:-1,PAR - SNT
-http://tv.nousiptv.com:25462/Omy/1234/7425
-#EXTINF:-1,PAR - SUR TV
-http://tv.nousiptv.com:25462/Omy/1234/7447
-#EXTINF:-1,PAR - TELEFUTURO
-http://tv.nousiptv.com:25462/Omy/1234/7529
-#EXTINF:-1,PAR - TIGO SPORTS +
-http://tv.nousiptv.com:25462/Omy/1234/7450
-#EXTINF:-1,PAR - TIGO SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/7435
-#EXTINF:-1,PAR - TVS
-http://tv.nousiptv.com:25462/Omy/1234/7429
-#EXTINF:-1,PAR - UNICANAL
-http://tv.nousiptv.com:25462/Omy/1234/7434
-#EXTINF:-1,PAR - VENUS RADIO
-http://tv.nousiptv.com:25462/Omy/1234/23223
-#EXTINF:-1,PERU - AMERICA TV
-http://tv.nousiptv.com:25462/Omy/1234/2174
-#EXTINF:-1,PERU - ATV
-http://tv.nousiptv.com:25462/Omy/1234/8333
-#EXTINF:-1,PERU - ATV PLUS
-http://tv.nousiptv.com:25462/Omy/1234/7449
-#EXTINF:-1,PERU - CANAL N
-http://tv.nousiptv.com:25462/Omy/1234/7825
-#EXTINF:-1,PERU - CAPITAL TV
-http://tv.nousiptv.com:25462/Omy/1234/2172
-#EXTINF:-1,PERU - GOL PERU HD
-http://tv.nousiptv.com:25462/Omy/1234/3605
-#EXTINF:-1,PERU - GOL PERU SD
-http://tv.nousiptv.com:25462/Omy/1234/8329
-#EXTINF:-1,PERU - LATINA
-http://tv.nousiptv.com:25462/Omy/1234/2165
-#EXTINF:-1,PERU - MOVISTAR DEPORTES
-http://tv.nousiptv.com:25462/Omy/1234/3606
-#EXTINF:-1,PERU - MOVISTAR PLUS
-http://tv.nousiptv.com:25462/Omy/1234/3398
-#EXTINF:-1,PERU - PANAMERICANA
-http://tv.nousiptv.com:25462/Omy/1234/2171
-#EXTINF:-1,PERU - PERU MAGICO
-http://tv.nousiptv.com:25462/Omy/1234/8323
-#EXTINF:-1,PERU - TV PERU
-http://tv.nousiptv.com:25462/Omy/1234/2169
-#EXTINF:-1,CR - MULTIMEDIOS
-http://tv.nousiptv.com:25462/Omy/1234/2033
-#EXTINF:-1,CR - REPRETEL 11
-http://tv.nousiptv.com:25462/Omy/1234/8149
-#EXTINF:-1,CR - REPRETEL 4
-http://tv.nousiptv.com:25462/Omy/1234/8150
-#EXTINF:-1,CR - REPRETEL 6
-http://tv.nousiptv.com:25462/Omy/1234/8151
-#EXTINF:-1,CR - TD+
-http://tv.nousiptv.com:25462/Omy/1234/5474
-#EXTINF:-1,CR - TELETICA 7
-http://tv.nousiptv.com:25462/Omy/1234/8148
-#EXTINF:-1,CR - TIGO SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/18594
-#EXTINF:-1,CR - FUTV
-http://tv.nousiptv.com:25462/Omy/1234/47854
-#EXTINF:-1,CR - ENLACE
-http://tv.nousiptv.com:25462/Omy/1234/51353
-#EXTINF:-1,CUBA - CUBAVISION
-http://tv.nousiptv.com:25462/Omy/1234/9841
-#EXTINF:-1,CUBA - CUBAVISION INTERNACIONAL
-http://tv.nousiptv.com:25462/Omy/1234/9842
-#EXTINF:-1,CUBA - TELEREBELDE
-http://tv.nousiptv.com:25462/Omy/1234/9843
-#EXTINF:-1,HON - AZTECA
-http://tv.nousiptv.com:25462/Omy/1234/28578
-#EXTINF:-1,HON - CAMPUS TV
-http://tv.nousiptv.com:25462/Omy/1234/28575
-#EXTINF:-1,HON - CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/28571
-#EXTINF:-1,HON - TELEPROGRESO
-http://tv.nousiptv.com:25462/Omy/1234/32030
-#EXTINF:-1,HON - GLOBO TV
-http://tv.nousiptv.com:25462/Omy/1234/28576
-#EXTINF:-1,HON - HCH
-http://tv.nousiptv.com:25462/Omy/1234/28572
-#EXTINF:-1,HON - Q HUBO TV
-http://tv.nousiptv.com:25462/Omy/1234/28574
-#EXTINF:-1,HON - TELECEIBA
-http://tv.nousiptv.com:25462/Omy/1234/28570
-#EXTINF:-1,HON - VTV
-http://tv.nousiptv.com:25462/Omy/1234/28577
-#EXTINF:-1,HON - TELECANDENA
-http://tv.nousiptv.com:25462/Omy/1234/51385
-#EXTINF:-1,HON - TELESISTEMA
-http://tv.nousiptv.com:25462/Omy/1234/51386
-#EXTINF:-1,HON - UNE TV
-http://tv.nousiptv.com:25462/Omy/1234/51388
-#EXTINF:-1,HON - CHTV
-http://tv.nousiptv.com:25462/Omy/1234/51389
-#EXTINF:-1,HON - TIGO SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/51390
-#EXTINF:-1,HON - TEN CANAL 10
-http://tv.nousiptv.com:25462/Omy/1234/28569
-#EXTINF:-1,HON - TSI
-http://tv.nousiptv.com:25462/Omy/1234/28573
-#EXTINF:-1,GUAT - TV AZTECA
-http://tv.nousiptv.com:25462/Omy/1234/42016
-#EXTINF:-1,GUAT - CANAL 3
-http://tv.nousiptv.com:25462/Omy/1234/42017
-#EXTINF:-1,GUAT - CANAL 7
-http://tv.nousiptv.com:25462/Omy/1234/42019
-#EXTINF:-1,GUAT - CANAL 11
-http://tv.nousiptv.com:25462/Omy/1234/42020
-#EXTINF:-1,GUAT - CANAL ANTIGUA
-http://tv.nousiptv.com:25462/Omy/1234/42021
-#EXTINF:-1,GUAT - CANAL 13
-http://tv.nousiptv.com:25462/Omy/1234/51392
-#EXTINF:-1,GUAT - GUATEVISION
-http://tv.nousiptv.com:25462/Omy/1234/51393
-#EXTINF:-1,SAL - WOW TV
-http://tv.nousiptv.com:25462/Omy/1234/5478
-#EXTINF:-1,SAL - CANAL 19
-http://tv.nousiptv.com:25462/Omy/1234/51396
-#EXTINF:-1,SAL - CANAL 21
-http://tv.nousiptv.com:25462/Omy/1234/51397
-#EXTINF:-1,SAL - TVX
-http://tv.nousiptv.com:25462/Omy/1234/51398
-#EXTINF:-1,SAL - CANAL 12
-http://tv.nousiptv.com:25462/Omy/1234/51399
-#EXTINF:-1,SAL - CANAL 2
-http://tv.nousiptv.com:25462/Omy/1234/51400
-#EXTINF:-1,SAL - CANAL 6
-http://tv.nousiptv.com:25462/Omy/1234/51401
-#EXTINF:-1,SAL - CANAL 4
-http://tv.nousiptv.com:25462/Omy/1234/51402
-#EXTINF:-1,SAL - VTV CANAL 35
-http://tv.nousiptv.com:25462/Omy/1234/51403
-#EXTINF:-1,SAL - ORBITA TV
-http://tv.nousiptv.com:25462/Omy/1234/51404
-#EXTINF:-1,VEN - ANTV
-http://tv.nousiptv.com:25462/Omy/1234/51407
-#EXTINF:-1,VEN - CONCIENCIA TV
-http://tv.nousiptv.com:25462/Omy/1234/51408
-#EXTINF:-1,VEN - VALE TV
-http://tv.nousiptv.com:25462/Omy/1234/51409
-#EXTINF:-1,VEN - VIVE
-http://tv.nousiptv.com:25462/Omy/1234/51410
-#EXTINF:-1,VEN - MERIDIANO
-http://tv.nousiptv.com:25462/Omy/1234/51411
-#EXTINF:-1,VEN - TELEVEN
-http://tv.nousiptv.com:25462/Omy/1234/51413
-#EXTINF:-1,VEN - TLT
-http://tv.nousiptv.com:25462/Omy/1234/51414
-#EXTINF:-1,VEN - GLOBOVISION SD
-http://tv.nousiptv.com:25462/Omy/1234/18600
-#EXTINF:-1,VEN - PROMAR SD
-http://tv.nousiptv.com:25462/Omy/1234/18599
-#EXTINF:-1,VEN - TELESUR TV
-http://tv.nousiptv.com:25462/Omy/1234/2043
-#EXTINF:-1,VEN - TVES
-http://tv.nousiptv.com:25462/Omy/1234/18597
-#EXTINF:-1,VEN - TVO
-http://tv.nousiptv.com:25462/Omy/1234/18598
-#EXTINF:-1,VEN - VENEVISION
-http://tv.nousiptv.com:25462/Omy/1234/18595
-#EXTINF:-1,VEN - VENEVISION PLUS
-http://tv.nousiptv.com:25462/Omy/1234/18593
-#EXTINF:-1,VEN - VENEZOLANA DE TELEVISION
-http://tv.nousiptv.com:25462/Omy/1234/18596
-#EXTINF:-1,ES - #0 HD
-http://tv.nousiptv.com:25462/Omy/1234/3113
-#EXTINF:-1,ES - A3 SERIES INT.
-http://tv.nousiptv.com:25462/Omy/1234/3961
-#EXTINF:-1,ES - A3 SERIES
-http://tv.nousiptv.com:25462/Omy/1234/35495
-#EXTINF:-1,ES - ANTENA 3 INT.
-http://tv.nousiptv.com:25462/Omy/1234/4108
-#EXTINF:-1,ES - ANTENA 3
-http://tv.nousiptv.com:25462/Omy/1234/35494
-#EXTINF:-1,ES - ANDALUCIA TURISMO
-http://tv.nousiptv.com:25462/Omy/1234/3610
-#EXTINF:-1,ES - B LA LIGA HQ
-http://tv.nousiptv.com:25462/Omy/1234/3092
-#EXTINF:-1,ES - BABY TV
-http://tv.nousiptv.com:25462/Omy/1234/3090
-#EXTINF:-1,ES - BAR TV
-http://tv.nousiptv.com:25462/Omy/1234/3131
-#EXTINF:-1,ES - BARÇA TV
-http://tv.nousiptv.com:25462/Omy/1234/3104
-#EXTINF:-1,ES - BOING
-http://tv.nousiptv.com:25462/Omy/1234/3119
-#EXTINF:-1,ES - BEINS SPORTS ESPAÑA
-http://tv.nousiptv.com:25462/Omy/1234/3118
-#EXTINF:-1,ES - CALLE 13 HD
-http://tv.nousiptv.com:25462/Omy/1234/17192
-#EXTINF:-1,ES - CANAL COCINA
-http://tv.nousiptv.com:25462/Omy/1234/3120
-#EXTINF:-1,ES - CANAL DE CASA
-http://tv.nousiptv.com:25462/Omy/1234/3121
-#EXTINF:-1,ES - CANAL GOLF HD
-http://tv.nousiptv.com:25462/Omy/1234/3149
-#EXTINF:-1,ES - CAZA Y PESCA
-http://tv.nousiptv.com:25462/Omy/1234/3123
-#EXTINF:-1,ES - CLAN
-http://tv.nousiptv.com:25462/Omy/1234/4131
-#EXTINF:-1,ES - CLAN TVE
-http://tv.nousiptv.com:25462/Omy/1234/3124
-#EXTINF:-1,ES - COMEDY CENTRAL HD
-http://tv.nousiptv.com:25462/Omy/1234/3103
-#EXTINF:-1,ES - COSMO
-http://tv.nousiptv.com:25462/Omy/1234/4177
-#EXTINF:-1,ES - DIVINITY
-http://tv.nousiptv.com:25462/Omy/1234/3126
-#EXTINF:-1,ES - ENERGY
-http://tv.nousiptv.com:25462/Omy/1234/3109
-#EXTINF:-1,ES - FDF
-http://tv.nousiptv.com:25462/Omy/1234/3169
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:25462/Omy/1234/3161
-#EXTINF:-1,ES - FOX LIFE HD
-http://tv.nousiptv.com:25462/Omy/1234/3162
-#EXTINF:-1,ES - GOL TV
-http://tv.nousiptv.com:25462/Omy/1234/3128
-#EXTINF:-1,ES - HISTORIA
-http://tv.nousiptv.com:25462/Omy/1234/3163
-#EXTINF:-1,ES - HOLLYWOOD HD
-http://tv.nousiptv.com:25462/Omy/1234/3164
-#EXTINF:-1,ES - IBERALIA
-http://tv.nousiptv.com:25462/Omy/1234/3152
-#EXTINF:-1,ES - LA 1 FHD
-http://tv.nousiptv.com:25462/Omy/1234/3165
-#EXTINF:-1,ES - LA 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/3130
-#EXTINF:-1,ES - LA CUATRO
-http://tv.nousiptv.com:25462/Omy/1234/17191
-#EXTINF:-1,ES - LA SEXTA FHD
-http://tv.nousiptv.com:25462/Omy/1234/3166
-#EXTINF:-1,ES - LIGA 123
-http://tv.nousiptv.com:25462/Omy/1234/3091
-#EXTINF:-1,ES - LIGA DE CAMPEONES  FHD
-http://tv.nousiptv.com:25462/Omy/1234/16717
-#EXTINF:-1,HON - SITV
-http://tv.nousiptv.com:25462/Omy/1234/16720
-#EXTINF:-1,HON - CANAL 11
-http://tv.nousiptv.com:25462/Omy/1234/16721
-#EXTINF:-1,HON - SUYAPA
-http://tv.nousiptv.com:25462/Omy/1234/16722
-#EXTINF:-1,ES - MEGA
-http://tv.nousiptv.com:25462/Omy/1234/3167
-#EXTINF:-1,ES - MEZZO LIVE
-http://tv.nousiptv.com:25462/Omy/1234/4178
-#EXTINF:-1,ES - MOVISTAR  ACTION
-http://tv.nousiptv.com:25462/Omy/1234/3142
-#EXTINF:-1,ES - MOVISTAR COMEDIA
-http://tv.nousiptv.com:25462/Omy/1234/3143
-#EXTINF:-1,ES - MOVISTAR CINE Ñ
-http://tv.nousiptv.com:25462/Omy/1234/6026
-#EXTINF:-1,ES - MOVISTAR DEPORTE 1 HD
-http://tv.nousiptv.com:25462/Omy/1234/3146
-#EXTINF:-1,ES - MOVISTAR ESTRENOS
-http://tv.nousiptv.com:25462/Omy/1234/3147
-#EXTINF:-1,ES - MOVISTAR F1 HD
-http://tv.nousiptv.com:25462/Omy/1234/3093
-#EXTINF:-1,ES - MOVISTAR FORMULA 1
-http://tv.nousiptv.com:25462/Omy/1234/3094
-#EXTINF:-1,ES - MOVISTAR LALIGA FHD
-http://tv.nousiptv.com:25462/Omy/1234/32365
-#EXTINF:-1,ES - MOVISTAR MOTO GP FHD ( SOLO EVENTOS)
-http://tv.nousiptv.com:25462/Omy/1234/3096
-#EXTINF:-1,ES - MOVISTAR MOTO GP HD
-http://tv.nousiptv.com:25462/Omy/1234/3145
-#EXTINF:-1,ES - MOVISTAR SERIES
-http://tv.nousiptv.com:25462/Omy/1234/6027
-#EXTINF:-1,ES - MOVISTAR TOROS TV
-http://tv.nousiptv.com:25462/Omy/1234/3153
-#EXTINF:-1,ES - MOVISTAR XTRA
-http://tv.nousiptv.com:25462/Omy/1234/3154
-#EXTINF:-1,ES - NEOX
-http://tv.nousiptv.com:25462/Omy/1234/3132
-#EXTINF:-1,ES - NOVA
-http://tv.nousiptv.com:25462/Omy/1234/3108
-#EXTINF:-1,ES - ODISEA
-http://tv.nousiptv.com:25462/Omy/1234/3135
-#EXTINF:-1,ES - PANDA
-http://tv.nousiptv.com:25462/Omy/1234/3136
-#EXTINF:-1,ES - REAL MADRID TV
-http://tv.nousiptv.com:25462/Omy/1234/3689
-#EXTINF:-1,ES - TAQUILLA 1
-http://tv.nousiptv.com:25462/Omy/1234/3097
-#EXTINF:-1,ES - TAQUILLA 2
-http://tv.nousiptv.com:25462/Omy/1234/3107
-#EXTINF:-1,ES - TAQUILLA 3
-http://tv.nousiptv.com:25462/Omy/1234/3106
-#EXTINF:-1,ES - TCM HD
-http://tv.nousiptv.com:25462/Omy/1234/3171
-#EXTINF:-1,ES - TELECINCO HD
-http://tv.nousiptv.com:25462/Omy/1234/3172
-#EXTINF:-1,ES - TELEDEPORTE FHD
-http://tv.nousiptv.com:25462/Omy/1234/3173
-#EXTINF:-1,ES - TNT
-http://tv.nousiptv.com:25462/Omy/1234/3138
-#EXTINF:-1,ESP - BE MAD
-http://tv.nousiptv.com:25462/Omy/1234/32619
-#EXTINF:-1,ESP - TOROS HD
-http://tv.nousiptv.com:25462/Omy/1234/2061
-#EXTINF:-1,ESP - TVE
-http://tv.nousiptv.com:25462/Omy/1234/32620
-#EXTINF:-1,ESP - TVE STAR
-http://tv.nousiptv.com:25462/Omy/1234/32621
-#EXTINF:-1,ESP - VIAJAR HD
-http://tv.nousiptv.com:25462/Omy/1234/3174
-#EXTINF:-1,MLB - GAME 1 PPV
-http://tv.nousiptv.com:25462/Omy/1234/53074
-#EXTINF:-1,MLB - GAME 2 PPV
-http://tv.nousiptv.com:25462/Omy/1234/53075
-#EXTINF:-1,NTV - 08 Noche de BOX [ EN VIVO ]
-http://tv.nousiptv.com:25462/Omy/1234/53076
-#EXTINF:-1,NTV - 09 Noches de UFC [ EN VIVO ]
-http://tv.nousiptv.com:25462/Omy/1234/53077
-#EXTINF:-1,NTV - 10 LMB Jalisco vs Hermosillo [ EN VIVO ]
-http://tv.nousiptv.com:25462/Omy/1234/53078
-#EXTINF:-1,LMP - SULTANES DE MONTERREY
-http://tv.nousiptv.com:25462/Omy/1234/53079
-#EXTINF:-1,LMP - CAÑEROS DE LOS MOCHIS
-http://tv.nousiptv.com:25462/Omy/1234/53080
-#EXTINF:-1,LMP - ALGODONEROS DE GUASAVE
-http://tv.nousiptv.com:25462/Omy/1234/53081
-#EXTINF:-1,LMP - MAYOS DE NAVOJOA
-http://tv.nousiptv.com:25462/Omy/1234/53082
-#EXTINF:-1,LMP - VENADOS DE MAZATLAN
-http://tv.nousiptv.com:25462/Omy/1234/53083
-#EXTINF:-1,LMP - NARANJEROS DE HERMOSILLO
-http://tv.nousiptv.com:25462/Omy/1234/53084
-#EXTINF:-1,LMP - TOMATEROS DE CULIACÁN
-http://tv.nousiptv.com:25462/Omy/1234/53085
-#EXTINF:-1,LMP - YAQUIS DE CIUDAD OBREGÓN
-http://tv.nousiptv.com:25462/Omy/1234/53086
-#EXTINF:-1,LMP - ÁGUILAS DE MEXICALI
-http://tv.nousiptv.com:25462/Omy/1234/53087
-#EXTINF:-1,MLB - ARIZONA DIAMONDBACKS
-http://tv.nousiptv.com:25462/Omy/1234/6023
-#EXTINF:-1,MLB - MILWAKE BREWERS
-http://tv.nousiptv.com:25462/Omy/1234/18579
-#EXTINF:-1,MLB - NEW YORK METS
-http://tv.nousiptv.com:25462/Omy/1234/18571
-#EXTINF:-1,MLB - PHILLADELPHIA PHILLIES
-http://tv.nousiptv.com:25462/Omy/1234/18569
-#EXTINF:-1,MLB - BLUE JAYS
-http://tv.nousiptv.com:25462/Omy/1234/18566
-#EXTINF:-1,MLB - BALTIMORE ORIOLS
-http://tv.nousiptv.com:25462/Omy/1234/30214
-#EXTINF:-1,MLB - ATLANTE BRAVES
-http://tv.nousiptv.com:25462/Omy/1234/3602
-#EXTINF:-1,MLB - CHICAGO CUBS
-http://tv.nousiptv.com:25462/Omy/1234/17181
-#EXTINF:-1,MLB - CHICAGO WHITE SOX
-http://tv.nousiptv.com:25462/Omy/1234/17182
-#EXTINF:-1,MLB - CINCINNATI REDS
-http://tv.nousiptv.com:25462/Omy/1234/3593
-#EXTINF:-1,MLB - COLORADO ROCKIES
-http://tv.nousiptv.com:25462/Omy/1234/16135
-#EXTINF:-1,MLB - DETROIT TIGERS
-http://tv.nousiptv.com:25462/Omy/1234/3351
-#EXTINF:-1,MLB - KANSAS CITY ROYALS
-http://tv.nousiptv.com:25462/Omy/1234/3349
-#EXTINF:-1,MLB - LOS ANGELES ANGELS
-http://tv.nousiptv.com:25462/Omy/1234/3348
-#EXTINF:-1,MLB - LOS ANGELES DODGERS
-http://tv.nousiptv.com:25462/Omy/1234/3347
-#EXTINF:-1,MLB - MIAMI MARLINS
-http://tv.nousiptv.com:25462/Omy/1234/3346
-#EXTINF:-1,MLB - MINNESOTA TWINS
-http://tv.nousiptv.com:25462/Omy/1234/4062
-#EXTINF:-1,MLB - NEW YORK YANKEES
-http://tv.nousiptv.com:25462/Omy/1234/2131
-#EXTINF:-1,MLB - OAKLAND ATHLETICS
-http://tv.nousiptv.com:25462/Omy/1234/17189
-#EXTINF:-1,MLB - PITTSBURGH PIRATES
-http://tv.nousiptv.com:25462/Omy/1234/16134
-#EXTINF:-1,MLB - RED SOX
-http://tv.nousiptv.com:25462/Omy/1234/3354
-#EXTINF:-1,MLB - SAN DIEGO PADRES
-http://tv.nousiptv.com:25462/Omy/1234/17186
-#EXTINF:-1,MLB - SAN FRANCISCO GIANTS
-http://tv.nousiptv.com:25462/Omy/1234/17185
-#EXTINF:-1,MLB - SEATLE MARINERS
-http://tv.nousiptv.com:25462/Omy/1234/17174
-#EXTINF:-1,MLB - ST. LOUIS CARDINALS
-http://tv.nousiptv.com:25462/Omy/1234/8173
-#EXTINF:-1,MLB - TAMP BAY RAYS
-http://tv.nousiptv.com:25462/Omy/1234/17184
-#EXTINF:-1,MLB - TEXAS RANGERS
-http://tv.nousiptv.com:25462/Omy/1234/17183
-#EXTINF:-1,MLB - NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3224
-#EXTINF:-1,MLB STRIKE ZONE
-http://tv.nousiptv.com:25462/Omy/1234/17173
-#EXTINF:-1,ENT - FRECUENCIA MUSICAL TV
-http://tv.nousiptv.com:25462/Omy/1234/18582
-#EXTINF:-1,24/7 - GARFIELD
-http://tv.nousiptv.com:25462/Omy/1234/18577
-#EXTINF:-1,24/7 EL CHAVO DEL OCHO
-http://tv.nousiptv.com:25462/Omy/1234/18576
-#EXTINF:-1,MX - APRENDE TV PRIMARIA
-http://tv.nousiptv.com:25462/Omy/1234/18575
-#EXTINF:-1,MX - TV UNAM
-http://tv.nousiptv.com:25462/Omy/1234/18574
-#EXTINF:-1,A PLUS
-http://tv.nousiptv.com:25462/Omy/1234/18573
-#EXTINF:-1,MYC - DISCOVERY  CIVILIZACIÓN
-http://tv.nousiptv.com:25462/Omy/1234/6020
-#EXTINF:-1,MEX - UNO MVS TV
-http://tv.nousiptv.com:25462/Omy/1234/6022
-#EXTINF:-1,NHL - NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/4015
-#EXTINF:-1,US.SP - FISHING NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3691
-#EXTINF:-1,US.SP - ELEVEN SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3758
-#EXTINF:-1,US.SP - ESPN
-http://tv.nousiptv.com:25462/Omy/1234/3371
-#EXTINF:-1,US.SP - ESPN 2
-http://tv.nousiptv.com:25462/Omy/1234/3372
-#EXTINF:-1,US.SP - FIGHT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3380
-#EXTINF:-1,US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3378
-#EXTINF:-1,US.SP - FOX SOCCER PLUS
-http://tv.nousiptv.com:25462/Omy/1234/3754
-#EXTINF:-1,US.SP - FOX SPORTS 1
-http://tv.nousiptv.com:25462/Omy/1234/2048
-#EXTINF:-1,US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/2044
-#EXTINF:-1,US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:25462/Omy/1234/3707
-#EXTINF:-1,US.SP - FS1 HD
-http://tv.nousiptv.com:25462/Omy/1234/17418
-#EXTINF:-1,US.ET - GAME SHOW NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/17419
-#EXTINF:-1,US.SP - GOL TV ENGLISH
-http://tv.nousiptv.com:25462/Omy/1234/3756
-#EXTINF:-1,US.SP - NBC GOLF
-http://tv.nousiptv.com:25462/Omy/1234/3752
-#EXTINF:-1,US.SP - PAC 12 ARIZONA
-http://tv.nousiptv.com:25462/Omy/1234/3799
-#EXTINF:-1,US.SP - PAC 12 BAY AREA
-http://tv.nousiptv.com:25462/Omy/1234/3368
-#EXTINF:-1,US.SP - PAC 12 LOS ANGELES
-http://tv.nousiptv.com:25462/Omy/1234/3364
-#EXTINF:-1,US.SP - PAC 12 MOUNTAIN
-http://tv.nousiptv.com:25462/Omy/1234/3369
-#EXTINF:-1,US.SP - PAC 12 NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3375
-#EXTINF:-1,US.SP - PAC 12 OREGON
-http://tv.nousiptv.com:25462/Omy/1234/3374
-#EXTINF:-1,US.SP - PAC 12 WASHINGTON
-http://tv.nousiptv.com:25462/Omy/1234/3373
-#EXTINF:-1,US.SP - TBS
-http://tv.nousiptv.com:25462/Omy/1234/17891
-#EXTINF:-1,US.SP - TENNIS CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3791
-#EXTINF:-1,US.SP - TSN SPORT 1 HD
-http://tv.nousiptv.com:25462/Omy/1234/3363
-#EXTINF:-1,US.SP - TSN SPORT 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/3362
-#EXTINF:-1,US.SP - TSN SPORT 4 HD
-http://tv.nousiptv.com:25462/Omy/1234/3360
-#EXTINF:-1,US.SP - VIP GOLF CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/17602
-#EXTINF:-1,US.SP - WWE HD
-http://tv.nousiptv.com:25462/Omy/1234/3426
-#EXTINF:-1,US.SP - NBC SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3709
-#EXTINF:-1,US.SP - BTN
-http://tv.nousiptv.com:25462/Omy/1234/3750
-#EXTINF:-1,US.SP - TSN SPORT 3 HD
-http://tv.nousiptv.com:25462/Omy/1234/3361
-#EXTINF:-1,US.SP - TVG
-http://tv.nousiptv.com:25462/Omy/1234/36759
-#EXTINF:-1,MUS - MTV LATINO
-http://tv.nousiptv.com:25462/Omy/1234/3192
-#EXTINF:-1,MUS - CONCERT CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/23236
-#EXTINF:-1,MUS - MTV HITS
-http://tv.nousiptv.com:25462/Omy/1234/3191
-#EXTINF:-1,MUS - BANDAMAX
-http://tv.nousiptv.com:25462/Omy/1234/3086
-#EXTINF:-1,MUS - MTV LIVE
-http://tv.nousiptv.com:25462/Omy/1234/3072
-#EXTINF:-1,MUS - MUSIC TOP
-http://tv.nousiptv.com:25462/Omy/1234/7823
-#EXTINF:-1,MUS - RETRO TV
-http://tv.nousiptv.com:25462/Omy/1234/23235
-#EXTINF:-1,MUS - TELEHIT URBANO
-http://tv.nousiptv.com:25462/Omy/1234/3960
-#EXTINF:-1,MUS - TELEHIT
-http://tv.nousiptv.com:25462/Omy/1234/3064
-#EXTINF:-1,MUS - TELERITMO
-http://tv.nousiptv.com:25462/Omy/1234/7821
-#EXTINF:-1,MUS - VH1
-http://tv.nousiptv.com:25462/Omy/1234/4132
-#EXTINF:-1,MUS - VH1 CLASSIC
-http://tv.nousiptv.com:25462/Omy/1234/4133
-#EXTINF:-1,PPV - CINE INFANTIL 03
-http://tv.nousiptv.com:25462/Omy/1234/29415
-#EXTINF:-1,PPV - CINEMA 01 FHD (ES)
-http://tv.nousiptv.com:25462/Omy/1234/7964
-#EXTINF:-1,PPV - CINEMA 02 FHD (ES)
-http://tv.nousiptv.com:25462/Omy/1234/7965
-#EXTINF:-1,PPV - CINEMA 03 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8007
-#EXTINF:-1,PPV - CINEMA 04 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8006
-#EXTINF:-1,PPV - CINEMA 05 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8005
-#EXTINF:-1,PPV - CINEMA 06 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8004
-#EXTINF:-1,PPV - CINEMA 07 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8003
-#EXTINF:-1,PPV - CINEMA 08 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8002
-#EXTINF:-1,PPV - CINEMA 09 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8001
-#EXTINF:-1,PPV - CINEMA 10 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/8000
-#EXTINF:-1,PPV - CINEMA 11 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7999
-#EXTINF:-1,PPV - CINEMA 12 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7998
-#EXTINF:-1,PPV - CINEMA 13 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7997
-#EXTINF:-1,PPV - CINEMA 14 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7996
-#EXTINF:-1,PPV - CINEMA 15 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7995
-#EXTINF:-1,PPV - CINEMA 16 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7994
-#EXTINF:-1,PPV - CINEMA 17 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7993
-#EXTINF:-1,PPV - CINEMA 18 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7992
-#EXTINF:-1,PPV - CINEMA 19 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7991
-#EXTINF:-1,PPV - CINEMA 20 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7990
-#EXTINF:-1,PPV - CINEMA 21 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7989
-#EXTINF:-1,PPV - CINEMA 22 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7988
-#EXTINF:-1,PPV - CINEMA 23 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7987
-#EXTINF:-1,PPV - CINEMA 24 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7986
-#EXTINF:-1,PPV - CINEMA 25 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7985
-#EXTINF:-1,PPV - CINEMA 26 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7984
-#EXTINF:-1,PPV - CINEMA 27 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7983
-#EXTINF:-1,PPV - CINEMA 28 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7982
-#EXTINF:-1,PPV - CINEMA 29 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7981
-#EXTINF:-1,PPV - CINEMA 30 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7980
-#EXTINF:-1,PPV - CINEMA 31 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7979
-#EXTINF:-1,PPV - CINEMA 32 FHD (ES).
-http://tv.nousiptv.com:25462/Omy/1234/7977
-#EXTINF:-1,24/7 - DRAGON BALL SUPER
-http://tv.nousiptv.com:25462/Omy/1234/29406
-#EXTINF:-1,24/7 - FUTURAMA
-http://tv.nousiptv.com:25462/Omy/1234/29407
-#EXTINF:-1,24/7 - LOONEY TUNES
-http://tv.nousiptv.com:25462/Omy/1234/29409
-#EXTINF:-1,24/7 - LOS SIMPSON HD
-http://tv.nousiptv.com:25462/Omy/1234/29412
-#EXTINF:-1,24/7 - MUCHO FLOW
-http://tv.nousiptv.com:25462/Omy/1234/29410
-#EXTINF:-1,US.FM - A&E
-http://tv.nousiptv.com:25462/Omy/1234/3761
-#EXTINF:-1,US.FM - AMC
-http://tv.nousiptv.com:25462/Omy/1234/3357
-#EXTINF:-1,US.FM - BET
-http://tv.nousiptv.com:25462/Omy/1234/17416
-#EXTINF:-1,US.SV - NHL NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3763
-#EXTINF:-1,US.FM - SONY MOVIE CHANEL
-http://tv.nousiptv.com:25462/Omy/1234/3704
-#EXTINF:-1,US.FM - EL REY NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3765
-#EXTINF:-1,US.UV - NFL NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3695
-#EXTINF:-1,US.FM - FOX
-http://tv.nousiptv.com:25462/Omy/1234/29349
-#EXTINF:-1,US.FM - FOX LIFE
-http://tv.nousiptv.com:25462/Omy/1234/3766
-#EXTINF:-1,US.FM - OLYMPIC CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3699
-#EXTINF:-1,US.FM - FUSE
-http://tv.nousiptv.com:25462/Omy/1234/3767
-#EXTINF:-1,US.FM - FX
-http://tv.nousiptv.com:25462/Omy/1234/3768
-#EXTINF:-1,US.FM - FXM
-http://tv.nousiptv.com:25462/Omy/1234/3769
-#EXTINF:-1,US.FM - FXX
-http://tv.nousiptv.com:25462/Omy/1234/3770
-#EXTINF:-1,US.FM - FYI
-http://tv.nousiptv.com:25462/Omy/1234/3771
-#EXTINF:-1,US.FM - HALLMARK
-http://tv.nousiptv.com:25462/Omy/1234/3781
-#EXTINF:-1,US.FM - HALLMARK MOVIES & MISTERIES
-http://tv.nousiptv.com:25462/Omy/1234/3782
-#EXTINF:-1,US.FM - HBO
-http://tv.nousiptv.com:25462/Omy/1234/8210
-#EXTINF:-1,US.FM - HBO 2
-http://tv.nousiptv.com:25462/Omy/1234/8222
-#EXTINF:-1,US.FM - HBO COMEDY
-http://tv.nousiptv.com:25462/Omy/1234/18769
-#EXTINF:-1,US.FM - HBO EAST
-http://tv.nousiptv.com:25462/Omy/1234/18768
-#EXTINF:-1,US.FM - HBO EAST
-http://tv.nousiptv.com:25462/Omy/1234/29344
-#EXTINF:-1,US.FM - HBO FAMILY
-http://tv.nousiptv.com:25462/Omy/1234/8216
-#EXTINF:-1,US.FM - HBO SIGNATURE
-http://tv.nousiptv.com:25462/Omy/1234/29345
-#EXTINF:-1,US.FM - I-SAT
-http://tv.nousiptv.com:25462/Omy/1234/29342
-#EXTINF:-1,US.FM - ION TV
-http://tv.nousiptv.com:25462/Omy/1234/17417
-#EXTINF:-1,US.FM - LIFETIME
-http://tv.nousiptv.com:25462/Omy/1234/3783
-#EXTINF:-1,US.FM - LIFETIME MOVIES
-http://tv.nousiptv.com:25462/Omy/1234/17175
-#EXTINF:-1,US.FM - BYN SPORTS USA
-http://tv.nousiptv.com:25462/Omy/1234/29341
-#EXTINF:-1,US.FM - REVOLT
-http://tv.nousiptv.com:25462/Omy/1234/3777
-#EXTINF:-1,US.FM - SHOWCASE
-http://tv.nousiptv.com:25462/Omy/1234/22380
-#EXTINF:-1,US.FM - SPIKE TV
-http://tv.nousiptv.com:25462/Omy/1234/22374
-#EXTINF:-1,US.FM - TBS
-http://tv.nousiptv.com:25462/Omy/1234/29353
-#EXTINF:-1,US.FM - GAME SHOW NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3701
-#EXTINF:-1,US.FM - TNT
-http://tv.nousiptv.com:25462/Omy/1234/18767
-#EXTINF:-1,US.FM - USA NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/3780
-#EXTINF:-1,US.FM - VICELAND
-http://tv.nousiptv.com:25462/Omy/1234/3792
-#EXTINF:-1,US.FM - HBO ZONE
-http://tv.nousiptv.com:25462/Omy/1234/22381
-#EXTINF:-1,US.FM - YES TV
-http://tv.nousiptv.com:25462/Omy/1234/22382
-#EXTINF:-1,US.FM - BRAVO HD
-http://tv.nousiptv.com:25462/Omy/1234/3762
-#EXTINF:-1,US.FM - BRAVO OP2
-http://tv.nousiptv.com:25462/Omy/1234/49279
-#EXTINF:-1,US.FM - NBC
-http://tv.nousiptv.com:25462/Omy/1234/3687
-#EXTINF:-1,US.FM - CW
-http://tv.nousiptv.com:25462/Omy/1234/38325
-#EXTINF:-1,US.EN - COMEDY CENTRAL
-http://tv.nousiptv.com:25462/Omy/1234/17178
-#EXTINF:-1,US.EN - DISCOVERY TURBO
-http://tv.nousiptv.com:25462/Omy/1234/17179
-#EXTINF:-1,US.EN - DISCOVERY VELOCITY
-http://tv.nousiptv.com:25462/Omy/1234/22375
-#EXTINF:-1,US.EN - DIY NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/17414
-#EXTINF:-1,US.EN - E! ENTERTAINMENT
-http://tv.nousiptv.com:25462/Omy/1234/3764
-#EXTINF:-1,US.EN - FASHION TELEVISION
-http://tv.nousiptv.com:25462/Omy/1234/22373
-#EXTINF:-1,US.EN - FIGHT
-http://tv.nousiptv.com:25462/Omy/1234/3693
-#EXTINF:-1,US.EN - FOOD NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/17413
-#EXTINF:-1,US.EN - HGTV
-http://tv.nousiptv.com:25462/Omy/1234/8340
-#EXTINF:-1,US.WC - MSNBC HD
-http://tv.nousiptv.com:25462/Omy/1234/35310
-#EXTINF:-1,US.EN - O.W.N (oprah winfrey network)
-http://tv.nousiptv.com:25462/Omy/1234/22383
-#EXTINF:-1,US.EN - OUTDOOR CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/22379
-#EXTINF:-1,US.EN - TRU TV
-http://tv.nousiptv.com:25462/Omy/1234/17177
-#EXTINF:-1,US.EN - VH1
-http://tv.nousiptv.com:25462/Omy/1234/17415
-#EXTINF:-1,US.WC - ABC
-http://tv.nousiptv.com:25462/Omy/1234/3788
-#EXTINF:-1,US.WC - ABC MIAMI
-http://tv.nousiptv.com:25462/Omy/1234/29078
-#EXTINF:-1,US.WC - ANIMAL PLANET
-http://tv.nousiptv.com:25462/Omy/1234/18771
-#EXTINF:-1,US.WC - CBS
-http://tv.nousiptv.com:25462/Omy/1234/3367
-#EXTINF:-1,US.WC - CNBC WORLD
-http://tv.nousiptv.com:25462/Omy/1234/3365
-#EXTINF:-1,US.WC - CNN
-http://tv.nousiptv.com:25462/Omy/1234/3967
-#EXTINF:-1,US.WC - CNN INTERNACIONAL
-http://tv.nousiptv.com:25462/Omy/1234/3377
-#EXTINF:-1,US.WC - DISCOVERY ID
-http://tv.nousiptv.com:25462/Omy/1234/22376
-#EXTINF:-1,US.WC - DISCOVERY SCIENCIE
-http://tv.nousiptv.com:25462/Omy/1234/18770
-#EXTINF:-1,US.WC - FOX 5
-http://tv.nousiptv.com:25462/Omy/1234/3624
-#EXTINF:-1,US.WC - FOX NEWS
-http://tv.nousiptv.com:25462/Omy/1234/29350
-#EXTINF:-1,US.WC - FOX PHILADELPHIA
-http://tv.nousiptv.com:25462/Omy/1234/43290
-#EXTINF:-1,US.WC - HISTORY
-http://tv.nousiptv.com:25462/Omy/1234/3772
-#EXTINF:-1,US.WC - NATGEO
-http://tv.nousiptv.com:25462/Omy/1234/3773
-#EXTINF:-1,US.WC - NATGEO WILD
-http://tv.nousiptv.com:25462/Omy/1234/3775
-#EXTINF:-1,US.WC - TLC
-http://tv.nousiptv.com:25462/Omy/1234/29352
-#EXTINF:-1,US.WC - THE WEATHER CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/3790
-#EXTINF:-1,US.CH - BOOMERANG
-http://tv.nousiptv.com:25462/Omy/1234/29147
-#EXTINF:-1,US.CH - CARTOON NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/29145
-#EXTINF:-1,US.CH - DISNEY CHANNEL
-http://tv.nousiptv.com:25462/Omy/1234/29142
-#EXTINF:-1,US.CH - DISNEY XD
-http://tv.nousiptv.com:25462/Omy/1234/29144
-#EXTINF:-1,US.CH - NICKTOONS
-http://tv.nousiptv.com:25462/Omy/1234/29146
-#EXTINF:-1,US.CH - PBS KIDS
-http://tv.nousiptv.com:25462/Omy/1234/22378
-#EXTINF:-1,US.CH - DISNEY JR
-http://tv.nousiptv.com:25462/Omy/1234/29143
-#EXTINF:-1,RADIO - CAROLINA TV (CHILE)
-http://tv.nousiptv.com:25462/Omy/1234/23227
-#EXTINF:-1,RADIO - ADN (CHILE)
-http://tv.nousiptv.com:25462/Omy/1234/23228
-#EXTINF:-1,RADIO - BIG (CHILE)
-http://tv.nousiptv.com:25462/Omy/1234/4181
-#EXTINF:-1,RADIO - 
-http://tv.nousiptv.com:25462/Omy/1234/40933
-#EXTINF:-1,ADULTOS - PPV 01
-http://tv.nousiptv.com:25462/Omy/1234/3463
-#EXTINF:-1,ADULTOS - PPV 02
-http://tv.nousiptv.com:25462/Omy/1234/3462
-#EXTINF:-1,ADULTOS - PPV 03
-http://tv.nousiptv.com:25462/Omy/1234/3467
-#EXTINF:-1,ADULTOS - PPV 04
-http://tv.nousiptv.com:25462/Omy/1234/3464
-#EXTINF:-1,ADULTOS - PPV 05
-http://tv.nousiptv.com:25462/Omy/1234/3465
-#EXTINF:-1,ADULTOS - PPV 06
-http://tv.nousiptv.com:25462/Omy/1234/3466
-#EXTINF:-1,ADULTOS - PPV 07
-http://tv.nousiptv.com:25462/Omy/1234/7130
-#EXTINF:-1,ADULTOS - PPV 08
-http://tv.nousiptv.com:25462/Omy/1234/7129
-#EXTINF:-1,ADULTOS - PPV 09
-http://tv.nousiptv.com:25462/Omy/1234/7125
-#EXTINF:-1,ADULTOS - PPV 10
-http://tv.nousiptv.com:25462/Omy/1234/7127
-#EXTINF:-1,ADULTOS - PPV 11
-http://tv.nousiptv.com:25462/Omy/1234/7128
-#EXTINF:-1,ADULTOS - PPV 12
-http://tv.nousiptv.com:25462/Omy/1234/47989
-#EXTINF:-1,ADULTOS - PPV 13
-http://tv.nousiptv.com:25462/Omy/1234/47990
-#EXTINF:-1,ADULTOS - PPV 14
-http://tv.nousiptv.com:25462/Omy/1234/47991
-#EXTINF:-1,ADULTOS - PPV 15 (GAY’S)
-http://tv.nousiptv.com:25462/Omy/1234/47992
-#EXTINF:-1,ES - Eurosport 1
-http://tv.nousiptv.com:25462/Omy/1234/41816
-#EXTINF:-1,BRA - GLOBO BRASILIA HD
-http://tv.nousiptv.com:25462/Omy/1234/43623
-#EXTINF:-1,BRA - GLOBO RIO HD
-http://tv.nousiptv.com:25462/Omy/1234/43624
-#EXTINF:-1,PR-WAPA
-http://tv.nousiptv.com:25462/Omy/1234/43870
-#EXTINF:-1,PR-WAPA AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/43871
-#EXTINF:-1,PR-MEGA TV
-http://tv.nousiptv.com:25462/Omy/1234/43872
-#EXTINF:-1,PR-UNIVISION
-http://tv.nousiptv.com:25462/Omy/1234/43873
-#EXTINF:-1,PR-PUNTO 2
-http://tv.nousiptv.com:25462/Omy/1234/43874
-#EXTINF:-1,PR-TELEMUNDO
-http://tv.nousiptv.com:25462/Omy/1234/43875
-#EXTINF:-1,CINE - HBO XTREME
-http://tv.nousiptv.com:25462/Omy/1234/44341
-#EXTINF:-1,BRA - RECORD
-http://tv.nousiptv.com:25462/Omy/1234/44841
-#EXTINF:-1,US.WC - CBSN HD
-http://tv.nousiptv.com:25462/Omy/1234/44870
-#EXTINF:-1,US.FM - MEGA TV
-http://tv.nousiptv.com:25462/Omy/1234/45280
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:25462/Omy/1234/47695
-#EXTINF:-1,MEX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:25462/Omy/1234/47697
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:25462/Omy/1234/47696
-#EXTINF:-1,ENT - BITME
-http://tv.nousiptv.com:25462/Omy/1234/47698
-#EXTINF:-1,LAT - AMERICATEVE
-http://tv.nousiptv.com:25462/Omy/1234/48119
-#EXTINF:-1,LAT - PASIONES
-http://tv.nousiptv.com:25462/Omy/1234/49168
-#EXTINF:-1,ENT - ETC
-http://tv.nousiptv.com:25462/Omy/1234/49228
-#EXTINF:-1,MEX - IMAGEN RADIO
-http://tv.nousiptv.com:25462/Omy/1234/3594
-#EXTINF:-1,ESP - BOOM CINE
-http://tv.nousiptv.com:25462/Omy/1234/51047
-#EXTINF:-1,ES - BAR TV HD
-http://tv.nousiptv.com:25462/Omy/1234/51343
-#EXTINF:-1,ES - Eurosport  2
-http://tv.nousiptv.com:25462/Omy/1234/51352
-#EXTINF:-1,URU  - A+V (TEST)
-http://tv.nousiptv.com:25462/Omy/1234/51359
-#EXTINF:-1,RD - Television Dominicana
-http://tv.nousiptv.com:25462/Omy/1234/41291
-#EXTINF:-1,MUS - HTV
-http://tv.nousiptv.com:25462/Omy/1234/51395
-#EXTINF:-1,24/7 - DANIEL EL TRAVIESO
-http://tv.nousiptv.com:25462/Omy/1234/44721
-#EXTINF:-1,25/7 - Malcolm
-http://tv.nousiptv.com:25462/Omy/1234/44818
-#EXTINF:-1,24/7 - DRAGON BALL GT
-http://tv.nousiptv.com:25462/Omy/1234/44344
-#EXTINF:-1,24/7 DUCK DODGERS
-http://tv.nousiptv.com:25462/Omy/1234/44723
-#EXTINF:-1,24/7 LOS PICAPIEDRAS
-http://tv.nousiptv.com:25462/Omy/1234/44728
-#EXTINF:-1,24/7 - LAS TORTUGAS NINJAS
-http://tv.nousiptv.com:25462/Omy/1234/44806
-#EXTINF:-1,24/7 - TOM Y JERRY
-http://tv.nousiptv.com:25462/Omy/1234/46490
-#EXTINF:-1,24/7 - FENOMENOIDE
-http://tv.nousiptv.com:25462/Omy/1234/46491
-#EXTINF:-1,24/7 LOS PINGUINOS DE MADAGASCAR 
-http://tv.nousiptv.com:25462/Omy/1234/48406
-#EXTINF:-1,ES - MOVISTAR  #VAMOS
-http://tv.nousiptv.com:25462/Omy/1234/51453
-#EXTINF:-1,ITA - RAI ITALIANA
-http://tv.nousiptv.com:25462/Omy/1234/51883
-#EXTINF:-1,BRA - GLOBO RIO
-http://tv.nousiptv.com:25462/Omy/1234/7826
-#EXTINF:-1,BOL - UNITEL
-http://tv.nousiptv.com:25462/Omy/1234/52619
-#EXTINF:-1,ES - MOVISTAR F1 FHD
-http://tv.nousiptv.com:25462/Omy/1234/53028
-#EXTINF:-1,PAR - TIGO SPORTS + HD
-http://tv.nousiptv.com:25462/Omy/1234/53029
-#EXTINF:-1,BRA - SPORTV 3
-http://tv.nousiptv.com:25462/Omy/1234/53171
-#EXTINF:-1,US.SP - NBC SPORTS BOSTON
-http://tv.nousiptv.com:25462/Omy/1234/53292
-#EXTINF:-1,US-SP UFC FIGHT PASS
-http://tv.nousiptv.com:25462/Omy/1234/53373
-#EXTINF:-1,US-SP UFC TV HD
-http://tv.nousiptv.com:25462/Omy/1234/53374
-#EXTINF:-1,US - SP FOX SPORTS OHIO
-http://tv.nousiptv.com:25462/Omy/1234/53621
-#EXTINF:-1,ITA- RAI DEPORTES
-http://tv.nousiptv.com:25462/Omy/1234/53777
-#EXTINF:-1,ITA- RAI 1
-http://tv.nousiptv.com:25462/Omy/1234/53778
-#EXTINF:-1,FRA-6ter
-http://tv.nousiptv.com:25462/Omy/1234/53779
-#EXTINF:-1,ES - LA 1 HD
-http://tv.nousiptv.com:25462/Omy/1234/53894
-#EXTINF:-1,US.SP - NBC SN
-http://tv.nousiptv.com:25462/Omy/1234/53905
-#EXTINF:-1,US.EN - KNBC 4
-http://tv.nousiptv.com:25462/Omy/1234/54118
-#EXTINF:-1,ES - TV GALICIA
-http://tv.nousiptv.com:25462/Omy/1234/54155
-#EXTINF:-1,LD - FOX SPORTS SUR (ARG)
-http://tv.nousiptv.com:25462/Omy/1234/54575
-#EXTINF:-1,US.SP - FUBO SPORTS NETWORK
-http://tv.nousiptv.com:25462/Omy/1234/54579
-#EXTINF:-1,US.WC - NBC NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/54580
-#EXTINF:-1,US.EN - ABC NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/54581
-#EXTINF:-1,CHILE - CDF FHD
-http://tv.nousiptv.com:25462/Omy/1234/54717
-#EXTINF:-1,ECU - PPV ECUADOR 2
-http://tv.nousiptv.com:25462/Omy/1234/54718
-#EXTINF:-1,BOL - ATB
-http://tv.nousiptv.com:25462/Omy/1234/54730
-#EXTINF:-1,BOL - BOLIVIA DEPORTES
-http://tv.nousiptv.com:25462/Omy/1234/54731
-#EXTINF:-1,BOL - BOLIVIA TV
-http://tv.nousiptv.com:25462/Omy/1234/54732
-#EXTINF:-1,BOL -  BOLIVISION TV ⁽ᴴᴰ⁾
-http://tv.nousiptv.com:25462/Omy/1234/54733
-#EXTINF:-1,BOL - RTP
-http://tv.nousiptv.com:25462/Omy/1234/54734
-#EXTINF:-1,BOL - TIGO SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/54735
-#EXTINF:-1,BOL - TIGO SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/54736
-#EXTINF:-1,BOL - TIGO SPORTS 3
-http://tv.nousiptv.com:25462/Omy/1234/54737
-#EXTINF:-1,PERU - TV PLUS
-http://tv.nousiptv.com:25462/Omy/1234/54853
-#EXTINF:-1,US.LOC- PBS NEW YORK
-http://tv.nousiptv.com:25462/Omy/1234/55057
-#EXTINF:-1,US.EN-CW
-http://tv.nousiptv.com:25462/Omy/1234/55058
-#EXTINF:-1,us-FOX New York 256
-http://tv.nousiptv.com:25462/Omy/1234/55059
-#EXTINF:-1,ES - LIGA DE CAMPEONES 1 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55321
-#EXTINF:-1,ES - LIGA DE CAMPEONES 2 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55322
-#EXTINF:-1,ES - LIGA DE CAMPEONES 3 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55323
-#EXTINF:-1,ES - LIGA DE CAMPEONES 4 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55324
-#EXTINF:-1,ES - LIGA DE CAMPEONES 5 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55325
-#EXTINF:-1,ES - LIGA DE CAMPEONES 6 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55326
-#EXTINF:-1,ES - LIGA DE CAMPEONES 7 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55327
-#EXTINF:-1,ES - LIGA DE CAMPEONES 8 (solo eventos)
-http://tv.nousiptv.com:25462/Omy/1234/55328
-#EXTINF:-1,*********ESTRENOS*********
-http://tv.nousiptv.com:25462/movie/Omy/1234/9199.mp4
-#EXTINF:-1,Dos rubias de pelo en pecho (2004)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55742.mkv
-#EXTINF:-1,La Fortaleza (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55767.mkv
-#EXTINF:-1,El Testamento de la Abuela (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55768.mkv
-#EXTINF:-1,Navidad Xtraterrestre (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55769.mkv
-#EXTINF:-1,La Diosa Fortuna (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55770.mkv
-#EXTINF:-1,Historias lamentables (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55771.mkv
-#EXTINF:-1,Come Play (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55772.mkv
-#EXTINF:-1,Pogo (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55773.mkv
-#EXTINF:-1,Admitido (2006)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55961.avi
-#EXTINF:-1,La vida que queríamos - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55536.mkv
-#EXTINF:-1,Console Wars (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55748.mp4
-#EXTINF:-1,Crónica de una tormenta (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55749.mp4
-#EXTINF:-1,Coma (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55750.mp4
-#EXTINF:-1,Arturo y Merlín: Caballeros de Camelot (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55751.mp4
-#EXTINF:-1,The Swamp (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55752.mp4
-#EXTINF:-1,Fisherman’s Friends - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55753.mkv
-#EXTINF:-1,(Re)cambio De Princesa - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55754.mkv
-#EXTINF:-1,Behind the Line: Escape to Dunkirk - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55755.mkv
-#EXTINF:-1,The Personal History of David Copperfield - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55756.mkv
-#EXTINF:-1,Amores modernos - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55757.mkv
-#EXTINF:-1,LEGO Star Wars: Especial Felices Fiestas - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55758.mkv
-#EXTINF:-1,Más allá de la Luna (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55440.mp4
-#EXTINF:-1,Bill & Ted Face the Music - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55537.mkv
-#EXTINF:-1,Jungleland - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55538.mkv
-#EXTINF:-1,Toys of Terror - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55539.mkv
-#EXTINF:-1,The Dark Divide - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55540.mkv
-#EXTINF:-1,Transference: A Bipolar Love Story - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55541.mkv
-#EXTINF:-1,We Bare Bears: The Movie - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55543.mkv
-#EXTINF:-1,Morgue - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55544.mkv
-#EXTINF:-1,El engaño (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55559.mp4
-#EXTINF:-1,Possessor Uncut (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55560.mp4
-#EXTINF:-1,Los secretos de la tumba de Saqqara (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55561.mp4
-#EXTINF:-1,La vida por delante (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55672.mp4
-#EXTINF:-1,Colombia fue nuestra (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55673.mp4
-#EXTINF:-1,Bedroom Story - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55675.mkv
-#EXTINF:-1,Escuela para seductores - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55676.mkv
-#EXTINF:-1,Max Winslow and The House of Secrets - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55677.mkv
-#EXTINF:-1,Ludo - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55678.mkv
-#EXTINF:-1,Fireball: Visitors From Darker Worlds - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55679.mkv
-#EXTINF:-1,La vida por delante - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55680.mkv
-#EXTINF:-1,La Navidad mágica de los Jangle - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55681.mkv
-#EXTINF:-1,I Am Greta - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55682.mkv
-#EXTINF:-1,Greenland: el último refugio - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55683.mkv
-#EXTINF:-1,Nunca, casi nunca, a veces, siempre - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55684.mkv
-#EXTINF:-1,La cantera - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55685.mkv
-#EXTINF:-1,Miss Juneteenth - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55686.mkv
-#EXTINF:-1,Viking Blood - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55687.mkv
-#EXTINF:-1,Eternamente enamorados - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55688.mkv
-#EXTINF:-1,Bad Nun: Deadly Vows - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55689.mkv
-#EXTINF:-1,Baba Yaga: El regreso del demonio - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55690.mkv
-#EXTINF:-1,Submission - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/55691.mkv
-#EXTINF:-1,La Cara Oculta (2011)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55692.avi
-#EXTINF:-1,Cara a cara (1997)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55695.avi
-#EXTINF:-1,Una pandilla de pelotas (2005)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55696.mp4
-#EXTINF:-1,Los nuevos mutantes - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55337.mkv
-#EXTINF:-1,Érase una vez un muñeco de nieve - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55441.mp4
-#EXTINF:-1,We Bare Bears: The Movie (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55442.mp4
-#EXTINF:-1,Bronx (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55443.mp4
-#EXTINF:-1,The Current Occupant (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55444.mp4
-#EXTINF:-1,Clouds (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55445.mp4
-#EXTINF:-1,Antebellum (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55446.mp4
-#EXTINF:-1,En Busca del Paraiso 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55448.mp4
-#EXTINF:-1,La Deuda 2 (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55449.mp4
-#EXTINF:-1,Rudo y Cursi (2008)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55055.mkv
-#EXTINF:-1,Bob Esponja: Un héroe al rescate - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55338.mkv
-#EXTINF:-1,Operación Feliz Navidad - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55339.mkv
-#EXTINF:-1,Mano de obra - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55340.mkv
-#EXTINF:-1,Citation - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55341.mkv
-#EXTINF:-1,Ab Sculpt
-http://tv.nousiptv.com:25462/movie/Omy/1234/55183.mpg
-#EXTINF:-1,El Crimen del Padre Amaro (2002)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55056.avi
-#EXTINF:-1,La noche de Halloween (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55080.mp4
-#EXTINF:-1,Clouds - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54856.mkv
-#EXTINF:-1,Ab Sculpt Level 2
-http://tv.nousiptv.com:25462/movie/Omy/1234/55184.avi
-#EXTINF:-1,Fat Burning 
-http://tv.nousiptv.com:25462/movie/Omy/1234/55185.mpg
-#EXTINF:-1,Fat Burning Cardio Level 2
-http://tv.nousiptv.com:25462/movie/Omy/1234/55186.avi
-#EXTINF:-1,Total Body Burn
-http://tv.nousiptv.com:25462/movie/Omy/1234/55187.mpg
-#EXTINF:-1,Total Body Burn Level 2
-http://tv.nousiptv.com:25462/movie/Omy/1234/55188.mpg
-#EXTINF:-1,Hips, Buns and Thighs
-http://tv.nousiptv.com:25462/movie/Omy/1234/55189.mpg
-#EXTINF:-1,Last Minute Abs
-http://tv.nousiptv.com:25462/movie/Omy/1234/55190.mpg
-#EXTINF:-1,Learn to Dance Get Abs or Die Trying
-http://tv.nousiptv.com:25462/movie/Omy/1234/55191.avi
-#EXTINF:-1,Fast & Furious 7 (2015)
-http://tv.nousiptv.com:25462/movie/Omy/1234/55300.mkv
-#EXTINF:-1,Zapatos rojos y los siete enanos (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54741.mkv
-#EXTINF:-1,Rebeca - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54857.mkv
-#EXTINF:-1,Ted 2 (2015)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54858.mp4
-#EXTINF:-1,Welcome to Sudden Death (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54859.mkv
-#EXTINF:-1,Las brujas - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54918.mkv
-#EXTINF:-1,Heavenquest: A Pilgrim's Progress - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54919.mkv
-#EXTINF:-1,El cadáver - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55049.mkv
-#EXTINF:-1,Bad Hair - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55050.mkv
-#EXTINF:-1,Friendsgiving - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55051.mkv
-#EXTINF:-1,Sage of Time - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55052.mkv
-#EXTINF:-1,On the Rocks - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/55053.mkv
-#EXTINF:-1,El engaño - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/55054.mkv
-#EXTINF:-1,Emperador (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54727.mkv
-#EXTINF:-1,El club secreto de los no herederos al trono (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54742.mkv
-#EXTINF:-1,¿Quién engañó a Roger Rabbit? (1988)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54743.mkv
-#EXTINF:-1,Haz lo que debas (1989)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54744.mkv
-#EXTINF:-1,Nocturne - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54745.mkv
-#EXTINF:-1,Evil Eye - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54746.mkv
-#EXTINF:-1,Erase una vez en… Hollywood (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54750.mp4
-#EXTINF:-1,Ted (2012)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54751.mkv
-#EXTINF:-1,American Pie Presenta: Las chicas mandan - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54752.mkv
-#EXTINF:-1,InterReflections - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54753.mkv
-#EXTINF:-1,Reaptown - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54754.mkv
-#EXTINF:-1,Las tres muertes de Marisela Escobedo - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54769.mkv
-#EXTINF:-1,Fast & Furious 6 (2013)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54770.mkv
-#EXTINF:-1,El extranjero - 2017
-http://tv.nousiptv.com:25462/movie/Omy/1234/54773.mkv
-#EXTINF:-1,El Dilema De Las Redes Sociales (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54774.mkv
-#EXTINF:-1,Psycho Yoga Instructor (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54781.mp4
-#EXTINF:-1,Consejos de una canguro para cazar monstruos (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54784.mp4
-#EXTINF:-1,Love and Monsters (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54785.mp4
-#EXTINF:-1,Fernando Torres: El Último Símbolo (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54786.mp4
-#EXTINF:-1,You Should Have Left - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54802.mkv
-#EXTINF:-1,El juicio de los 7 de Chicago - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54804.mkv
-#EXTINF:-1,Truth and Justice - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/54805.mkv
-#EXTINF:-1,Fuera de control - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54827.mkv
-#EXTINF:-1,Cut Throat City - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54828.mkv
-#EXTINF:-1,Clemency (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54573.mkv
-#EXTINF:-1,Whiplash (2014)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54728.mkv
-#EXTINF:-1,Distrito 13 - 2004
-http://tv.nousiptv.com:25462/movie/Omy/1234/54729.mkv
-#EXTINF:-1,A 3 metros y medio - 2017
-http://tv.nousiptv.com:25462/movie/Omy/1234/54574.mkv
-#EXTINF:-1,Canoa - 1976
-http://tv.nousiptv.com:25462/movie/Omy/1234/54576.mkv
-#EXTINF:-1,Welcome to Sudden Death - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54577.mkv
-#EXTINF:-1,Invisible - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/54578.mkv
-#EXTINF:-1,Los chicos de la banda - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54582.mkv
-#EXTINF:-1,40 años de Rocky: El nacimiento de un clásico - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54583.mkv
-#EXTINF:-1,El caso Watts: El padre homicida - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54584.mkv
-#EXTINF:-1,Sightless - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54585.mkv
-#EXTINF:-1,Death of Me - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54626.mkv
-#EXTINF:-1,Ahí te encargo - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54627.mkv
-#EXTINF:-1,2067 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54628.mkv
-#EXTINF:-1,Vampiros contra el Bronx - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54629.mkv
-#EXTINF:-1,Casi humanos - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54630.mkv
-#EXTINF:-1,Lazos malditos - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54631.mkv
-#EXTINF:-1,El último samurai (2003)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54661.avi
-#EXTINF:-1,Let's Scare Julie - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54662.mkv
-#EXTINF:-1,Mamma Mia! Una y otra vez (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54670.mkv
-#EXTINF:-1,El doble del diablo (2011)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54671.avi
-#EXTINF:-1,The Scientist - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54689.mkv
-#EXTINF:-1,Cajas oscuras - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54690.mkv
-#EXTINF:-1,El Halloween de Hubie - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54695.mkv
-#EXTINF:-1,They Live Inside Us - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54708.mkv
-#EXTINF:-1,Tremors: Shrieker Island - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54709.mkv
-#EXTINF:-1,Charismatic - 2011
-http://tv.nousiptv.com:25462/movie/Omy/1234/53870.flv
-#EXTINF:-1,Mascotas 2 - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/54484.mkv
-#EXTINF:-1,Mascotas - 2016
-http://tv.nousiptv.com:25462/movie/Omy/1234/54485.mkv
-#EXTINF:-1,El club secreto de los No Herederos al trono - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54486.mkv
-#EXTINF:-1,24 Little Hours - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54565.mkv
-#EXTINF:-1,Giro de ases - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54566.mkv
-#EXTINF:-1,Emerson Heights - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54567.mkv
-#EXTINF:-1,The Maid - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54568.mkv
-#EXTINF:-1,Wendy - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54569.mkv
-#EXTINF:-1,La Pandilla: Una noche de terror - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54570.mkv
-#EXTINF:-1,A Feral World - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54571.mkv
-#EXTINF:-1,Hitman: Agent Jun - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54572.mkv
-#EXTINF:-1,Dragon Ball Super: Broly (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53753.mkv
-#EXTINF:-1,El diablo a todas horas - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53878.mkv
-#EXTINF:-1,El practicante - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53879.mkv
-#EXTINF:-1,Como perros y gatos 3 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53880.mkv
-#EXTINF:-1,Se busca papá (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53881.mp4
-#EXTINF:-1,Corazón loco (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53882.mp4
-#EXTINF:-1,El secreto: Atrévete a soñar
-http://tv.nousiptv.com:25462/movie/Omy/1234/53883.mp4
-#EXTINF:-1,Mascotas unidas (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53884.mp4
-#EXTINF:-1,Antebellum - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53889.mkv
-#EXTINF:-1,Intersect - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53890.mkv
-#EXTINF:-1,Sebelum Iblis Menjemput: Ayat 2 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53891.mkv
-#EXTINF:-1,Debt Collectors - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53892.mkv
-#EXTINF:-1,Burt Munro: Un sueño, una leyenda (2005)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53893.avi
-#EXTINF:-1,Pacto de fuga (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53895.mp4
-#EXTINF:-1,Terapia sexual - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53896.mkv
-#EXTINF:-1,Bucin - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53897.mkv
-#EXTINF:-1,I Am Not a Bird - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53900.mkv
-#EXTINF:-1,Follow Me - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53901.mkv
-#EXTINF:-1,Las novias de mis amigos (2014)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53902.avi
-#EXTINF:-1,Godzilla: Rey de los Monstruos - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/53904.mkv
-#EXTINF:-1,Jonah Hex (2010)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54015.mkv
-#EXTINF:-1,Hell on Earth: The Fall of Syria and the Rise of ISIS - 2017
-http://tv.nousiptv.com:25462/movie/Omy/1234/54119.mkv
-#EXTINF:-1,La Herencia - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54120.mkv
-#EXTINF:-1,El señor de la guerra (2005)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54121.mkv
-#EXTINF:-1,Annabelle: Creation (2017)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54122.mkv
-#EXTINF:-1,Full Metal Jacket (1987)
-http://tv.nousiptv.com:25462/movie/Omy/1234/54123.mkv
-#EXTINF:-1,Enola Holmes - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54144.mkv
-#EXTINF:-1,Black Water: Abyss - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/54145.mkv
-#EXTINF:-1,John Wick: Capítulo 3 - Parabellum (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53615.mkv
-#EXTINF:-1,Nuestro hogar (2010)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53766.mkv
-#EXTINF:-1,Bad Genius (2017)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53772.mkv
-#EXTINF:-1,Secretariat - 2010
-http://tv.nousiptv.com:25462/movie/Omy/1234/53773.mkv
-#EXTINF:-1,Mentes peligrosas (1995)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53774.avi
-#EXTINF:-1,Cómo entrenar a tu dragón 2 - 2014
-http://tv.nousiptv.com:25462/movie/Omy/1234/53775.mkv
-#EXTINF:-1,Cómo entrenar a tu dragón 3 - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/53776.mkv
-#EXTINF:-1,La niñera: Reina letal - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53780.mkv
-#EXTINF:-1,Cámara policial - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53781.mkv
-#EXTINF:-1,Toca y pasa el balón - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/53868.mkv
-#EXTINF:-1,The Haunting of Alcatraz (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53390.mp4
-#EXTINF:-1,Sebastián Yatra Codo a Codo con Maria Clara
-http://tv.nousiptv.com:25462/movie/Omy/1234/53617.mp4
-#EXTINF:-1,Vicentico Codo a Codo con Magalí
-http://tv.nousiptv.com:25462/movie/Omy/1234/53618.mp4
-#EXTINF:-1,Abel Pintos a Verónica: Codo a Codo
-http://tv.nousiptv.com:25462/movie/Omy/1234/53619.mp4
-#EXTINF:-1,Codo a Codo Paula Fernandes  con Enderson
-http://tv.nousiptv.com:25462/movie/Omy/1234/53620.mp4
-#EXTINF:-1,Mulán - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53743.mkv
-#EXTINF:-1,Guest House - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53744.mkv
-#EXTINF:-1,The Owners - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53745.mkv
-#EXTINF:-1,Estoy pensando en dejarlo - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53746.mkv
-#EXTINF:-1,Amor garantizado - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53747.mkv
-#EXTINF:-1,La tierra olvidada por el tiempo - 1974
-http://tv.nousiptv.com:25462/movie/Omy/1234/53748.mkv
-#EXTINF:-1,Las furias - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53749.mkv
-#EXTINF:-1,Freaks: 3 superhéroes - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53750.mkv
-#EXTINF:-1,No soy tu mami - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/53751.mkv
-#EXTINF:-1,The Haunting of Margam Castle - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53752.mkv
-#EXTINF:-1,Sicario - 2015
-http://tv.nousiptv.com:25462/movie/Omy/1234/53164.mkv
-#EXTINF:-1,Chemical Hearts (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53391.mp4
-#EXTINF:-1,Una noche de locos (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53392.mp4
-#EXTINF:-1,Hard Kill - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53466.mkv
-#EXTINF:-1,1 Interrogation - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53467.mkv
-#EXTINF:-1,One Night in Bangkok - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53468.mkv
-#EXTINF:-1,Un plan irresistible - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53469.mkv
-#EXTINF:-1,Pressure - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53470.mkv
-#EXTINF:-1,Pearl - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53471.mkv
-#EXTINF:-1,The Unfamiliar - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53472.mkv
-#EXTINF:-1,Ava - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53473.mkv
-#EXTINF:-1,El magnífico Iván - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53475.mkv
-#EXTINF:-1,Fuego Negro - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53476.mp4
-#EXTINF:-1,The Vanished - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53477.mkv
-#EXTINF:-1,The Pale Door - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53478.mkv
-#EXTINF:-1,Chemical Hearts - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53479.mkv
-#EXTINF:-1,The Lost Husband - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53480.mkv
-#EXTINF:-1,Looks That Kill - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53481.mkv
-#EXTINF:-1,Rook - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53482.mkv
-#EXTINF:-1,Crímenes de familia - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53483.mkv
-#EXTINF:-1,The Closet - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53484.mkv
-#EXTINF:-1,Los Simpson: La película (2007)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53485.avi
-#EXTINF:-1,Gunjan Saxena: The Kargil Girl - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53600.mkv
-#EXTINF:-1,Mighty Oak
-http://tv.nousiptv.com:25462/movie/Omy/1234/53601.mkv
-#EXTINF:-1,Cuando el río crece - 1984
-http://tv.nousiptv.com:25462/movie/Omy/1234/53602.mkv
-#EXTINF:-1,I Used to Go Here - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53603.mkv
-#EXTINF:-1,Una chica invisible (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53606.mp4
-#EXTINF:-1,En plan estrella de rock (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53609.mkv
-#EXTINF:-1,Santana (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53610.mkv
-#EXTINF:-1,Green Rush (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53612.mp4
-#EXTINF:-1,Attraction 2 - Invasion (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53614.mkv
-#EXTINF:-1,Robot Riot - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53030.mkv
-#EXTINF:-1,Sicario: el día del soldado - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/53165.mkv
-#EXTINF:-1,La monja - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/53166.mkv
-#EXTINF:-1,Una mente maravillosa - 2001
-http://tv.nousiptv.com:25462/movie/Omy/1234/53167.mkv
-#EXTINF:-1,Anelka : El incomprendido (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53375.mp4
-#EXTINF:-1,La princesa Cisne: una boda real (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53377.mp4
-#EXTINF:-1,Los niños de Hollywood (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53379.mp4
-#EXTINF:-1,Rogue - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53382.mkv
-#EXTINF:-1,One Night in Bangkok (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53383.mkv
-#EXTINF:-1,El Príncipe (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53384.mkv
-#EXTINF:-1,Latte y la Piedra de Agua Mágica (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52688.mkv
-#EXTINF:-1,Vibration - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53031.mkv
-#EXTINF:-1,G-Loc - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53032.mkv
-#EXTINF:-1,Paydirt - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53033.mkv
-#EXTINF:-1,A casa - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/53034.mkv
-#EXTINF:-1,Emperor (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53035.mkv
-#EXTINF:-1,Tesla - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53044.mkv
-#EXTINF:-1,Spree - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53045.mkv
-#EXTINF:-1,Before the Fire - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53046.mkv
-#EXTINF:-1,Boys State - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53047.mkv
-#EXTINF:-1,Magic Camp - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53048.mkv
-#EXTINF:-1,The Dalton Gang - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53049.mkv
-#EXTINF:-1,Intrepido - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53050.mkv
-#EXTINF:-1,The Sputnik - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53051.mkv
-#EXTINF:-1,Proyecto Power - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53052.mkv
-#EXTINF:-1,Papita, maní, tostón (2013)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53063.mp4
-#EXTINF:-1,Prometheus (2012)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53088.mkv
-#EXTINF:-1,Capone - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/53094.mkv
-#EXTINF:-1,Inseparables (2016)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53095.avi
-#EXTINF:-1,Anima (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53096.mkv
-#EXTINF:-1,Jurassic World: El reino caído (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53097.mkv
-#EXTINF:-1,Pacific Rim (2013)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53098.mkv
-#EXTINF:-1,Pacific Rim: Insurrección (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53099.mkv
-#EXTINF:-1,Sexo en Nueva York: La película (2008)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53100.mkv
-#EXTINF:-1,Sexo en Nueva York 2 (2010)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53101.mkv
-#EXTINF:-1,Todos los días de mi vida (2012)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53102.mkv
-#EXTINF:-1,Deep Blue Sea 3 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52443.mkv
-#EXTINF:-1,Solterísima (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52689.mkv
-#EXTINF:-1,Tango y Cash (1989)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52783.mkv
-#EXTINF:-1,El príncipe olvidado (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52784.mkv
-#EXTINF:-1,The Rental (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52785.mkv
-#EXTINF:-1,Mi Padrastro Malvado (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52786.mkv
-#EXTINF:-1,Mortal (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52787.mkv
-#EXTINF:-1,Matar a Pinochet - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52788.mkv
-#EXTINF:-1,Ella Bella Bingo (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52883.mkv
-#EXTINF:-1,Glass Houses (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52884.mkv
-#EXTINF:-1,Irresistible (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52885.mkv
-#EXTINF:-1,Los vigilantes de Malibú: La nueva ola (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52886.mkv
-#EXTINF:-1,The Fanatic (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52887.mkv
-#EXTINF:-1,La dictadura perfecta - 2014
-http://tv.nousiptv.com:25462/movie/Omy/1234/52954.mkv
-#EXTINF:-1,No Manches Frida 2 - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/52955.mkv
-#EXTINF:-1,Wasabi: El trato sucio de la mafia - 2001
-http://tv.nousiptv.com:25462/movie/Omy/1234/52956.mkv
-#EXTINF:-1,The Wrong Mommy - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/52957.mkv
-#EXTINF:-1,Peel - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/52959.mkv
-#EXTINF:-1,Work It: Al ritmo de los sueños (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53023.mp4
-#EXTINF:-1,Berlin, Berlin: la novia se fuga (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53024.mp4
-#EXTINF:-1,Proxima (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53025.mkv
-#EXTINF:-1,Mucho mucho amor: La leyenda de Walter Mercado (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53026.mkv
-#EXTINF:-1,El jardín secreto (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/53027.mkv
-#EXTINF:-1,Kubrick by Kubrick - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52388.mkv
-#EXTINF:-1,Deep Blue Sea - 1999
-http://tv.nousiptv.com:25462/movie/Omy/1234/52444.mkv
-#EXTINF:-1,Ouija Shark - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52445.mkv
-#EXTINF:-1,जवानी जान - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52446.mkv
-#EXTINF:-1,The Screaming Silent - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52447.mkv
-#EXTINF:-1,Legacy of Lies - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52448.mkv
-#EXTINF:-1,The boy (2016)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52449.mkv
-#EXTINF:-1,Tren a Busan 2: Península (2020) CAM
-http://tv.nousiptv.com:25462/movie/Omy/1234/52467.mkv
-#EXTINF:-1,El espía que me plantó (2018)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52468.avi
-#EXTINF:-1,Gimnasta A: El médico depredador (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52489.mkv
-#EXTINF:-1,Diablo (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52490.mkv
-#EXTINF:-1,El oficial y el espía (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52491.mkv
-#EXTINF:-1,Kill Chain: The Cyber War on America's Elections (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52492.mkv
-#EXTINF:-1,La corazonada (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52493.mkv
-#EXTINF:-1,Ofrenda a la tormenta (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52494.mkv
-#EXTINF:-1,The Outpost (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52495.mkv
-#EXTINF:-1,Viena and the Fantomes (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52496.mkv
-#EXTINF:-1,Matando Cabos - 2004
-http://tv.nousiptv.com:25462/movie/Omy/1234/52255.avi
-#EXTINF:-1,Abigail Haunting - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52389.mkv
-#EXTINF:-1,Dragones al rescate: El secreto del Ala Cantarina - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52390.mkv
-#EXTINF:-1,Ofrenda a la tormenta - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52391.mkv
-#EXTINF:-1,The Rental - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52392.mkv
-#EXTINF:-1,Mi Primer Beso 2 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52393.mkv
-#EXTINF:-1,The Tent - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52394.mkv
-#EXTINF:-1,Amulet - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52395.mkv
-#EXTINF:-1,Invisibles - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52396.mkv
-#EXTINF:-1,Los que aman, odian - 2017
-http://tv.nousiptv.com:25462/movie/Omy/1234/52410.mkv
-#EXTINF:-1,Pequeño Manhattan (2005)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52411.mkv
-#EXTINF:-1,Cuenta conmigo (1986)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52412.mkv
-#EXTINF:-1,Battlefield 2025 - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52050.mkv
-#EXTINF:-1,Scare Package - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/52307.mkv
-#EXTINF:-1,Don't Let Them In - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52308.mkv
-#EXTINF:-1,Archive - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52309.mkv
-#EXTINF:-1,Padre, Soldado, Hijo (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52382.mkv
-#EXTINF:-1,The King of Staten Island - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52385.mkv
-#EXTINF:-1,Isla Larva: La película - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52386.mkv
-#EXTINF:-1,Legacy - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52387.mkv
-#EXTINF:-1,Enemy Lines - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51892.mkv
-#EXTINF:-1,Causa común - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52051.mkv
-#EXTINF:-1,Un desliz fatal - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52052.mkv
-#EXTINF:-1,Gli infedeli - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52053.mkv
-#EXTINF:-1,Ghosts of War - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52054.mkv
-#EXTINF:-1,The Silencing - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/52222.mkv
-#EXTINF:-1,Taps, más allá del honor (1981)
-http://tv.nousiptv.com:25462/movie/Omy/1234/52250.mkv
-#EXTINF:-1,Amores perros - 2000
-http://tv.nousiptv.com:25462/movie/Omy/1234/52251.mkv
-#EXTINF:-1,Chicuarotes - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/52252.mp4
-#EXTINF:-1,Nosotros los nobles - 2013
-http://tv.nousiptv.com:25462/movie/Omy/1234/52253.mkv
-#EXTINF:-1,Cómprame un revolver - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/52254.mkv
-#EXTINF:-1,Al son que me toquen bailo - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51825.mkv
-#EXTINF:-1,Alelí (2019)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51893.mkv
-#EXTINF:-1,El apóstol - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51898.mkv
-#EXTINF:-1,La verdadera historia de la banda de Kelly - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51899.mkv
-#EXTINF:-1,El show de Truman - 1998
-http://tv.nousiptv.com:25462/movie/Omy/1234/51735.mkv
-#EXTINF:-1,Como la vida misma - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51826.mkv
-#EXTINF:-1,The Sandlot: Historia de un verano - 1993
-http://tv.nousiptv.com:25462/movie/Omy/1234/51827.avi
-#EXTINF:-1,El diario de Noa (2004)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51828.mkv
-#EXTINF:-1,El juego perfecto - 2010
-http://tv.nousiptv.com:25462/movie/Omy/1234/51839.avi
-#EXTINF:-1,Sadako - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51840.mkv
-#EXTINF:-1,Check Point - 2017
-http://tv.nousiptv.com:25462/movie/Omy/1234/51841.mkv
-#EXTINF:-1,Jobs - 2013
-http://tv.nousiptv.com:25462/movie/Omy/1234/51843.mkv
-#EXTINF:-1,Bajo El Sol De Riccione - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51844.mkv
-#EXTINF:-1,D-Railed - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51845.mkv
-#EXTINF:-1,Bajo la misma piel - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51846.mkv
-#EXTINF:-1,Mermaid Down - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51847.mkv
-#EXTINF:-1,Relic - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51848.mkv
-#EXTINF:-1,Volition - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51849.mkv
-#EXTINF:-1,Blood Quantum - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51862.mkv
-#EXTINF:-1,Greyhound - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51863.mkv
-#EXTINF:-1,Life Like - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51864.mkv
-#EXTINF:-1,Palm Springs - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51865.mkv
-#EXTINF:-1,The Beach House - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51866.mkv
-#EXTINF:-1,La vieja guardia - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51867.mkv
-#EXTINF:-1,Tiempos de gloria - 1989
-http://tv.nousiptv.com:25462/movie/Omy/1234/51878.mkv
-#EXTINF:-1,La vuelta al mundo en 80 días - 1956
-http://tv.nousiptv.com:25462/movie/Omy/1234/51879.mkv
-#EXTINF:-1,Sala samobójców. Hejter - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51880.mkv
-#EXTINF:-1,Soldier - 1998
-http://tv.nousiptv.com:25462/movie/Omy/1234/51881.mkv
-#EXTINF:-1,Troya - 2004
-http://tv.nousiptv.com:25462/movie/Omy/1234/51882.mkv
-#EXTINF:-1,Turbo - 2013
-http://tv.nousiptv.com:25462/movie/Omy/1234/51654.mkv
-#EXTINF:-1,Midnight Family - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51736.mkv
-#EXTINF:-1,For the Love of Jessee - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51737.mkv
-#EXTINF:-1,Behind the Trees - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51738.mkv
-#EXTINF:-1,The F**k-It List - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51739.mkv
-#EXTINF:-1,The Swing of Things - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51754.mkv
-#EXTINF:-1,Atrapa ese email - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51767.mkv
-#EXTINF:-1,Poseidón (2006)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51768.mkv
-#EXTINF:-1,Leroy y Stitch: La película - 2006
-http://tv.nousiptv.com:25462/movie/Omy/1234/51769.mkv
-#EXTINF:-1,Lilo & Stitch - 2002
-http://tv.nousiptv.com:25462/movie/Omy/1234/51770.mkv
-#EXTINF:-1,Lilo & Stitch 2: El efecto del defecto - 2005
-http://tv.nousiptv.com:25462/movie/Omy/1234/51771.mkv
-#EXTINF:-1,Atrapada en las profundidades - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51772.mkv
-#EXTINF:-1,Hamilton - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51792.mkv
-#EXTINF:-1,The Outpost - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51793.mkv
-#EXTINF:-1,Adú - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51794.mkv
-#EXTINF:-1,Un puente hacia Terabithia - 2007
-http://tv.nousiptv.com:25462/movie/Omy/1234/51795.mkv
-#EXTINF:-1,Ejecutivos agresivos - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51796.mkv
-#EXTINF:-1,Melancolía (2011)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51653.mkv
-#EXTINF:-1,The High Note - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51655.mkv
-#EXTINF:-1,Alien Outbreak - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51656.mkv
-#EXTINF:-1,Ángeles y demonios - 2009
-http://tv.nousiptv.com:25462/movie/Omy/1234/51657.mkv
-#EXTINF:-1,Inferno - 2016
-http://tv.nousiptv.com:25462/movie/Omy/1234/51658.mkv
-#EXTINF:-1,El código Da Vinci - 2006
-http://tv.nousiptv.com:25462/movie/Omy/1234/51659.mkv
-#EXTINF:-1,El futbol o yo (2017)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51660.mkv
-#EXTINF:-1,Doc Hollywood (1991)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51661.avi
-#EXTINF:-1,Los Pingüinos de Madagascar - 2014
-http://tv.nousiptv.com:25462/movie/Omy/1234/51672.mkv
-#EXTINF:-1,Culpa - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51673.mkv
-#EXTINF:-1,Madagascar 3: De marcha por Europa - 2012
-http://tv.nousiptv.com:25462/movie/Omy/1234/51674.mkv
-#EXTINF:-1,Madagascar 2 - 2008
-http://tv.nousiptv.com:25462/movie/Omy/1234/51675.mkv
-#EXTINF:-1,El truco final (El prestigio) - 2006
-http://tv.nousiptv.com:25462/movie/Omy/1234/51676.mkv
-#EXTINF:-1,Persecución Extrema 6: Los Próximos Cuarteles - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51677.mp4
-#EXTINF:-1,Darkness Falls - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51678.mkv
-#EXTINF:-1,El cártel de los sapos - 2012
-http://tv.nousiptv.com:25462/movie/Omy/1234/51679.mkv
-#EXTINF:-1,Invasión: El fin de los tiempos - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51680.mkv
-#EXTINF:-1,Viena and the Fantomes - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51681.mkv
-#EXTINF:-1,Dejados atrás - 2000
-http://tv.nousiptv.com:25462/movie/Omy/1234/51428.mp4
-#EXTINF:-1,Tainted - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51355.mkv
-#EXTINF:-1,Dejados atrás 2: Comando Tribulación - 2002
-http://tv.nousiptv.com:25462/movie/Omy/1234/51429.mp4
-#EXTINF:-1,Dejados atrás 3
-http://tv.nousiptv.com:25462/movie/Omy/1234/51430.mp4
-#EXTINF:-1,En el Pozo - 2018
-http://tv.nousiptv.com:25462/movie/Omy/1234/51431.mkv
-#EXTINF:-1,Festival de la Canción de Eurovisión: La historia de Fire Saga - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51432.mkv
-#EXTINF:-1,Bulbbul - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51433.mkv
-#EXTINF:-1,Forrest Gump (1994)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51434.mkv
-#EXTINF:-1,El resplandor (1980)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51435.mkv
-#EXTINF:-1,Jumanji (1995)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51436.mkv
-#EXTINF:-1,Kickboxer (1989)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51437.mkv
-#EXTINF:-1,La máscara (1994)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51438.mkv
-#EXTINF:-1,El precio del poder (1983)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51439.mkv
-#EXTINF:-1,La máscara del Zorro (1998)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51440.mkv
-#EXTINF:-1,Last and First Men - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51451.mkv
-#EXTINF:-1,Irresistible - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51452.mkv
-#EXTINF:-1,Lo imposible (2012)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51652.mkv
-#EXTINF:-1,You Should Have Left (2020)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51212.mkv
-#EXTINF:-1,El poder del dinero - 2013
-http://tv.nousiptv.com:25462/movie/Omy/1234/51356.mkv
-#EXTINF:-1,The Trip to Greece - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51357.mkv
-#EXTINF:-1,Yarına Tek Bilet - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51358.mkv
-#EXTINF:-1,Como si fuera la primera vez - 2019
-http://tv.nousiptv.com:25462/movie/Omy/1234/51360.mkv
-#EXTINF:-1,Algo con una mujer - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51373.mkv
-#EXTINF:-1,Nadie sabe que estoy aquí - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51374.mkv
-#EXTINF:-1,Athlete A - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51375.mkv
-#EXTINF:-1,I Am Vengeance: Retaliation - 2020
-http://tv.nousiptv.com:25462/movie/Omy/1234/51376.mkv
-#EXTINF:-1,E.T. el extraterrestre (1982)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51377.mkv
-#EXTINF:-1,Terminator (1984)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51378.mkv
-#EXTINF:-1,El príncipe de Zamunda (1988)
-http://tv.nousiptv.com:25462/movie/Omy/1234/51379.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-HD| Fox Sports 1 MX" tvg-logo="" group-title="LATINO",|MX-HD| Fox Sports 1 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75715
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-HD| Fox Sports 2 MX" tvg-logo="" group-title="LATINO",|MX-HD| Fox Sports 2 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75716
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-HD| Fox Sports 3 MX" tvg-logo="" group-title="LATINO",|MX-HD| Fox Sports 3 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75717
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-SD| Fox Premium Action MX" tvg-logo="" group-title="LATINO",|MX-SD| Fox Premium Action MX
+http://instanttv.info:8080/TV-90912584/537929234391/75718
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-SD| Fox Sports 1 MX" tvg-logo="" group-title="LATINO",|MX-SD| Fox Sports 1 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75719
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-SD| Fox Sports 2 MX" tvg-logo="" group-title="LATINO",|MX-SD| Fox Sports 2 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75720
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-SD| Fox Sports 3 MX" tvg-logo="" group-title="LATINO",|MX-SD| Fox Sports 3 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75721
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| A Plus" tvg-logo="" group-title="LATINO",|MX| A Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75432
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| A&E" tvg-logo="" group-title="LATINO",|MX| A&E
+http://instanttv.info:8080/TV-90912584/537929234391/75433
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| A3 Series" tvg-logo="" group-title="LATINO",|MX| A3 Series
+http://instanttv.info:8080/TV-90912584/537929234391/75434
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| ADN 40" tvg-logo="" group-title="LATINO",|MX| ADN 40
+http://instanttv.info:8080/TV-90912584/537929234391/75435
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Afizzionados" tvg-logo="" group-title="LATINO",|MX| Afizzionados
+http://instanttv.info:8080/TV-90912584/537929234391/75436
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| AMC" tvg-logo="" group-title="LATINO",|MX| AMC
+http://instanttv.info:8080/TV-90912584/537929234391/75437
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Animal Planet" tvg-logo="" group-title="LATINO",|MX| Animal Planet
+http://instanttv.info:8080/TV-90912584/537929234391/75438
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Antena 3" tvg-logo="" group-title="LATINO",|MX| Antena 3
+http://instanttv.info:8080/TV-90912584/537929234391/75439
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Axn" tvg-logo="" group-title="LATINO",|MX| Axn
+http://instanttv.info:8080/TV-90912584/537929234391/75440
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Aym Sports" tvg-logo="" group-title="LATINO",|MX| Aym Sports
+http://instanttv.info:8080/TV-90912584/537929234391/75441
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Az Cinema" tvg-logo="" group-title="LATINO",|MX| Az Cinema
+http://instanttv.info:8080/TV-90912584/537929234391/75442
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Az Clic" tvg-logo="" group-title="LATINO",|MX| Az Clic
+http://instanttv.info:8080/TV-90912584/537929234391/75443
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Az Corazon" tvg-logo="" group-title="LATINO",|MX| Az Corazon
+http://instanttv.info:8080/TV-90912584/537929234391/75444
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Az Mundo" tvg-logo="" group-title="LATINO",|MX| Az Mundo
+http://instanttv.info:8080/TV-90912584/537929234391/75445
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Azteca 7" tvg-logo="" group-title="LATINO",|MX| Azteca 7
+http://instanttv.info:8080/TV-90912584/537929234391/75446
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Azteca Uno" tvg-logo="" group-title="LATINO",|MX| Azteca Uno
+http://instanttv.info:8080/TV-90912584/537929234391/75447
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Baby First" tvg-logo="" group-title="LATINO",|MX| Baby First
+http://instanttv.info:8080/TV-90912584/537929234391/75448
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Bandamax" tvg-logo="" group-title="LATINO",|MX| Bandamax
+http://instanttv.info:8080/TV-90912584/537929234391/75449
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Bloomberg" tvg-logo="" group-title="LATINO",|MX| Bloomberg
+http://instanttv.info:8080/TV-90912584/537929234391/75450
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Boomerang" tvg-logo="" group-title="LATINO",|MX| Boomerang
+http://instanttv.info:8080/TV-90912584/537929234391/75451
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Canal 5" tvg-logo="" group-title="LATINO",|MX| Canal 5
+http://instanttv.info:8080/TV-90912584/537929234391/75452
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Canal Judicial" tvg-logo="" group-title="LATINO",|MX| Canal Judicial
+http://instanttv.info:8080/TV-90912584/537929234391/75453
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Canal Once" tvg-logo="" group-title="LATINO",|MX| Canal Once
+http://instanttv.info:8080/TV-90912584/537929234391/75454
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Cartoon Network" tvg-logo="" group-title="LATINO",|MX| Cartoon Network
+http://instanttv.info:8080/TV-90912584/537929234391/75455
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Cinecanal" tvg-logo="" group-title="LATINO",|MX| Cinecanal
+http://instanttv.info:8080/TV-90912584/537929234391/75456
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Cinemax" tvg-logo="" group-title="LATINO",|MX| Cinemax
+http://instanttv.info:8080/TV-90912584/537929234391/75457
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| CNN en Espanol" tvg-logo="" group-title="LATINO",|MX| CNN en Espanol
+http://instanttv.info:8080/TV-90912584/537929234391/75458
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| CNN Internacional" tvg-logo="" group-title="LATINO",|MX| CNN Internacional
+http://instanttv.info:8080/TV-90912584/537929234391/75459
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| CNN USA" tvg-logo="" group-title="LATINO",|MX| CNN USA
+http://instanttv.info:8080/TV-90912584/537929234391/75460
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Comedy Central" tvg-logo="" group-title="LATINO",|MX| Comedy Central
+http://instanttv.info:8080/TV-90912584/537929234391/75461
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Congreso de la Union" tvg-logo="" group-title="LATINO",|MX| Congreso de la Union
+http://instanttv.info:8080/TV-90912584/537929234391/75462
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| De Pelicula" tvg-logo="" group-title="LATINO",|MX| De Pelicula
+http://instanttv.info:8080/TV-90912584/537929234391/75463
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Channel" tvg-logo="" group-title="LATINO",|MX| Discovery Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75464
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Civilization" tvg-logo="" group-title="LATINO",|MX| Discovery Civilization
+http://instanttv.info:8080/TV-90912584/537929234391/75465
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery HH" tvg-logo="" group-title="LATINO",|MX| Discovery HH
+http://instanttv.info:8080/TV-90912584/537929234391/75466
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Kids" tvg-logo="" group-title="LATINO",|MX| Discovery Kids
+http://instanttv.info:8080/TV-90912584/537929234391/75467
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Kids HD" tvg-logo="" group-title="LATINO",|MX| Discovery Kids HD
+http://instanttv.info:8080/TV-90912584/537929234391/75468
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Science" tvg-logo="" group-title="LATINO",|MX| Discovery Science
+http://instanttv.info:8080/TV-90912584/537929234391/75469
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Theater" tvg-logo="" group-title="LATINO",|MX| Discovery Theater
+http://instanttv.info:8080/TV-90912584/537929234391/75470
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery TLC" tvg-logo="" group-title="LATINO",|MX| Discovery TLC
+http://instanttv.info:8080/TV-90912584/537929234391/75471
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery TLC HD" tvg-logo="" group-title="LATINO",|MX| Discovery TLC HD
+http://instanttv.info:8080/TV-90912584/537929234391/75472
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery Turbo" tvg-logo="" group-title="LATINO",|MX| Discovery Turbo
+http://instanttv.info:8080/TV-90912584/537929234391/75473
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Discovery World" tvg-logo="" group-title="LATINO",|MX| Discovery World
+http://instanttv.info:8080/TV-90912584/537929234391/75474
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Disney Channel" tvg-logo="" group-title="LATINO",|MX| Disney Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75475
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Disney JR" tvg-logo="" group-title="LATINO",|MX| Disney JR
+http://instanttv.info:8080/TV-90912584/537929234391/75476
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Disney XD" tvg-logo="" group-title="LATINO",|MX| Disney XD
+http://instanttv.info:8080/TV-90912584/537929234391/75477
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Distrito Comedia" tvg-logo="" group-title="LATINO",|MX| Distrito Comedia
+http://instanttv.info:8080/TV-90912584/537929234391/75478
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| DW" tvg-logo="" group-title="LATINO",|MX| DW
+http://instanttv.info:8080/TV-90912584/537929234391/75479
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| El Financiero Bloomberg" tvg-logo="" group-title="LATINO",|MX| El Financiero Bloomberg
+http://instanttv.info:8080/TV-90912584/537929234391/75480
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| El Gourmet" tvg-logo="" group-title="LATINO",|MX| El Gourmet
+http://instanttv.info:8080/TV-90912584/537929234391/75481
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Entertainment" tvg-logo="" group-title="LATINO",|MX| Entertainment
+http://instanttv.info:8080/TV-90912584/537929234391/75482
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn" tvg-logo="" group-title="LATINO",|MX| Espn
+http://instanttv.info:8080/TV-90912584/537929234391/75483
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn 2" tvg-logo="" group-title="LATINO",|MX| Espn 2
+http://instanttv.info:8080/TV-90912584/537929234391/75484
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn 3" tvg-logo="" group-title="LATINO",|MX| Espn 3
+http://instanttv.info:8080/TV-90912584/537929234391/75485
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn Plus" tvg-logo="" group-title="LATINO",|MX| Espn Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75486
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn Sec Network" tvg-logo="" group-title="LATINO",|MX| Espn Sec Network
+http://instanttv.info:8080/TV-90912584/537929234391/75487
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Espn U" tvg-logo="" group-title="LATINO",|MX| Espn U
+http://instanttv.info:8080/TV-90912584/537929234391/75488
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Europa Europa" tvg-logo="" group-title="LATINO",|MX| Europa Europa
+http://instanttv.info:8080/TV-90912584/537929234391/75489
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Film And Arts" tvg-logo="" group-title="LATINO",|MX| Film And Arts
+http://instanttv.info:8080/TV-90912584/537929234391/75490
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Food Network" tvg-logo="" group-title="LATINO",|MX| Food Network
+http://instanttv.info:8080/TV-90912584/537929234391/75491
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Foro TV" tvg-logo="" group-title="LATINO",|MX| Foro TV
+http://instanttv.info:8080/TV-90912584/537929234391/75492
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| FOX" tvg-logo="" group-title="LATINO",|MX| FOX
+http://instanttv.info:8080/TV-90912584/537929234391/75493
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Life" tvg-logo="" group-title="LATINO",|MX| Fox Life
+http://instanttv.info:8080/TV-90912584/537929234391/75494
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Premium Action" tvg-logo="" group-title="LATINO",|MX| Fox Premium Action
+http://instanttv.info:8080/TV-90912584/537929234391/75495
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Premium Cinema" tvg-logo="" group-title="LATINO",|MX| Fox Premium Cinema
+http://instanttv.info:8080/TV-90912584/537929234391/75496
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Premium Classics" tvg-logo="" group-title="LATINO",|MX| Fox Premium Classics
+http://instanttv.info:8080/TV-90912584/537929234391/75497
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Premium Movies" tvg-logo="" group-title="LATINO",|MX| Fox Premium Movies
+http://instanttv.info:8080/TV-90912584/537929234391/75498
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Premium Series" tvg-logo="" group-title="LATINO",|MX| Fox Premium Series
+http://instanttv.info:8080/TV-90912584/537929234391/75499
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Sports 1" tvg-logo="" group-title="LATINO",|MX| Fox Sports 1
+http://instanttv.info:8080/TV-90912584/537929234391/75500
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Sports 2" tvg-logo="" group-title="LATINO",|MX| Fox Sports 2
+http://instanttv.info:8080/TV-90912584/537929234391/75501
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Fox Sports 3" tvg-logo="" group-title="LATINO",|MX| Fox Sports 3
+http://instanttv.info:8080/TV-90912584/537929234391/75502
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| France 24" tvg-logo="" group-title="LATINO",|MX| France 24
+http://instanttv.info:8080/TV-90912584/537929234391/75503
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| FX" tvg-logo="" group-title="LATINO",|MX| FX
+http://instanttv.info:8080/TV-90912584/537929234391/75504
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| FXM" tvg-logo="" group-title="LATINO",|MX| FXM
+http://instanttv.info:8080/TV-90912584/537929234391/75505
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Galatv" tvg-logo="" group-title="LATINO",|MX| Galatv
+http://instanttv.info:8080/TV-90912584/537929234391/75506
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Garage TV" tvg-logo="" group-title="LATINO",|MX| Garage TV
+http://instanttv.info:8080/TV-90912584/537929234391/75507
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Glitz" tvg-logo="" group-title="LATINO",|MX| Glitz
+http://instanttv.info:8080/TV-90912584/537929234391/75508
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Golden" tvg-logo="" group-title="LATINO",|MX| Golden
+http://instanttv.info:8080/TV-90912584/537929234391/75509
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Golden Edge" tvg-logo="" group-title="LATINO",|MX| Golden Edge
+http://instanttv.info:8080/TV-90912584/537929234391/75510
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Golf Latin America" tvg-logo="" group-title="LATINO",|MX| Golf Latin America
+http://instanttv.info:8080/TV-90912584/537929234391/75511
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Havoc" tvg-logo="" group-title="LATINO",|MX| Havoc
+http://instanttv.info:8080/TV-90912584/537929234391/75512
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| History" tvg-logo="" group-title="LATINO",|MX| History
+http://instanttv.info:8080/TV-90912584/537929234391/75513
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Hola TV" tvg-logo="" group-title="LATINO",|MX| Hola TV
+http://instanttv.info:8080/TV-90912584/537929234391/75514
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| I.Sat" tvg-logo="" group-title="LATINO",|MX| I.Sat
+http://instanttv.info:8080/TV-90912584/537929234391/75515
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Imagen TV" tvg-logo="" group-title="LATINO",|MX| Imagen TV
+http://instanttv.info:8080/TV-90912584/537929234391/75516
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Ingenio TV" tvg-logo="" group-title="LATINO",|MX| Ingenio TV
+http://instanttv.info:8080/TV-90912584/537929234391/75517
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Investigation Discovery" tvg-logo="" group-title="LATINO",|MX| Investigation Discovery
+http://instanttv.info:8080/TV-90912584/537929234391/75518
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Investigation Discovery HD" tvg-logo="" group-title="LATINO",|MX| Investigation Discovery HD
+http://instanttv.info:8080/TV-90912584/537929234391/75519
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Las Estrellas" tvg-logo="" group-title="LATINO",|MX| Las Estrellas
+http://instanttv.info:8080/TV-90912584/537929234391/75520
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Latin American Sports" tvg-logo="" group-title="LATINO",|MX| Latin American Sports
+http://instanttv.info:8080/TV-90912584/537929234391/75521
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Lifetime" tvg-logo="" group-title="LATINO",|MX| Lifetime
+http://instanttv.info:8080/TV-90912584/537929234391/75522
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Mas Chic" tvg-logo="" group-title="LATINO",|MX| Mas Chic
+http://instanttv.info:8080/TV-90912584/537929234391/75523
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Mas Chic" tvg-logo="" group-title="LATINO",|MX| Mas Chic
+http://instanttv.info:8080/TV-90912584/537929234391/75524
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Mexiquense" tvg-logo="" group-title="LATINO",|MX| Mexiquense
+http://instanttv.info:8080/TV-90912584/537929234391/75525
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Milenio TV" tvg-logo="" group-title="LATINO",|MX| Milenio TV
+http://instanttv.info:8080/TV-90912584/537929234391/75526
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Morbid TV" tvg-logo="" group-title="LATINO",|MX| Morbid TV
+http://instanttv.info:8080/TV-90912584/537929234391/75527
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| MTV" tvg-logo="" group-title="LATINO",|MX| MTV
+http://instanttv.info:8080/TV-90912584/537929234391/75528
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| MTV Hits" tvg-logo="" group-title="LATINO",|MX| MTV Hits
+http://instanttv.info:8080/TV-90912584/537929234391/75529
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| MTV Live" tvg-logo="" group-title="LATINO",|MX| MTV Live
+http://instanttv.info:8080/TV-90912584/537929234391/75530
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Multimedios" tvg-logo="" group-title="LATINO",|MX| Multimedios
+http://instanttv.info:8080/TV-90912584/537929234391/75531
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Multimedios Plus" tvg-logo="" group-title="LATINO",|MX| Multimedios Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75532
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Natgeo Kids" tvg-logo="" group-title="LATINO",|MX| Natgeo Kids
+http://instanttv.info:8080/TV-90912584/537929234391/75533
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Natgeo Wild" tvg-logo="" group-title="LATINO",|MX| Natgeo Wild
+http://instanttv.info:8080/TV-90912584/537929234391/75534
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Nick" tvg-logo="" group-title="LATINO",|MX| Nick
+http://instanttv.info:8080/TV-90912584/537929234391/75535
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Nick 2" tvg-logo="" group-title="LATINO",|MX| Nick 2
+http://instanttv.info:8080/TV-90912584/537929234391/75536
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Nick JR" tvg-logo="" group-title="LATINO",|MX| Nick JR
+http://instanttv.info:8080/TV-90912584/537929234391/75537
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Nicktoons" tvg-logo="" group-title="LATINO",|MX| Nicktoons
+http://instanttv.info:8080/TV-90912584/537929234391/75538
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Paramount" tvg-logo="" group-title="LATINO",|MX| Paramount
+http://instanttv.info:8080/TV-90912584/537929234391/75539
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Px TV" tvg-logo="" group-title="LATINO",|MX| Px TV
+http://instanttv.info:8080/TV-90912584/537929234391/75540
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Ritmoson" tvg-logo="" group-title="LATINO",|MX| Ritmoson
+http://instanttv.info:8080/TV-90912584/537929234391/75541
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| RT en Espanol" tvg-logo="" group-title="LATINO",|MX| RT en Espanol
+http://instanttv.info:8080/TV-90912584/537929234391/75542
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| RT Noticias" tvg-logo="" group-title="LATINO",|MX| RT Noticias
+http://instanttv.info:8080/TV-90912584/537929234391/75543
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Sony" tvg-logo="" group-title="LATINO",|MX| Sony
+http://instanttv.info:8080/TV-90912584/537929234391/75544
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Space" tvg-logo="" group-title="LATINO",|MX| Space
+http://instanttv.info:8080/TV-90912584/537929234391/75545
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Studio Universal" tvg-logo="" group-title="LATINO",|MX| Studio Universal
+http://instanttv.info:8080/TV-90912584/537929234391/75546
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Sundance" tvg-logo="" group-title="LATINO",|MX| Sundance
+http://instanttv.info:8080/TV-90912584/537929234391/75547
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| SuresTV" tvg-logo="" group-title="LATINO",|MX| SuresTV
+http://instanttv.info:8080/TV-90912584/537929234391/75548
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Syfy" tvg-logo="" group-title="LATINO",|MX| Syfy
+http://instanttv.info:8080/TV-90912584/537929234391/75549
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TBS" tvg-logo="" group-title="LATINO",|MX| TBS
+http://instanttv.info:8080/TV-90912584/537929234391/75550
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TCM" tvg-logo="" group-title="LATINO",|MX| TCM
+http://instanttv.info:8080/TV-90912584/537929234391/75551
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Teleformula" tvg-logo="" group-title="LATINO",|MX| Teleformula
+http://instanttv.info:8080/TV-90912584/537929234391/75552
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Telehit" tvg-logo="" group-title="LATINO",|MX| Telehit
+http://instanttv.info:8080/TV-90912584/537929234391/75553
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Teleritmo" tvg-logo="" group-title="LATINO",|MX| Teleritmo
+http://instanttv.info:8080/TV-90912584/537929234391/75554
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Televisa MTY" tvg-logo="" group-title="LATINO",|MX| Televisa MTY
+http://instanttv.info:8080/TV-90912584/537929234391/75555
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Televisa Puebla" tvg-logo="" group-title="LATINO",|MX| Televisa Puebla
+http://instanttv.info:8080/TV-90912584/537929234391/75556
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Tl Novelas" tvg-logo="" group-title="LATINO",|MX| Tl Novelas
+http://instanttv.info:8080/TV-90912584/537929234391/75557
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TNT" tvg-logo="" group-title="LATINO",|MX| TNT
+http://instanttv.info:8080/TV-90912584/537929234391/75558
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Tnt Series" tvg-logo="" group-title="LATINO",|MX| Tnt Series
+http://instanttv.info:8080/TV-90912584/537929234391/75559
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Tooncast" tvg-logo="" group-title="LATINO",|MX| Tooncast
+http://instanttv.info:8080/TV-90912584/537929234391/75560
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Tru TV" tvg-logo="" group-title="LATINO",|MX| Tru TV
+http://instanttv.info:8080/TV-90912584/537929234391/75561
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TUDN" tvg-logo="" group-title="LATINO",|MX| TUDN
+http://instanttv.info:8080/TV-90912584/537929234391/75562
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Tv MÃ¡s" tvg-logo="" group-title="LATINO",|MX| Tv MÃ¡s
+http://instanttv.info:8080/TV-90912584/537929234391/75563
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TV4 Leon Guanajuato" tvg-logo="" group-title="LATINO",|MX| TV4 Leon Guanajuato
+http://instanttv.info:8080/TV-90912584/537929234391/75564
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TVC" tvg-logo="" group-title="LATINO",|MX| TVC
+http://instanttv.info:8080/TV-90912584/537929234391/75565
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TVC Deportes" tvg-logo="" group-title="LATINO",|MX| TVC Deportes
+http://instanttv.info:8080/TV-90912584/537929234391/75566
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| TVE" tvg-logo="" group-title="LATINO",|MX| TVE
+http://instanttv.info:8080/TV-90912584/537929234391/75567
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Unicable" tvg-logo="" group-title="LATINO",|MX| Unicable
+http://instanttv.info:8080/TV-90912584/537929234391/75568
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Universal Channel" tvg-logo="" group-title="LATINO",|MX| Universal Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75569
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| VH1" tvg-logo="" group-title="LATINO",|MX| VH1
+http://instanttv.info:8080/TV-90912584/537929234391/75570
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Vh1 Classics" tvg-logo="" group-title="LATINO",|MX| Vh1 Classics
+http://instanttv.info:8080/TV-90912584/537929234391/75571
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| Wobi TV" tvg-logo="" group-title="LATINO",|MX| Wobi TV
+http://instanttv.info:8080/TV-90912584/537929234391/75572
+#EXTINF:-1 tvg-ID="" tvg-name="|MX| XEJ Canal 50 de Ciudad JuÃ¡rez" tvg-logo="" group-title="LATINO",|MX| XEJ Canal 50 de Ciudad JuÃ¡rez
+http://instanttv.info:8080/TV-90912584/537929234391/75573
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| A&E" tvg-logo="" group-title="LATINO",|MX-FHD| A&E
+http://instanttv.info:8080/TV-90912584/537929234391/75574
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| ADN 40" tvg-logo="" group-title="LATINO",|MX-FHD| ADN 40
+http://instanttv.info:8080/TV-90912584/537929234391/75575
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Al Jazeera" tvg-logo="" group-title="LATINO",|MX-FHD| Al Jazeera
+http://instanttv.info:8080/TV-90912584/537929234391/75576
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AMC" tvg-logo="" group-title="LATINO",|MX-FHD| AMC
+http://instanttv.info:8080/TV-90912584/537929234391/75577
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Animal Planet" tvg-logo="" group-title="LATINO",|MX-FHD| Animal Planet
+http://instanttv.info:8080/TV-90912584/537929234391/75578
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Antena 3" tvg-logo="" group-title="LATINO",|MX-FHD| Antena 3
+http://instanttv.info:8080/TV-90912584/537929234391/75579
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AXN" tvg-logo="" group-title="LATINO",|MX-FHD| AXN
+http://instanttv.info:8080/TV-90912584/537929234391/75580
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AYM Sports" tvg-logo="" group-title="LATINO",|MX-FHD| AYM Sports
+http://instanttv.info:8080/TV-90912584/537929234391/75581
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AZ Cinema" tvg-logo="" group-title="LATINO",|MX-FHD| AZ Cinema
+http://instanttv.info:8080/TV-90912584/537929234391/75582
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AZ Click B1" tvg-logo="" group-title="LATINO",|MX-FHD| AZ Click B1
+http://instanttv.info:8080/TV-90912584/537929234391/75583
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AZ Corazon" tvg-logo="" group-title="LATINO",|MX-FHD| AZ Corazon
+http://instanttv.info:8080/TV-90912584/537929234391/75584
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| AZ Mundo" tvg-logo="" group-title="LATINO",|MX-FHD| AZ Mundo
+http://instanttv.info:8080/TV-90912584/537929234391/75585
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Azteca 7" tvg-logo="" group-title="LATINO",|MX-FHD| Azteca 7
+http://instanttv.info:8080/TV-90912584/537929234391/75586
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Azteca Uno B1" tvg-logo="" group-title="LATINO",|MX-FHD| Azteca Uno B1
+http://instanttv.info:8080/TV-90912584/537929234391/75587
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Baby TV" tvg-logo="" group-title="LATINO",|MX-FHD| Baby TV
+http://instanttv.info:8080/TV-90912584/537929234391/75588
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Bandamax" tvg-logo="" group-title="LATINO",|MX-FHD| Bandamax
+http://instanttv.info:8080/TV-90912584/537929234391/75589
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| BBC World News" tvg-logo="" group-title="LATINO",|MX-FHD| BBC World News
+http://instanttv.info:8080/TV-90912584/537929234391/75590
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Bloomberg" tvg-logo="" group-title="LATINO",|MX-FHD| Bloomberg
+http://instanttv.info:8080/TV-90912584/537929234391/75591
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Bloomberg B1" tvg-logo="" group-title="LATINO",|MX-FHD| Bloomberg B1
+http://instanttv.info:8080/TV-90912584/537929234391/75592
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Boomerang" tvg-logo="" group-title="LATINO",|MX-FHD| Boomerang
+http://instanttv.info:8080/TV-90912584/537929234391/75593
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| CANAL 109" tvg-logo="" group-title="LATINO",|MX-FHD| CANAL 109
+http://instanttv.info:8080/TV-90912584/537929234391/75594
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| CANAL 113" tvg-logo="" group-title="LATINO",|MX-FHD| CANAL 113
+http://instanttv.info:8080/TV-90912584/537929234391/75595
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal 2" tvg-logo="" group-title="LATINO",|MX-FHD| Canal 2
+http://instanttv.info:8080/TV-90912584/537929234391/75596
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal 4" tvg-logo="" group-title="LATINO",|MX-FHD| Canal 4
+http://instanttv.info:8080/TV-90912584/537929234391/75597
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal 5" tvg-logo="" group-title="LATINO",|MX-FHD| Canal 5
+http://instanttv.info:8080/TV-90912584/537929234391/75598
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal 8" tvg-logo="" group-title="LATINO",|MX-FHD| Canal 8
+http://instanttv.info:8080/TV-90912584/537929234391/75599
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal de las Estrellas" tvg-logo="" group-title="LATINO",|MX-FHD| Canal de las Estrellas
+http://instanttv.info:8080/TV-90912584/537929234391/75600
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Canal Judicial" tvg-logo="" group-title="LATINO",|MX-FHD| Canal Judicial
+http://instanttv.info:8080/TV-90912584/537929234391/75601
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| CANAL Once" tvg-logo="" group-title="LATINO",|MX-FHD| CANAL Once
+http://instanttv.info:8080/TV-90912584/537929234391/75602
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Cartoon Network" tvg-logo="" group-title="LATINO",|MX-FHD| Cartoon Network
+http://instanttv.info:8080/TV-90912584/537929234391/75603
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Cinecanal" tvg-logo="" group-title="LATINO",|MX-FHD| Cinecanal
+http://instanttv.info:8080/TV-90912584/537929234391/75604
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Cinemax" tvg-logo="" group-title="LATINO",|MX-FHD| Cinemax
+http://instanttv.info:8080/TV-90912584/537929234391/75605
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| CNN en Espa" tvg-logo="" group-title="LATINO",|MX-FHD| CNN en Espa
+http://instanttv.info:8080/TV-90912584/537929234391/75606
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| CNN International" tvg-logo="" group-title="LATINO",|MX-FHD| CNN International
+http://instanttv.info:8080/TV-90912584/537929234391/75607
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Comedy Central" tvg-logo="" group-title="LATINO",|MX-FHD| Comedy Central
+http://instanttv.info:8080/TV-90912584/537929234391/75608
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| De Pelicula" tvg-logo="" group-title="LATINO",|MX-FHD| De Pelicula
+http://instanttv.info:8080/TV-90912584/537929234391/75609
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| De Pelicula Plus" tvg-logo="" group-title="LATINO",|MX-FHD| De Pelicula Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75610
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery Channel" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75611
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery H&H" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery H&H
+http://instanttv.info:8080/TV-90912584/537929234391/75612
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery Kids" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery Kids
+http://instanttv.info:8080/TV-90912584/537929234391/75613
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery Science" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery Science
+http://instanttv.info:8080/TV-90912584/537929234391/75614
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery Theater" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery Theater
+http://instanttv.info:8080/TV-90912584/537929234391/75615
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery Turbo" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery Turbo
+http://instanttv.info:8080/TV-90912584/537929234391/75616
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Discovery World" tvg-logo="" group-title="LATINO",|MX-FHD| Discovery World
+http://instanttv.info:8080/TV-90912584/537929234391/75617
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Disney Channel" tvg-logo="" group-title="LATINO",|MX-FHD| Disney Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75618
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Disney Jr." tvg-logo="" group-title="LATINO",|MX-FHD| Disney Jr.
+http://instanttv.info:8080/TV-90912584/537929234391/75619
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Disney XD" tvg-logo="" group-title="LATINO",|MX-FHD| Disney XD
+http://instanttv.info:8080/TV-90912584/537929234391/75620
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Distrito Comedia" tvg-logo="" group-title="LATINO",|MX-FHD| Distrito Comedia
+http://instanttv.info:8080/TV-90912584/537929234391/75621
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| DW" tvg-logo="" group-title="LATINO",|MX-FHD| DW
+http://instanttv.info:8080/TV-90912584/537929234391/75622
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| E! Entertainment" tvg-logo="" group-title="LATINO",|MX-FHD| E! Entertainment
+http://instanttv.info:8080/TV-90912584/537929234391/75623
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| El Gourmet" tvg-logo="" group-title="LATINO",|MX-FHD| El Gourmet
+http://instanttv.info:8080/TV-90912584/537929234391/75624
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Espn" tvg-logo="" group-title="LATINO",|MX-FHD| Espn
+http://instanttv.info:8080/TV-90912584/537929234391/75625
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Espn 2" tvg-logo="" group-title="LATINO",|MX-FHD| Espn 2
+http://instanttv.info:8080/TV-90912584/537929234391/75626
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Espn 3" tvg-logo="" group-title="LATINO",|MX-FHD| Espn 3
+http://instanttv.info:8080/TV-90912584/537929234391/75627
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Espn Plus" tvg-logo="" group-title="LATINO",|MX-FHD| Espn Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75628
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Espn U" tvg-logo="" group-title="LATINO",|MX-FHD| Espn U
+http://instanttv.info:8080/TV-90912584/537929234391/75629
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Europa Europa" tvg-logo="" group-title="LATINO",|MX-FHD| Europa Europa
+http://instanttv.info:8080/TV-90912584/537929234391/75630
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Excelsior TV" tvg-logo="" group-title="LATINO",|MX-FHD| Excelsior TV
+http://instanttv.info:8080/TV-90912584/537929234391/75631
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Film & Arts" tvg-logo="" group-title="LATINO",|MX-FHD| Film & Arts
+http://instanttv.info:8080/TV-90912584/537929234391/75632
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Food Network" tvg-logo="" group-title="LATINO",|MX-FHD| Food Network
+http://instanttv.info:8080/TV-90912584/537929234391/75633
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Formula Noticias" tvg-logo="" group-title="LATINO",|MX-FHD| Formula Noticias
+http://instanttv.info:8080/TV-90912584/537929234391/75634
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Foro TV" tvg-logo="" group-title="LATINO",|MX-FHD| Foro TV
+http://instanttv.info:8080/TV-90912584/537929234391/75635
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox" tvg-logo="" group-title="LATINO",|MX-FHD| Fox
+http://instanttv.info:8080/TV-90912584/537929234391/75636
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox" tvg-logo="" group-title="LATINO",|MX-FHD| Fox
+http://instanttv.info:8080/TV-90912584/537929234391/75637
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Action" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Action
+http://instanttv.info:8080/TV-90912584/537929234391/75638
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Cinema" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Cinema
+http://instanttv.info:8080/TV-90912584/537929234391/75639
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Classics" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Classics
+http://instanttv.info:8080/TV-90912584/537929234391/75640
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Life" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Life
+http://instanttv.info:8080/TV-90912584/537929234391/75641
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Movies" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Movies
+http://instanttv.info:8080/TV-90912584/537929234391/75642
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox News" tvg-logo="" group-title="LATINO",|MX-FHD| Fox News
+http://instanttv.info:8080/TV-90912584/537929234391/75643
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Premium Action MX" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Premium Action MX
+http://instanttv.info:8080/TV-90912584/537929234391/75644
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Series" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Series
+http://instanttv.info:8080/TV-90912584/537929234391/75645
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 1" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 1
+http://instanttv.info:8080/TV-90912584/537929234391/75646
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 1 MX" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 1 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75647
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 2" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 2
+http://instanttv.info:8080/TV-90912584/537929234391/75648
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 2 MX" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 2 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75649
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 3" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 3
+http://instanttv.info:8080/TV-90912584/537929234391/75650
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Fox Sports 3 MX" tvg-logo="" group-title="LATINO",|MX-FHD| Fox Sports 3 MX
+http://instanttv.info:8080/TV-90912584/537929234391/75651
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Francia 24" tvg-logo="" group-title="LATINO",|MX-FHD| Francia 24
+http://instanttv.info:8080/TV-90912584/537929234391/75652
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| FXM" tvg-logo="" group-title="LATINO",|MX-FHD| FXM
+http://instanttv.info:8080/TV-90912584/537929234391/75653
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Garage TV" tvg-logo="" group-title="LATINO",|MX-FHD| Garage TV
+http://instanttv.info:8080/TV-90912584/537929234391/75654
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Glitz" tvg-logo="" group-title="LATINO",|MX-FHD| Glitz
+http://instanttv.info:8080/TV-90912584/537929234391/75655
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Golden" tvg-logo="" group-title="LATINO",|MX-FHD| Golden
+http://instanttv.info:8080/TV-90912584/537929234391/75656
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Golden Edge" tvg-logo="" group-title="LATINO",|MX-FHD| Golden Edge
+http://instanttv.info:8080/TV-90912584/537929234391/75657
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Golden Plus" tvg-logo="" group-title="LATINO",|MX-FHD| Golden Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75658
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| H2" tvg-logo="" group-title="LATINO",|MX-FHD| H2
+http://instanttv.info:8080/TV-90912584/537929234391/75659
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| History" tvg-logo="" group-title="LATINO",|MX-FHD| History
+http://instanttv.info:8080/TV-90912584/537929234391/75660
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| HLN" tvg-logo="" group-title="LATINO",|MX-FHD| HLN
+http://instanttv.info:8080/TV-90912584/537929234391/75661
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Hola TV" tvg-logo="" group-title="LATINO",|MX-FHD| Hola TV
+http://instanttv.info:8080/TV-90912584/537929234391/75662
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Investigation Discovery" tvg-logo="" group-title="LATINO",|MX-FHD| Investigation Discovery
+http://instanttv.info:8080/TV-90912584/537929234391/75663
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Isat" tvg-logo="" group-title="LATINO",|MX-FHD| Isat
+http://instanttv.info:8080/TV-90912584/537929234391/75664
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Lifetime" tvg-logo="" group-title="LATINO",|MX-FHD| Lifetime
+http://instanttv.info:8080/TV-90912584/537929234391/75665
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Mas Chic" tvg-logo="" group-title="LATINO",|MX-FHD| Mas Chic
+http://instanttv.info:8080/TV-90912584/537929234391/75666
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Milenio TV" tvg-logo="" group-title="LATINO",|MX-FHD| Milenio TV
+http://instanttv.info:8080/TV-90912584/537929234391/75667
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Morbid TV" tvg-logo="" group-title="LATINO",|MX-FHD| Morbid TV
+http://instanttv.info:8080/TV-90912584/537929234391/75668
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| MTV" tvg-logo="" group-title="LATINO",|MX-FHD| MTV
+http://instanttv.info:8080/TV-90912584/537929234391/75669
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| MTV Hits" tvg-logo="" group-title="LATINO",|MX-FHD| MTV Hits
+http://instanttv.info:8080/TV-90912584/537929234391/75670
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| MTV Live" tvg-logo="" group-title="LATINO",|MX-FHD| MTV Live
+http://instanttv.info:8080/TV-90912584/537929234391/75671
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Multimedios" tvg-logo="" group-title="LATINO",|MX-FHD| Multimedios
+http://instanttv.info:8080/TV-90912584/537929234391/75672
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Multimedios Plus" tvg-logo="" group-title="LATINO",|MX-FHD| Multimedios Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75673
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nat Geo Kids" tvg-logo="" group-title="LATINO",|MX-FHD| Nat Geo Kids
+http://instanttv.info:8080/TV-90912584/537929234391/75674
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nat Geo Wild" tvg-logo="" group-title="LATINO",|MX-FHD| Nat Geo Wild
+http://instanttv.info:8080/TV-90912584/537929234391/75675
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| National Geographic" tvg-logo="" group-title="LATINO",|MX-FHD| National Geographic
+http://instanttv.info:8080/TV-90912584/537929234391/75676
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| NBC Golf" tvg-logo="" group-title="LATINO",|MX-FHD| NBC Golf
+http://instanttv.info:8080/TV-90912584/537929234391/75677
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nick 2" tvg-logo="" group-title="LATINO",|MX-FHD| Nick 2
+http://instanttv.info:8080/TV-90912584/537929234391/75678
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nick Jr." tvg-logo="" group-title="LATINO",|MX-FHD| Nick Jr.
+http://instanttv.info:8080/TV-90912584/537929234391/75679
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nickelodeon" tvg-logo="" group-title="LATINO",|MX-FHD| Nickelodeon
+http://instanttv.info:8080/TV-90912584/537929234391/75680
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Nicktoons" tvg-logo="" group-title="LATINO",|MX-FHD| Nicktoons
+http://instanttv.info:8080/TV-90912584/537929234391/75681
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| NTN24" tvg-logo="" group-title="LATINO",|MX-FHD| NTN24
+http://instanttv.info:8080/TV-90912584/537929234391/75682
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Paramount Channel" tvg-logo="" group-title="LATINO",|MX-FHD| Paramount Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75683
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| RMS" tvg-logo="" group-title="LATINO",|MX-FHD| RMS
+http://instanttv.info:8080/TV-90912584/537929234391/75684
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| SEC Network" tvg-logo="" group-title="LATINO",|MX-FHD| SEC Network
+http://instanttv.info:8080/TV-90912584/537929234391/75685
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Sony Channel" tvg-logo="" group-title="LATINO",|MX-FHD| Sony Channel
+http://instanttv.info:8080/TV-90912584/537929234391/75686
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Space" tvg-logo="" group-title="LATINO",|MX-FHD| Space
+http://instanttv.info:8080/TV-90912584/537929234391/75687
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Star TVE" tvg-logo="" group-title="LATINO",|MX-FHD| Star TVE
+http://instanttv.info:8080/TV-90912584/537929234391/75688
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Studio Universal B2" tvg-logo="" group-title="LATINO",|MX-FHD| Studio Universal B2
+http://instanttv.info:8080/TV-90912584/537929234391/75689
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Sundance TV" tvg-logo="" group-title="LATINO",|MX-FHD| Sundance TV
+http://instanttv.info:8080/TV-90912584/537929234391/75690
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| SyFy" tvg-logo="" group-title="LATINO",|MX-FHD| SyFy
+http://instanttv.info:8080/TV-90912584/537929234391/75691
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TBS" tvg-logo="" group-title="LATINO",|MX-FHD| TBS
+http://instanttv.info:8080/TV-90912584/537929234391/75692
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TCM" tvg-logo="" group-title="LATINO",|MX-FHD| TCM
+http://instanttv.info:8080/TV-90912584/537929234391/75693
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TDN" tvg-logo="" group-title="LATINO",|MX-FHD| TDN
+http://instanttv.info:8080/TV-90912584/537929234391/75694
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Telehit Plus" tvg-logo="" group-title="LATINO",|MX-FHD| Telehit Plus
+http://instanttv.info:8080/TV-90912584/537929234391/75695
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Telenovelas" tvg-logo="" group-title="LATINO",|MX-FHD| Telenovelas
+http://instanttv.info:8080/TV-90912584/537929234391/75696
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Televisa Pueblo" tvg-logo="" group-title="LATINO",|MX-FHD| Televisa Pueblo
+http://instanttv.info:8080/TV-90912584/537929234391/75697
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TLC" tvg-logo="" group-title="LATINO",|MX-FHD| TLC
+http://instanttv.info:8080/TV-90912584/537929234391/75698
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TLR" tvg-logo="" group-title="LATINO",|MX-FHD| TLR
+http://instanttv.info:8080/TV-90912584/537929234391/75699
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TNT" tvg-logo="" group-title="LATINO",|MX-FHD| TNT
+http://instanttv.info:8080/TV-90912584/537929234391/75700
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TNT Series" tvg-logo="" group-title="LATINO",|MX-FHD| TNT Series
+http://instanttv.info:8080/TV-90912584/537929234391/75701
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Tooncast" tvg-logo="" group-title="LATINO",|MX-FHD| Tooncast
+http://instanttv.info:8080/TV-90912584/537929234391/75702
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Tru TV" tvg-logo="" group-title="LATINO",|MX-FHD| Tru TV
+http://instanttv.info:8080/TV-90912584/537929234391/75703
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TV Mas" tvg-logo="" group-title="LATINO",|MX-FHD| TV Mas
+http://instanttv.info:8080/TV-90912584/537929234391/75704
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TVE" tvg-logo="" group-title="LATINO",|MX-FHD| TVE
+http://instanttv.info:8080/TV-90912584/537929234391/75705
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TVO" tvg-logo="" group-title="LATINO",|MX-FHD| TVO
+http://instanttv.info:8080/TV-90912584/537929234391/75706
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| TVO D" tvg-logo="" group-title="LATINO",|MX-FHD| TVO D
+http://instanttv.info:8080/TV-90912584/537929234391/75707
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Unicable" tvg-logo="" group-title="LATINO",|MX-FHD| Unicable
+http://instanttv.info:8080/TV-90912584/537929234391/75708
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| VH1" tvg-logo="" group-title="LATINO",|MX-FHD| VH1
+http://instanttv.info:8080/TV-90912584/537929234391/75709
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| VH1" tvg-logo="" group-title="LATINO",|MX-FHD| VH1
+http://instanttv.info:8080/TV-90912584/537929234391/75710
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| VH1 Classic" tvg-logo="" group-title="LATINO",|MX-FHD| VH1 Classic
+http://instanttv.info:8080/TV-90912584/537929234391/75711
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Warner" tvg-logo="" group-title="LATINO",|MX-FHD| Warner
+http://instanttv.info:8080/TV-90912584/537929234391/75712
+#EXTINF:-1 tvg-ID="" tvg-name="|MX-FHD| Wobi" tvg-logo="" group-title="LATINO",|MX-FHD| Wobi
+http://instanttv.info:8080/TV-90912584/537929234391/75713
