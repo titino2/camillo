@@ -1,393 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| IRIS" tvg-logo="" group-title="ITALIA",|IT| IRIS
-http://instanttv.info:8080/TV-90912584/537929234391/73827
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 20 FULL HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 20 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73828
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 20 HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 20 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73829
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 5 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73830
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5 HD" tvg-logo="" group-title="ITALIA",|IT| CANALE 5 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73831
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| DEEJAY TV HD" tvg-logo="" group-title="ITALIA",|IT| DEEJAY TV HD
-http://instanttv.info:8080/TV-90912584/537929234391/73832
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| HSE 24 HD" tvg-logo="" group-title="ITALIA",|IT| HSE 24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73833
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| HUSTLER HD" tvg-logo="" group-title="ITALIA",|IT| HUSTLER HD
-http://instanttv.info:8080/TV-90912584/537929234391/73834
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| ITALIA 1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73835
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1 HD" tvg-logo="" group-title="ITALIA",|IT| ITALIA 1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73836
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA 7 FULL HD" tvg-logo="" group-title="ITALIA",|IT| LA 7 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73837
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA 7d FULL HD" tvg-logo="" group-title="ITALIA",|IT| LA 7d FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73838
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| NOVE FULL HD" tvg-logo="" group-title="ITALIA",|IT| NOVE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73839
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| Rai 1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73840
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 1 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73841
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 2 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73842
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 2 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73843
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 3 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73844
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 3 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73845
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 4 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73846
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 4 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 4 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73847
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI 5 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73848
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 5 HD" tvg-logo="" group-title="ITALIA",|IT| RAI 5 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73849
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI GULP FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI GULP FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73850
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI GULP HD" tvg-logo="" group-title="ITALIA",|IT| RAI GULP HD
-http://instanttv.info:8080/TV-90912584/537929234391/73851
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI MOVIE FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI MOVIE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73852
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI MOVIE HD" tvg-logo="" group-title="ITALIA",|IT| RAI MOVIE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73853
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI NEWS 24 HD" tvg-logo="" group-title="ITALIA",|IT| RAI NEWS 24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73854
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI PREMIUM FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI PREMIUM FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73855
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI PREMIUM HD" tvg-logo="" group-title="ITALIA",|IT| RAI PREMIUM HD
-http://instanttv.info:8080/TV-90912584/537929234391/73856
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SCUOLA FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI SCUOLA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73857
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SCUOLA HD" tvg-logo="" group-title="ITALIA",|IT| RAI SCUOLA HD
-http://instanttv.info:8080/TV-90912584/537929234391/73858
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SPORT   FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI SPORT   FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73859
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI SPORT   HD" tvg-logo="" group-title="ITALIA",|IT| RAI SPORT   HD
-http://instanttv.info:8080/TV-90912584/537929234391/73860
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI STORIA FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI STORIA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73861
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI STORIA HD" tvg-logo="" group-title="ITALIA",|IT| RAI STORIA HD
-http://instanttv.info:8080/TV-90912584/537929234391/73862
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI YOYO FULL HD" tvg-logo="" group-title="ITALIA",|IT| RAI YOYO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73863
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI YOYO HD" tvg-logo="" group-title="ITALIA",|IT| RAI YOYO HD
-http://instanttv.info:8080/TV-90912584/537929234391/73864
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| RETE 4 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73865
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4 HD" tvg-logo="" group-title="ITALIA",|IT| RETE 4 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73866
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| RTL 102.5 HD" tvg-logo="" group-title="ITALIA",|IT| RTL 102.5 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73867
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ARTE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73868
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE HD" tvg-logo="" group-title="ITALIA",|IT| SKY ARTE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73869
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ATLANTIC FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73870
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC HD" tvg-logo="" group-title="ITALIA",|IT| SKY ATLANTIC HD
-http://instanttv.info:8080/TV-90912584/537929234391/73871
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BABY TV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BABY TV FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73872
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BIKE CHANNEL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BIKE CHANNEL FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73873
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BIKE CHANNEL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BIKE CHANNEL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73874
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BLAZE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BLAZE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73875
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BLAZE HD" tvg-logo="" group-title="ITALIA",|IT| SKY BLAZE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73876
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BOOMERANG FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY BOOMERANG FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73877
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY BOOMERANG HD" tvg-logo="" group-title="ITALIA",|IT| SKY BOOMERANG HD
-http://instanttv.info:8080/TV-90912584/537929234391/73878
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CACCIA E PESCA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CACCIA E PESCA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73879
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73880
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73881
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 2 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73882
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 2 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73883
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 3 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73884
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 3 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 3 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73885
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 4 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 4 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73886
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 4 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 4 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73887
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 5 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 5 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73888
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 5 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 5 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73889
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 6 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 6 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73890
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 6 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 6 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73891
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 7 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 7 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73892
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 7 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 7 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73893
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CARTOON NETWORK FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CARTOON NETWORK FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73894
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CARTOON NETWORK HD" tvg-logo="" group-title="ITALIA",|IT| SKY CARTOON NETWORK HD
-http://instanttv.info:8080/TV-90912584/537929234391/73895
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ACTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ACTION FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73896
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ACTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ACTION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73897
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COLLECTION FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73898
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COLLECTION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73899
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COMEDY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73900
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA COMEDY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73901
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DRAMA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73902
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DRAMA HD
-http://instanttv.info:8080/TV-90912584/537929234391/73903
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE  24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE  24 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73904
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE  24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE  24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73905
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73906
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA DUE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73907
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA FAMILY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA FAMILY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73908
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA FAMILY HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA FAMILY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73909
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ROMANCE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73910
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA ROMANCE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73911
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA SUSPENSE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73912
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Canale 5" tvg-logo="" group-title="ITALIA",|IT| Canale 5
+http://instanttv.info:8080/TV-90912584/537929234391/77944
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Canale 5 (1080P)" tvg-logo="" group-title="ITALIA",|IT| Canale 5 (1080P)
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT|Italia 1" tvg-logo="" group-title="ITALIA",|IT|Italia 1
+http://instanttv.info:8080/TV-90912584/537929234391/77962
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rete 4" tvg-logo="" group-title="ITALIA",|IT| Rete 4
+http://instanttv.info:8080/TV-90912584/537929234391/77966
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| 20 MEDIASET FHD" tvg-logo="" group-title="ITALIA",|IT| 20 MEDIASET FHD
+http://instanttv.info:8080/TV-90912584/537929234391/77973
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| La 5" tvg-logo="" group-title="ITALIA",|IT| La 5
+http://instanttv.info:8080/TV-90912584/537929234391/77974
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA7" tvg-logo="" group-title="ITALIA",|IT| LA7
+http://instanttv.info:8080/TV-90912584/537929234391/77975
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA7d" tvg-logo="" group-title="ITALIA",|IT| LA7d
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 1 FHD" tvg-logo="" group-title="ITALIA",|IT| Rai 1 FHD
+http://instanttv.info:8080/TV-90912584/537929234391/77998
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 2" tvg-logo="" group-title="ITALIA",|IT| Rai 2
+http://instanttv.info:8080/TV-90912584/537929234391/77999
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 2 FHD" tvg-logo="" group-title="ITALIA",|IT| Rai 2 FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78000
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 3" tvg-logo="" group-title="ITALIA",|IT| Rai 3
+http://instanttv.info:8080/TV-90912584/537929234391/78001
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai 3 FHD" tvg-logo="" group-title="ITALIA",|IT| Rai 3 FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78002
+
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Movie" tvg-logo="" group-title="ITALIA",Rai Movie
+http://instanttv.info:8080/TV-90912584/537929234391/78013
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Movie (1080P)" tvg-logo="" group-title="ITALIA",Rai Movie (1080P)
+http://instanttv.info:8080/TV-90912584/537929234391/78014
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai News 24 FHD" tvg-logo="" group-title="ITALIA",|IT| Rai News 24 FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78015
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai Sport" tvg-logo="" group-title="ITALIA",|IT| Rai Sport
+http://instanttv.info:8080/TV-90912584/537929234391/78034
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai Sport + FHD" tvg-logo="" group-title="ITALIA",|IT| Rai Sport + FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78035
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai Storia" tvg-logo="" group-title="ITALIA",|IT| Rai Storia
+http://instanttv.info:8080/TV-90912584/537929234391/78036
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| Rai Storia FHD" tvg-logo="" group-title="ITALIA",|IT| Rai Storia FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78037
+
 #EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA SUSPENSE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73913
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO  24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO  24 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73914
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO  24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO  24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73915
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73916
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY CINEMA UNO HD
-http://instanttv.info:8080/TV-90912584/537929234391/73917
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CLASSICA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CLASSICA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73918
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY COMEDY CENTRAL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY COMEDY CENTRAL FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73919
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CRIME INVESTIGATION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY CRIME INVESTIGATION FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73920
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CRIME INVESTIGATION HD" tvg-logo="" group-title="ITALIA",|IT| SKY CRIME INVESTIGATION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73921
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR 2 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73922
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR 2 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73923
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73924
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DAZN BAR HD" tvg-logo="" group-title="ITALIA",|IT| SKY DAZN BAR HD
-http://instanttv.info:8080/TV-90912584/537929234391/73925
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA JUNIOR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA JUNIOR FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73926
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA JUNIOR HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA JUNIOR HD
-http://instanttv.info:8080/TV-90912584/537929234391/73927
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA KIDS FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA KIDS FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73928
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DEA KIDS HD" tvg-logo="" group-title="ITALIA",|IT| SKY DEA KIDS HD
-http://instanttv.info:8080/TV-90912584/537929234391/73929
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73930
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73931
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY SCI FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY SCI FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73932
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DISCOVERY SCI HD" tvg-logo="" group-title="ITALIA",|IT| SKY DISCOVERY SCI HD
-http://instanttv.info:8080/TV-90912584/537929234391/73933
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY DMAX FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY DMAX FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73934
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73935
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73936
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 2 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73937
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY EUROSPORT 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY EUROSPORT 2 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73938
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOOD NETWORK FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOOD NETWORK FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73939
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX CRIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX CRIME FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73940
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX CRIME HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX CRIME HD
-http://instanttv.info:8080/TV-90912584/537929234391/73941
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73942
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX HD" tvg-logo="" group-title="ITALIA",|IT| SKY FOX HD
-http://instanttv.info:8080/TV-90912584/537929234391/73943
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY GAMBERO ROSSO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY GAMBERO ROSSO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73944
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY GAMBERO ROSSO HD" tvg-logo="" group-title="ITALIA",|IT| SKY GAMBERO ROSSO HD
-http://instanttv.info:8080/TV-90912584/537929234391/73945
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HISTORY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY HISTORY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73946
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HISTORY HD" tvg-logo="" group-title="ITALIA",|IT| SKY HISTORY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73947
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY HORSE TV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY HORSE TV FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73948
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY INTER FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY INTER FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73949
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAEFFE FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAEFFE FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73950
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAEFFE HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAEFFE HD
-http://instanttv.info:8080/TV-90912584/537929234391/73951
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY LAZIO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY LAZIO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73952
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MILAN FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MILAN FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73953
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73954
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV HD
-http://instanttv.info:8080/TV-90912584/537929234391/73955
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MTV MUSIC FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY MTV MUSIC FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73956
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73957
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO HD
-http://instanttv.info:8080/TV-90912584/537929234391/73958
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO WILD FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO WILD FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73959
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NAT GEO WILD HD" tvg-logo="" group-title="ITALIA",|IT| SKY NAT GEO WILD HD
-http://instanttv.info:8080/TV-90912584/537929234391/73960
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICK JR FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICK JR FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73961
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICK JR HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICK JR HD
-http://instanttv.info:8080/TV-90912584/537929234391/73962
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICKELODEON FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICKELODEON FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73963
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY NICKELODEON HD" tvg-logo="" group-title="ITALIA",|IT| SKY NICKELODEON HD
-http://instanttv.info:8080/TV-90912584/537929234391/73964
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PASSION HD" tvg-logo="" group-title="ITALIA",|IT| SKY PASSION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73965
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PESCA E CACCIA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PESCA E CACCIA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73966
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM ACTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM ACTION FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73967
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM ACTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM ACTION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73968
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 +24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 +24 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73969
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 +24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 +24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73970
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA COMEDY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA COMEDY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73971
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA COMEDY HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA COMEDY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73972
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 3 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 3 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73973
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 3 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 3 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73974
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 2 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 2 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73975
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 2 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 2 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73976
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73977
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CINEMA 1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CINEMA 1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73978
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CRIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CRIME FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73979
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM CRIME HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM CRIME HD
-http://instanttv.info:8080/TV-90912584/537929234391/73980
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM JOY FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM JOY FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73981
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM JOY HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM JOY HD
-http://instanttv.info:8080/TV-90912584/537929234391/73982
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM STORIES FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM STORIES FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73983
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PREMIUM STORIES HD" tvg-logo="" group-title="ITALIA",|IT| SKY PREMIUM STORIES HD
-http://instanttv.info:8080/TV-90912584/537929234391/73984
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY REAL TIME FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY REAL TIME FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73985
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ROMA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY ROMA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73986
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT 24 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73987
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT 24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73988
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT ARENA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT ARENA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73989
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT ARENA HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT ARENA HD
-http://instanttv.info:8080/TV-90912584/537929234391/73990
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT COLELCTION FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT COLELCTION FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73991
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT COLLECTION HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT COLLECTION HD
-http://instanttv.info:8080/TV-90912584/537929234391/73992
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT F1 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT F1 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73993
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT F1 HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT F1 HD
-http://instanttv.info:8080/TV-90912584/537929234391/73994
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT FOOTBALL FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT FOOTBALL FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73995
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT FOOTBALL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT FOOTBALL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73996
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT MOTOGP FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73997
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT MOTOGP HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT MOTOGP HD
-http://instanttv.info:8080/TV-90912584/537929234391/73998
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT NBA FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT NBA FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/73999
+http://instanttv.info:8080/TV-90912584/537929234391/78043
+
 #EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT NBA HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT NBA HD
-http://instanttv.info:8080/TV-90912584/537929234391/74000
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT SERIE A FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT SERIE A FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/74001
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT SERIE A HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT SERIE A HD
-http://instanttv.info:8080/TV-90912584/537929234391/74002
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT UNO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/74003
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY SPORT UNO HD
-http://instanttv.info:8080/TV-90912584/537929234391/74004
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TG 24 HD" tvg-logo="" group-title="ITALIA",|IT| SKY TG 24 HD
-http://instanttv.info:8080/TV-90912584/537929234391/74005
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TG24 FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY TG24 FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/74006
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY TORINO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY TORINO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/74007
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY UNO FULL HD" tvg-logo="" group-title="ITALIA",|IT| SKY UNO FULL HD
-http://instanttv.info:8080/TV-90912584/537929234391/74008
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY UNO HD" tvg-logo="" group-title="ITALIA",|IT| SKY UNO HD
-http://instanttv.info:8080/TV-90912584/537929234391/74009
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| SPORT ITALIA HD" tvg-logo="" group-title="ITALIA",|IT| SPORT ITALIA HD
-http://instanttv.info:8080/TV-90912584/537929234391/74010
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| UNIRESAT HD" tvg-logo="" group-title="ITALIA",|IT| UNIRESAT HD
-http://instanttv.info:8080/TV-90912584/537929234391/74011
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| ALICE" tvg-logo="" group-title="ITALIA",|IT| ALICE
-http://instanttv.info:8080/TV-90912584/537929234391/74012
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| AUTOMOTO TV" tvg-logo="" group-title="ITALIA",|IT| AUTOMOTO TV
-http://instanttv.info:8080/TV-90912584/537929234391/74013
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| BABY TV" tvg-logo="" group-title="ITALIA",|IT| BABY TV
-http://instanttv.info:8080/TV-90912584/537929234391/74014
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| BLAZE SD" tvg-logo="" group-title="ITALIA",|IT| BLAZE SD
-http://instanttv.info:8080/TV-90912584/537929234391/74015
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| BOING" tvg-logo="" group-title="ITALIA",|IT| BOING
-http://instanttv.info:8080/TV-90912584/537929234391/74016
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| BOING PLUS" tvg-logo="" group-title="ITALIA",|IT| BOING PLUS
-http://instanttv.info:8080/TV-90912584/537929234391/74017
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CARTOONITO" tvg-logo="" group-title="ITALIA",|IT| CARTOONITO
-http://instanttv.info:8080/TV-90912584/537929234391/74018
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CIELO" tvg-logo="" group-title="ITALIA",|IT| CIELO
-http://instanttv.info:8080/TV-90912584/537929234391/74019
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CINE 34" tvg-logo="" group-title="ITALIA",|IT| CINE 34
-http://instanttv.info:8080/TV-90912584/537929234391/74020
-#EXTINF:-1 tvg-ID="" tvg-name="|IT| CLASS HORSE TV" tvg-logo="" group-title="ITALIA",|IT| CLASS HORSE TV
+http://instanttv.info:8080/TV-90912584/537929234391/78081
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CALCIO 1 FHD" tvg-logo="" group-title="ITALIA",|IT| SKY CALCIO 1 FHD
+http://instanttv.info:8080/TV-90912584/537929234391/78118
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 2HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 2HD
+http://instanttv.info:8080/TV-90912584/537929234391/78089
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 3HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 3HD
+http://instanttv.info:8080/TV-90912584/537929234391/78090
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 4HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 4HD
+http://instanttv.info:8080/TV-90912584/537929234391/78091
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 5HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 5HD
+http://instanttv.info:8080/TV-90912584/537929234391/78092
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 6HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 6HD
+http://instanttv.info:8080/TV-90912584/537929234391/78093
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 7HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 7HD
+http://instanttv.info:8080/TV-90912584/537929234391/78094
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 8HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 8HD
+http://instanttv.info:8080/TV-90912584/537929234391/78095
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 9HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 9HD
+http://instanttv.info:8080/TV-90912584/537929234391/78096
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 10HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 10HD
+http://instanttv.info:8080/TV-90912584/537929234391/78097
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 11HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 11HD
+http://instanttv.info:8080/TV-90912584/537929234391/78098
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 12HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 12HD
+http://instanttv.info:8080/TV-90912584/537929234391/78099
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 13HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 13HD
+http://instanttv.info:8080/TV-90912584/537929234391/78100
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 14HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 14HD
+http://instanttv.info:8080/TV-90912584/537929234391/78101
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 15HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 15HD
+http://instanttv.info:8080/TV-90912584/537929234391/78102
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PRIMA FILLA 16HD" tvg-logo="" group-title="ITALIA",|IT| PRIMA FILLA 16HD
+http://instanttv.info:8080/TV-90912584/537929234391/78103
+
 http://instanttv.info:8080/TV-90912584/537929234391/74021
 #EXTINF:-1 tvg-ID="M.LaLiga.es" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
 http://instanttv.info:8080/TV-90912584/537929234391/56222
